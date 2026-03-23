@@ -595,7 +595,7 @@ https://www.playwell.co.uk/images/SHOTORED1_02.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Korean Flag Patch 49",korean-flag-patch-49,publish,"<p>2 inches x 3 inches.</p>","<p>2 inches x 3 inches.</p>",P49,visible,190,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/koreanpatch.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Saint George's Cross Patch 70",saint-george's-cross-patch-70,publish,"<p>White background and outer border in white. 2 inches x 3 inches</p>","<p>White background and outer border in white. 2 inches x 3 inches</p>",P70,visible,74,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/stcorsspatch.jpg
+"Saint George's Cross Patch 70",saint-george's-cross-patch-70,publish,"<p>White background and outer border in white. 2 inches x 3 inches</p>","<p>White background and outer border in white. 2 inches x 3 inches</p>",P70,visible,73,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/stcorsspatch.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Scottish Flag Patch",scottish-flag-patch,publish,"2 inches x 4 inches","2 inches x 4 inches",PSCOT,visible,54,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/scottishpatch.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2044,7 +2044,7 @@ https://www.playwell.co.uk/images/karatestudentwhitecottonuniform1_03.jpg
 https://www.playwell.co.uk/images/karatestudentwhitecottonuniform1_04.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,3/160cm|4/170cm|5/180cm|6/190cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW3,,86,instock,,yes,27.99,,,,,,,,,KLW,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KLW4,,97,instock,,yes,27.99,,,,,,,,,KLW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KLW4,,96,instock,,yes,27.99,,,,,,,,,KLW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW5,,86,instock,,yes,28.98,,,,,,,,,KLW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW6,,76,instock,,yes,28.98,,,,,,,,,KLW,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW7,,0,outofstock,,yes,29.99,,,,,,,,,KLW,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6678,9 +6678,9 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5Y,,309,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5G,,920,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5O,,91,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5P,,75566,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5P,,75561,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BK,,76020,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5BU,,75158,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5BU,,75157,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BR,,75574,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6W,,76090,instock,,yes,5.85,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6R,,76061,instock,,yes,5.85,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6858,10 +6858,10 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 
 <p>&nbsp;</p>",B,visible,,,no,,,,0.25,"https://www.playwell.co.uk/images/COLOURBLACKSTRIPEBELTSNEW.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,Orange|Red|Yellow|Green|Purple|Blue|white|Brown,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4OBK,,98009,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4OBK,,97999,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4RBK,,97906,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4YBK,,97771,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4GBK,,98114,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4YBK,,97761,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4GBK,,98104,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4PBK,,98178,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BUBK,,98127,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4WBK,,98143,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6953,13 +6953,13 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5GW,,3257,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE38,,3204,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BUW,,3292,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5BKW,,3322,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5BKW,,3320,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE34,,3128,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4OW,,2261,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4OW,,2255,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4RW,,2466,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4YW,,125,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4GW,,2815,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DUPLICATE37,,2903,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4YW,,107,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4GW,,2813,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DUPLICATE37,,2898,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BUW,,2896,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BKW,,3275,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE33,,3001,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6999,7 +6999,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5WR,,3670,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WR,,3854,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WR,,3886,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2WY,,274,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2WY,,269,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4WY,,16,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WY,,3259,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WY,,3865,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7088,7 +7088,7 @@ https://www.playwell.co.uk/images/SPARCOBRAVINTAGE1_07.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,"250 cm|280 cm|300 cm|320 cm|340 cm|360 cm|260 cm|220 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4M,,10,instock,,yes,12.98,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5M,,60,instock,,yes,12.98,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B6M,,1,instock,,yes,12.98,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B6M,,0,outofstock,,yes,12.98,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7M,,24,instock,,yes,12.98,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34M,,6,instock,,yes,14.99,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36M,,9,instock,,yes,15.48,,,,,,,,,BM,,,,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8201,7 +8201,7 @@ https://www.playwell.co.uk/images/newitfstudent1_04.jpg
 ,,publish,,,ITF5,,29,instock,,yes,36.69,,,,,,,,,ITF,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF6,,49,instock,,yes,38.38,,,,,,,,,ITF,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF3,,28,instock,,yes,34.98,,,,,,,,,ITF,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITF4,,33,instock,,yes,35.84,,,,,,,,,ITF,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITF4,,32,instock,,yes,35.84,,,,,,,,,ITF,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Standard  Rubber Hand Gun : Black",standard--rubber-hand-gun-:-black,publish,"<p>Black rubber hand gun . Realistic design by Playwell for use and training in method of non-deadly force.</p>
 
 <p>&nbsp;</p>
@@ -9058,7 +9058,7 @@ Jutte,jutte,publish,"<p>Made Of Chrome Steel, Comes with tassle. Total Length of
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPTCSLION,visible,68,instock,no,yes,20.99,,0.35,"https://www.playwell.co.uk/images/liontaichipp.jpg
+<p>&nbsp;</p>",PPTCSLION,visible,67,instock,no,yes,20.99,,0.35,"https://www.playwell.co.uk/images/liontaichipp.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Polypropylene ""Hunter"" Training Knife - (E451) - PRE ORDER",polypropylene-&quot;hunter&quot;-training-knife---(e451)---pre-order,publish,"<div>
 <p>Plastic knife to harness your knife defences. Perfect your skills without fear of any injuries. Solid plastic handle for a firm grip. Carefully designed to look and feel as realistic as possible. Can be used for solo practice, training or disarm drills. Polypropylene plastic. Dimensions: 14cm blade and 12cm handle.</p>
@@ -9434,11 +9434,11 @@ https://www.playwell.co.uk/images/kickboxwhite1_01.jpg
 https://www.playwell.co.uk/images/kickboxwhite1_02.jpg
 https://www.playwell.co.uk/images/kickboxwhite1_03.jpg
 ",taxable,"Standard rate",variable,"Satin Full Contact Trousers","Satin Full Contact Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"160 cm|190 cm|200 cm|150 cm|140 cm|130 cm|120 cm|110 cm|170 cm|180 cm",0|1|1,,,,,,,,,,,,,,,,,,,
-,,publish,,,CTSKICKBOX3,,19,instock,,yes,22.74,,,,,,,,,CTSKICKBOX,,,,,,"160 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,CTSKICKBOX3,,15,instock,,yes,22.74,,,,,,,,,CTSKICKBOX,,,,,,"160 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,CTSKICKBOX6,,11,instock,,yes,24.48,,,,,,,,,CTSKICKBOX,,,,,,"190 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,CTSKICKBOX7,,0,outofstock,,yes,24.99,,,,,,,,,CTSKICKBOX,,,,,,"200 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,CTSKICKBOX2,,11,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"150 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,CTSKICKBOX1,,276,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"140 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,CTSKICKBOX2,,7,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"150 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,CTSKICKBOX1,,272,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"140 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,CTSKICKBOX0,,282,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"130 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,CTSKICKBOX00,,289,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"120 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,CTSKICKBOX000,,267,instock,,yes,21.99,,,,,,,,,CTSKICKBOX,,,,,,"110 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9508,7 +9508,7 @@ Height Diameter Weight<br />
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",3SECRUBBB1,visible,36,instock,no,yes,28.98,,0.9,"https://www.playwell.co.uk/images/3sectionalrubber.jpg
+<p>&nbsp;</p>",3SECRUBBB1,visible,35,instock,no,yes,28.98,,0.9,"https://www.playwell.co.uk/images/3sectionalrubber.jpg
 ",taxable,"Standard rate",simple,"Autumn/Winter Sales / Offers 2026","Autumn/Winter Sales / Offers 2026",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Cold Steel Polypropylene Spear Head Trainer",cold-steel-polypropylene-spear-head-trainer,publish,"<p>Now you can practice with some of our most popular knife designs in relative safety - with our rubber training knives!<br />
 <br />
@@ -24840,8 +24840,8 @@ https://www.playwell.co.uk/images/floormakiwara1_04.jpg
 
 <p>Deluxe Quality White Oak Staff That is completeley waxed off and Smooth Finish So no Splinters when Training !</p>",BOWWAX72,visible,,,no,,,,20,"https://www.playwell.co.uk/images/white-wax-bo-staff-9.jpg
 ",taxable,"Standard rate",variable,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1.25""|1""",0|1|1,,,,,,,,,,
-,,publish,,,BOWWAX72thick,,4,instock,,yes,26.99,,,,,,,,,BOWWAX72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOWWAX72thin,,4,instock,,yes,26.99,,,,,,,,,BOWWAX72,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOWWAX72thick,,0,outofstock,,yes,26.99,,,,,,,,,BOWWAX72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOWWAX72thin,,0,outofstock,,yes,26.99,,,,,,,,,BOWWAX72,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival Boxing RPM7 Fitness Punch Mitts - Blue",rival-boxing-rpm7-fitness-punch-mitts---blue,publish,"<p>Rival Boxing RPM7 Fitness Punch Mitts Blue</p>
 
 <p>&nbsp;</p>
@@ -29194,7 +29194,7 @@ https://www.playwell.co.uk/images/ppbspear1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NUNSPIRJING,visible,170,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/spiraljingle1.jpg
+<p>&nbsp;</p>",NUNSPIRJING,visible,169,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/spiraljingle1.jpg
 https://www.playwell.co.uk/images/spiraljingle1_01.jpg
 https://www.playwell.co.uk/images/spiraljingle1_02.jpg
 https://www.playwell.co.uk/images/spiraljingle1_03.jpg
@@ -53727,8 +53727,8 @@ https://www.playwell.co.uk/images/top-ten-boxing-gloves-fight-black_01.jpg
 ,,publish,,,,,0,outofstock,,yes,27.90,,,,,,,,,kwongroinmens,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kwon WT Approved Cometition Hand Protector",kwon-wt-approved-cometition-hand-protector,publish,"<p>Hand Protector Taekwondo - WT recognized Produced according to and officially recognized by the WT. Excellent fit. Made of PU material with EVA foam cushioning. Hook and loop fastener on the wrist. Colour: white</p>","<p>Hand Protector Taekwondo - WT recognized Produced according to and officially recognized by the WT. Excellent fit. Made of PU material with EVA foam cushioning. Hook and loop fastener on the wrist. Colour: white</p>",kwongloves,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/kwongloves.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|X - Small|Medium|Small",0|1|1,,,,,,,
-,,publish,,,kwonglovessl,,3,instock,,yes,26.99,,,,,,,,,kwongloves,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,kwonglovesxs,,3,instock,,yes,26.99,,,,,,,,,kwongloves,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,kwonglovessl,,0,outofstock,,yes,26.99,,,,,,,,,kwongloves,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,kwonglovesxs,,0,outofstock,,yes,26.99,,,,,,,,,kwongloves,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,26.99,,,,,,,,,kwongloves,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,26.99,,,,,,,,,kwongloves,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Pride or Die Fight For Honour  MMA Fight Shorts",pride-or-die-fight-for-honour--mma-fight-shorts,publish,"<p>Technical characteristics : - 100% Polyester Microfibre. - Elastic waistband and drawstring for a reliable and precise fit. - Lycra band at the crotch. - Side slits. - Piping finish to prevent premature wear. - Completely sublimated uncompromising PoD design. - Machine washable (30&deg;).</p>","<p>Technical characteristics : - 100% Polyester Microfibre. - Elastic waistband and drawstring for a reliable and precise fit. - Lycra band at the crotch. - Side slits. - Piping finish to prevent premature wear. - Completely sublimated uncompromising PoD design. - Machine washable (30&deg;).</p>",HONOURSHORTS,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/HONOUR1.jpg
@@ -67379,7 +67379,7 @@ https://www.playwell.co.uk/images/ppropedart1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NR-00PURPLECHAIN,visible,55,instock,no,yes,12.98,,0.35,"https://www.playwell.co.uk/images/purple12chain.jpg
+<p>&nbsp;</p>",NR-00PURPLECHAIN,visible,23,instock,no,yes,12.98,,0.35,"https://www.playwell.co.uk/images/purple12chain.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "NR-00P8: Nunchaku Foam Purple W/ Chain - 8""",nr-00p8:-nunchaku-foam-purple-w/-chain---8&quot;,publish,"<p>First Exclusive in Europe&nbsp;Foam Nunchucks for children Now available in Purple Colour&nbsp;&nbsp;For Girls and Ladies&nbsp; with Dragon print. Diameter of Handles approx 1.2 inches, Length of Handles&nbsp;8 inches,</p>
 
@@ -67626,7 +67626,7 @@ https://www.playwell.co.uk/images/Japanese-Cross-Spear_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NR-00PURPLE8cord,visible,94,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/PURPLE12CORD.jpg
+<p>&nbsp;</p>",NR-00PURPLE8cord,visible,74,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/PURPLE12CORD.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival Boxing RB10 Intelli Shock Bag Gloves - White",rival-boxing-rb10-intelli-shock-bag-gloves---white,publish,"<p>Rival Boxing RB10 Intelli Shock Bag Gloves Red</p>
 
@@ -79641,9 +79641,9 @@ Wide, Lateral Eye Opening<br />
 Printed Rival Graphics<br />
 Rival 100 Series Rubber Patch on the Forehead</p>",rivalrhg100headblue,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/rhg100blue.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medium|Large|X - Large",0|1|1,
-,,publish,,,rivalrhg100headbluem,,9,instock,,yes,169.98,,,,,,,,,rivalrhg100headblue,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,rivalrhg100headbluel,,11,instock,,yes,169.98,,,,,,,,,rivalrhg100headblue,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,rivalrhg100headbluexl,,11,instock,,yes,169.98,,,,,,,,,rivalrhg100headblue,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,rivalrhg100headbluem,,0,outofstock,,yes,169.98,,,,,,,,,rivalrhg100headblue,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,rivalrhg100headbluel,,0,outofstock,,yes,169.98,,,,,,,,,rivalrhg100headblue,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,rivalrhg100headbluexl,,0,outofstock,,yes,169.98,,,,,,,,,rivalrhg100headblue,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival Boxing RHG100 Proffessional Sparring Head Guard - Green",rival-boxing-rhg100-proffessional-sparring-head-guard---green,publish,"<p>Meticulously designed and expertly handcrafted using only the highest quality materials available, the RHG100 offers the ultimate balance of comfort and protection. Featuring Rival&rsquo;s unique Feather Lite construction, this professional headgear has been developed using a combination of ultra-lightweight, yet highly protective foams, and may possibly be the lightest headgear you&rsquo;ve ever worn.<br />
 <br />
 This beauty is made of durable, super rich microfibre and has a soft Nash lining. With safety and functionality at the forefront of its design, the RHG100 combines large cheek protectors with a wide, lateral eye opening that provides maximum visibility without compromising protection. The vintage-inspired lace adjustment system allows it to be fitted to perfection from both the top and the back, while an additional layer of neoprene helps shield the head from the laces and offers an even more secure fit.<br />
@@ -86363,3 +86363,183 @@ https://www.playwell.co.uk/images/Fly-Boxing-Superloop-x-2-Boxing-Gloves-Black-P
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10 oz|12 oz",0|1|1,
 ,,publish,,,superloopglovesblackpink10,,1,instock,,yes,189.99,,,,,,,,,superloopglovesblackpink,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,superloopglovesblackpink12,,1,instock,,yes,189.99,,,,,,,,,superloopglovesblackpink,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"FLY Boxing Superlace X2 Sparring Gloves - Black",fly-boxing-superlace-x2-sparring-gloves---black,publish,"Laced Precision. Elevated Protection. 
+
+Engineered for those who demand elite performance, the Superlace Pro X2 is the next evolution in our best-selling lace-up glove. With refined details and enhanced ergonomics, it delivers unmatched fit, support, and power with every strike. 
+
+What’s New in the Pro X2: 
+
+    Higher cuff line for improved wrist alignment and support 
+
+    Redesigned ergonomic thumb and optimised fist grip positioning 
+
+    Added thumb tip protection for enhanced safety 
+
+Key Features: 
+
+    Traditional lace-up design for a custom, locked-in fit 
+
+    Engineered artificial leather shell with reinforced double stitching for maximum durability 
+
+    High-density foam for ergonomic comfort and elite-level impact absorption 
+
+    Trusted by athletes of all levels – from grassroots to professional 
+
+    Iconic Fly Icarus branding, available in bold and classic colourways 
+
+    Optional personalisation (non-refundable) with a 3–5 day lead time on customised orders 
+
+Built for precision, crafted for champions — the Superlace Pro X2 sets a new standard in lace-up fight gloves.","Laced Precision. Elevated Protection. 
+
+Engineered for those who demand elite performance, the Superlace Pro X2 is the next evolution in our best-selling lace-up glove. With refined details and enhanced ergonomics, it delivers unmatched fit, support, and power with every strike. 
+
+What’s New in the Pro X2: 
+
+    Higher cuff line for improved wrist alignment and support 
+
+    Redesigned ergonomic thumb and optimised fist grip positioning 
+
+    Added thumb tip protection for enhanced safety 
+
+Key Features: 
+
+    Traditional lace-up design for a custom, locked-in fit 
+
+    Engineered artificial leather shell with reinforced double stitching for maximum durability 
+
+    High-density foam for ergonomic comfort and elite-level impact absorption 
+
+    Trusted by athletes of all levels – from grassroots to professional 
+
+    Iconic Fly Icarus branding, available in bold and classic colourways 
+
+    Optional personalisation (non-refundable) with a 3–5 day lead time on customised orders 
+
+Built for precision, crafted for champions — the Superlace Pro X2 sets a new standard in lace-up fight gloves.",superlaceglovesblack,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Fly-Boxing-Superlace-Pro-X-2-Gloves-Black.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superlace-Pro-X-2-Gloves-Black_01.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superlace-Pro-X-2-Gloves-Black_02.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superlace-Pro-X-2-Gloves-Black_03.jpg
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16 oz|12 oz|14 oz",0|1|1,
+,,publish,,,superlaceglovesblack16,,1,instock,,yes,189.99,,,,,,,,,superlaceglovesblack,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,superlaceglovesblack12,,1,instock,,yes,189.99,,,,,,,,,superlaceglovesblack,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,superlaceglovesblack14,,1,instock,,yes,189.99,,,,,,,,,superlaceglovesblack,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Fly Boxing Superloop X2 Sparring Gloves - All Black",fly-boxing-superloop-x2-sparring-gloves---all-black,publish,"Fast Fit. Maximum Control. 
+
+The Superloop Pro X2 redefines the convenience and performance of hook-and-loop gloves. Now with advanced ergonomic updates, this second-generation glove brings enhanced support, improved thumb protection, and the same premium quality trusted by top athletes. 
+
+What’s New in the Pro X2: 
+
+    Raised cuff line for enhanced wrist stability 
+
+    Updated thumb shape and fist grip placement for improved hand mechanics 
+
+    Reinforced thumb tip protection for safer sparring and training 
+
+Key Features: 
+
+    Quick hook-and-loop closure for fast, secure wear 
+
+    Durable engineered artificial leather with double stitching and premium lining 
+
+    High-density foam for optimum comfort, shock absorption, and hand positioning 
+
+    Designed for fighters of all levels – amateur to elite 
+
+    Finished with Fly Icarus branding and available in a range of standout colourways 
+
+    Optional personalisation (non-refundable), with a 3–5 day lead time on customised pieces 
+
+Train smarter, hit harder — the Superloop Pro X2 is built to deliver in every session.","Fast Fit. Maximum Control. 
+
+The Superloop Pro X2 redefines the convenience and performance of hook-and-loop gloves. Now with advanced ergonomic updates, this second-generation glove brings enhanced support, improved thumb protection, and the same premium quality trusted by top athletes. 
+
+What’s New in the Pro X2: 
+
+    Raised cuff line for enhanced wrist stability 
+
+    Updated thumb shape and fist grip placement for improved hand mechanics 
+
+    Reinforced thumb tip protection for safer sparring and training 
+
+Key Features: 
+
+    Quick hook-and-loop closure for fast, secure wear 
+
+    Durable engineered artificial leather with double stitching and premium lining 
+
+    High-density foam for optimum comfort, shock absorption, and hand positioning 
+
+    Designed for fighters of all levels – amateur to elite 
+
+    Finished with Fly Icarus branding and available in a range of standout colourways 
+
+    Optional personalisation (non-refundable), with a 3–5 day lead time on customised pieces 
+
+Train smarter, hit harder — the Superloop Pro X2 is built to deliver in every session.",superloopglovesallblack,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Pro-X-2-Gloves-Black0.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Pro-X-2-Gloves-Black0_01.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Pro-X-2-Gloves-Black0_02.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Pro-X-2-Gloves-Black0_03.jpg
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|12 oz|16 oz|18 oz",0|1|1,
+,,publish,,,superloopglovesallblack14,,1,instock,,yes,189.99,,,,,,,,,superloopglovesallblack,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,superloopglovesallblack12,,1,instock,,yes,189.99,,,,,,,,,superloopglovesallblack,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,superloopglovesallblack16,,1,instock,,yes,189.99,,,,,,,,,superloopglovesallblack,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,superloopglovesallblack18,,1,instock,,yes,189.99,,,,,,,,,superloopglovesallblack,,,,,,,,,"18 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"FLY Boxing Superloop Team  Sparring Gloves - White",fly-boxing-superloop-team--sparring-gloves---white,publish,"Meet the FLY Team. Created for those starting their boxing journey. Engineered with the same premium standards FLY is known for, it delivers durability, comfort, and protection, giving new boxers the perfect start to their journey.
+
+Key features:
+
+    High density protective foam padding – absorbs impact for safer training.
+
+    Comfortable thumb position – designed to reduce strain and improve fit.
+
+    Sweat wicking lining for hand comfort – keeps your hands cool and dry.
+
+    Hook & loop closure ensuring strong wrist support – locks in stability every round","Meet the FLY Team. Created for those starting their boxing journey. Engineered with the same premium standards FLY is known for, it delivers durability, comfort, and protection, giving new boxers the perfect start to their journey.
+
+Key features:
+
+    High density protective foam padding – absorbs impact for safer training.
+
+    Comfortable thumb position – designed to reduce strain and improve fit.
+
+    Sweat wicking lining for hand comfort – keeps your hands cool and dry.
+
+    Hook & loop closure ensuring strong wrist support – locks in stability every round",siperlooptemwhitegloves,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-White.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-White_01.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-White_02.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-White_03.jpg
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12 oz|16 oz|14 oz|10 oz",0|1|1,
+,,publish,,,"	siperlooptemwhitegloves12",,1,instock,,yes,95.00,,,,,,,,,siperlooptemwhitegloves,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	siperlooptemwhitegloves16",,1,instock,,yes,95.00,,,,,,,,,siperlooptemwhitegloves,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	siperlooptemwhitegloves14",,0,outofstock,,yes,95.00,,,,,,,,,siperlooptemwhitegloves,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	siperlooptemwhitegloves10",,1,instock,,yes,95.00,,,,,,,,,siperlooptemwhitegloves,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"FLY Boxing Superloop Team  Sparring Gloves - Black",fly-boxing-superloop-team--sparring-gloves---black,publish,"Meet the FLY Team. Created for those starting their boxing journey. Engineered with the same premium standards FLY is known for, it delivers durability, comfort, and protection, giving new boxers the perfect start to their journey.
+
+Key features:
+
+    High density protective foam padding – absorbs impact for safer training.
+
+    Comfortable thumb position – designed to reduce strain and improve fit.
+
+    Sweat wicking lining for hand comfort – keeps your hands cool and dry.
+
+    Hook & loop closure ensuring strong wrist support – locks in stability every round","Meet the FLY Team. Created for those starting their boxing journey. Engineered with the same premium standards FLY is known for, it delivers durability, comfort, and protection, giving new boxers the perfect start to their journey.
+
+Key features:
+
+    High density protective foam padding – absorbs impact for safer training.
+
+    Comfortable thumb position – designed to reduce strain and improve fit.
+
+    Sweat wicking lining for hand comfort – keeps your hands cool and dry.
+
+    Hook & loop closure ensuring strong wrist support – locks in stability every round",siperlooptemblackgloves,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-Black.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-Black_01.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-Black_02.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-Black_03.jpg
+https://www.playwell.co.uk/images/Fly-Boxing-Superloop-Team-Gloves-Black_04.jpg
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12 oz|16 oz|14 oz|10 oz",0|1|1,
+,,publish,,,siperlooptemblackgloves12,,0,outofstock,,yes,95.00,,,,,,,,,siperlooptemblackgloves,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,siperlooptemblackgloves16,,1,instock,,yes,95.00,,,,,,,,,siperlooptemblackgloves,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,siperlooptemblackgloves14,,1,instock,,yes,95.00,,,,,,,,,siperlooptemblackgloves,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,siperlooptemblackgloves10,,1,instock,,yes,95.00,,,,,,,,,siperlooptemblackgloves,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
