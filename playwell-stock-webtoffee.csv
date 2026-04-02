@@ -6647,8 +6647,8 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B34BU,,16,instock,,yes,7.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B3BR,,5,instock,,yes,7.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36W,,18,instock,,yes,7.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B36R,,11,instock,,yes,7.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B36Y,,21,instock,,yes,7.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B36R,,9,instock,,yes,7.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B36Y,,20,instock,,yes,7.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36G,,7,instock,,yes,7.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36O,,8,instock,,yes,7.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36P,,15,instock,,yes,7.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7970,7 +7970,7 @@ https://www.playwell.co.uk/images/W204_01.jpg
 ",taxable,"Standard rate",variable,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"38 - ( 46 Inches )|34 - (41 Inches)|39 - ( 47 Inches )|36 - ( 42 Inches )",0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSHIN38,,38,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"38 - ( 46 Inches )",,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSHIN34,,49,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"34 - (41 Inches)",,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSHIN39,,46,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"39 - ( 47 Inches )",,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSHIN39,,45,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"39 - ( 47 Inches )",,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSHIN36,,22,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"36 - ( 42 Inches )",,,,,,,,,,,,,,,,,,,,,
 "Ninja Wooden Black Bokken - 34""",ninja-wooden-black-bokken---34&quot;,publish,"<p>Ninja Black Wooden bokken complete with square tsube. Total Length of Bokken 34 Inches. Length handles 9 inches.</p>
 
@@ -14843,7 +14843,7 @@ https://www.playwell.co.uk/images/Ringside-Protect-G2-Hook-And-Jab-Boxing-Focus-
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RUBBERGLOCK,visible,64,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
+<p>&nbsp;</p>",RUBBERGLOCK,visible,63,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
 https://www.playwell.co.uk/images/newglock1_01.jpg
 https://www.playwell.co.uk/images/newglock1_02.jpg
 https://www.playwell.co.uk/images/newglock1_03.jpg
@@ -17113,9 +17113,9 @@ https://www.playwell.co.uk/images/VENUMCHRED1_03.jpg
 https://www.playwell.co.uk/images/VENUMCHRED1_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|10 oz|12 oz|16 oz",0|1|1,,,,,,,,,,
 ,,publish,,,VENUMBLACKREDCGLOVES14,,2,instock,,yes,54.99,,,,,,,,,VENUMBLACKREDCGLOVES,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENUMBLACKREDCGLOVES10,,1,instock,,yes,54.99,,,,,,,,,VENUMBLACKREDCGLOVES,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,VENUMBLACKREDCGLOVES10,,0,outofstock,,yes,54.99,,,,,,,,,VENUMBLACKREDCGLOVES,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENUMBLACKREDCGLOVES12,,1,instock,,yes,54.99,,,,,,,,,VENUMBLACKREDCGLOVES,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENUMBLACKREDCGLOVES16,,1,instock,,yes,54.99,,,,,,,,,VENUMBLACKREDCGLOVES,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,VENUMBLACKREDCGLOVES16,,0,outofstock,,yes,54.99,,,,,,,,,VENUMBLACKREDCGLOVES,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Tanto With Laquered Scabbard",deluxe-tanto-with-laquered-scabbard,publish,"<p>High quality steel tanto with black lacquer scabbard and gold tassel. Semi Sharp Blade</p>","<p>High quality steel tanto with black lacquer scabbard and gold tassel. Semi Sharp Blade</p>",,visible,42,instock,no,yes,36.98,,1,"https://www.playwell.co.uk/images/Deluxe-Tanto-Lacquered-Scabbard-D105.jpeg
 ",taxable,"Standard rate",simple,"Swords and Knives","Swords and Knives",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Dragon Sword Stand 2 Tier -  PP Material",dragon-sword-stand-2-tier----pp-material,publish,"<p>Sword Stand. Black 2 tier. Suitable For Samurai Katanas Wakazashis.</p>
@@ -17850,7 +17850,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 
 <div>&nbsp;</div>
 
-<p>&nbsp;</p>",BOGTAP2BURD,visible,131,instock,no,yes,59.99,,10,"https://www.playwell.co.uk/images/BLUE2PCTAPERED1.jpg
+<p>&nbsp;</p>",BOGTAP2BURD,visible,129,instock,no,yes,59.99,,10,"https://www.playwell.co.uk/images/BLUE2PCTAPERED1.jpg
 https://www.playwell.co.uk/images/BLUE2PCTAPERED1_01.jpg
 https://www.playwell.co.uk/images/BLUE2PCTAPERED1_02.jpg
 https://www.playwell.co.uk/images/BLUE2PCTAPERED1_03.jpg
@@ -22065,7 +22065,7 @@ https://www.playwell.co.uk/images/Venum-Challenger-Pro-Trainer-Lite-Sports-Bag-B
 
 <p>Measurements 37&quot;X6.5&quot;X3&quot;</p>
 
-<p>&nbsp;</p>",BDBK,visible,62,instock,no,yes,19.98,,1.5,"https://www.playwell.co.uk/images/budokanji1.jpg
+<p>&nbsp;</p>",BDBK,visible,60,instock,no,yes,19.98,,1.5,"https://www.playwell.co.uk/images/budokanji1.jpg
 https://www.playwell.co.uk/images/budokanji1_01.jpg
 https://www.playwell.co.uk/images/budokanji1_02.jpg
 https://www.playwell.co.uk/images/budokanji1_03.jpg
@@ -25654,7 +25654,7 @@ https://www.playwell.co.uk/images/Venum-Challenger-4.0-Boxing-Gloves-Black-White
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BO60PLAINRATT,visible,17,instock,no,yes,25.98,,18,"https://www.playwell.co.uk/images/borattannewimage.jpg
+<p>&nbsp;</p>",BO60PLAINRATT,visible,16,instock,no,yes,25.98,,18,"https://www.playwell.co.uk/images/borattannewimage.jpg
 ",taxable,"Standard rate",simple,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Jo staff Red Oak Straight  - 50""",jo-staff-red-oak-straight----50&quot;,publish,"<p>Jo staff Made of the finest Red Oak Wood. Hardwood. Total Length 50 inches. Diameter Sizes Available in two Options</p>
 
@@ -38938,7 +38938,7 @@ https://www.playwell.co.uk/images/heavyboxinggloves1_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BHWCHILDBLUE,visible,49,instock,no,yes,5.9900,,0.3,"https://www.playwell.co.uk/images/KIDSBLUEWRAPS1.jpg
+<p>&nbsp;</p>",BHWCHILDBLUE,visible,48,instock,no,yes,5.9900,,0.3,"https://www.playwell.co.uk/images/KIDSBLUEWRAPS1.jpg
 https://www.playwell.co.uk/images/KIDSBLUEWRAPS1_01.jpg
 ",taxable,"Standard rate",simple,"Boxing Wraps & MouthGuards","Boxing Wraps & MouthGuards",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Semi Contact Point Sparring Gloves: Pink - NEW",semi-contact-point-sparring-gloves:-pink---new,publish,"<p>Excellent moulded Gloves. Made of High Quality Syntec Leather, with round elastic fastening. Very easy to slip on and off the hand.&nbsp; Made With High Absorbant MFS Foam Padding, New Moisture Absorbing Inner Lining,&nbsp;</p>
@@ -43206,7 +43206,7 @@ https://www.playwell.co.uk/images/boashstraight_01.jpg
 https://www.playwell.co.uk/images/boashstraight_02.jpg
 ",taxable,"Standard rate",variable,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1""|1.25""",0|1|1,,,,,,,
 ,,publish,,,BOA721,,8,instock,,yes,27.99,,,,,,,,,BOA72,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOA721.25,,10,instock,,yes,27.99,,,,,,,,,BOA72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOA721.25,,9,instock,,yes,27.99,,,,,,,,,BOA72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival Boxing RS1 2.0 Ultra Sparring Gloves - Black",rival-boxing-rs1-2.0-ultra-sparring-gloves---black,publish,"<p>Rival Boxing RS1-2.0 Ultra Sparring Gloves Black</p>
 
 <p>&nbsp;</p>
@@ -43569,7 +43569,7 @@ https://www.playwell.co.uk/images/balicki_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",GUNM013,visible,43,instock,no,yes,16.98,,0.35,"https://www.playwell.co.uk/images/newrevolver1.jpg
+<p>&nbsp;</p>",GUNM013,visible,42,instock,no,yes,16.98,,0.35,"https://www.playwell.co.uk/images/newrevolver1.jpg
 https://www.playwell.co.uk/images/newrevolver1_01.jpg
 https://www.playwell.co.uk/images/newrevolver1_02.jpg
 https://www.playwell.co.uk/images/newrevolver1_03.jpg
@@ -54650,7 +54650,7 @@ Technical features:<br />
 ",taxable,"Standard rate",variable,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large|X - Large",0|1|1,,,,,,,
 ,,publish,,,VENESPBKWXS,,0,outofstock,,yes,26.99,,,,,,,,,VENESPBKW,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENESPBKWS,,0,outofstock,,yes,26.99,,,,,,,,,VENESPBKW,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENESPBKWM,,2,instock,,yes,26.99,,,,,,,,,VENESPBKW,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,VENESPBKWM,,1,instock,,yes,26.99,,,,,,,,,VENESPBKW,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENESPBKWL,,6,instock,,yes,26.99,,,,,,,,,VENESPBKW,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENESPBKWXL,,4,instock,,yes,26.99,,,,,,,,,VENESPBKW,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "ABS Samurai Katana Interchangeable Handle Cover",abs-samurai-katana-interchangeable-handle-cover,publish,"<p>Interchangeable handle covers for your ABS Samurai Katana now in stock available in 4 colours</p>
@@ -55641,7 +55641,7 @@ https://www.playwell.co.uk/images/compblacksword1_05.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",SABERSWORD,visible,189,instock,no,yes,31.98,,1,"https://www.playwell.co.uk/images/ppnewsabersword1.jpg
+<p>&nbsp;</p>",SABERSWORD,visible,188,instock,no,yes,31.98,,1,"https://www.playwell.co.uk/images/ppnewsabersword1.jpg
 https://www.playwell.co.uk/images/ppnewsabersword1_01.jpg
 https://www.playwell.co.uk/images/ppnewsabersword1_02.jpg
 https://www.playwell.co.uk/images/ppnewsabersword1_03.jpg
@@ -55907,7 +55907,7 @@ https://www.playwell.co.uk/images/SO23AXE_03.jpg
 
 <p>Diameter - 0.75 Inches</p>
 
-<p>Weight : 130 Grams&nbsp;<span style=""color:#e74c3c;""><strong>&nbsp;</strong></span></p>",speedchucksfoam11,visible,117,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/comp11foam1.jpg
+<p>Weight : 130 Grams&nbsp;<span style=""color:#e74c3c;""><strong>&nbsp;</strong></span></p>",speedchucksfoam11,visible,116,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/comp11foam1.jpg
 https://www.playwell.co.uk/images/comp11foam1_01.jpg
 https://www.playwell.co.uk/images/comp11foam1_02.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -72023,7 +72023,7 @@ https://www.playwell.co.uk/images/KT-Tape-Pro-Oxygen-Titanium_03.jpg
 	<li>Adjustable Length</li>
 </ul>",rivalecono,visible,5,instock,no,yes,4.98,,0.35,"https://www.playwell.co.uk/images/rivaleconorope.jpg
 ",taxable,"Standard rate",simple,"Skipping Ropes","Skipping Ropes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Rival Boxing Aero Speed Jump Rope ( Adjustable )",rival-boxing-aero-speed-jump-rope-(-adjustable-),publish,"<p>Introducing the Rival Aero Jump Rope, the ultimate fitness companion for those seeking a smooth and efficient cardio workout. Designed to elevate your jump rope game, this innovative fitness tool boasts Airflow Handles, ensuring a comfortable grip that allows air to circulate and keep your palms sweat-free. Crafted from durable PVC and polymer materials, this jump rope guarantees long-lasting performance, withstanding even the most intense workouts. The generous 10-foot cable with adjustable length lets you customize the rope to your preference, ensuring a perfect fit for your height. Whether you&#39;re honing your agility, improving your cardio or perfecting your coordination, the Rival Aero Jump Rope is your trusted partner in achieving your fitness goals. FEATURES Airflow Handles 10ft (3m) PVC &amp; Polymer Cable Adjustable Length</p>","<p>Introducing the Rival Aero Jump Rope, the ultimate fitness companion for those seeking a smooth and efficient cardio workout. Designed to elevate your jump rope game, this innovative fitness tool boasts Airflow Handles, ensuring a comfortable grip that allows air to circulate and keep your palms sweat-free. Crafted from durable PVC and polymer materials, this jump rope guarantees long-lasting performance, withstanding even the most intense workouts. The generous 10-foot cable with adjustable length lets you customize the rope to your preference, ensuring a perfect fit for your height. Whether you&#39;re honing your agility, improving your cardio or perfecting your coordination, the Rival Aero Jump Rope is your trusted partner in achieving your fitness goals. FEATURES Airflow Handles 10ft (3m) PVC &amp; Polymer Cable Adjustable Length</p>",rivalaerorope,visible,5,instock,no,yes,7.98,,0.35,"https://www.playwell.co.uk/images/rivalaeroropered.jpg
+"Rival Boxing Aero Speed Jump Rope ( Adjustable )",rival-boxing-aero-speed-jump-rope-(-adjustable-),publish,"<p>Introducing the Rival Aero Jump Rope, the ultimate fitness companion for those seeking a smooth and efficient cardio workout. Designed to elevate your jump rope game, this innovative fitness tool boasts Airflow Handles, ensuring a comfortable grip that allows air to circulate and keep your palms sweat-free. Crafted from durable PVC and polymer materials, this jump rope guarantees long-lasting performance, withstanding even the most intense workouts. The generous 10-foot cable with adjustable length lets you customize the rope to your preference, ensuring a perfect fit for your height. Whether you&#39;re honing your agility, improving your cardio or perfecting your coordination, the Rival Aero Jump Rope is your trusted partner in achieving your fitness goals. FEATURES Airflow Handles 10ft (3m) PVC &amp; Polymer Cable Adjustable Length</p>","<p>Introducing the Rival Aero Jump Rope, the ultimate fitness companion for those seeking a smooth and efficient cardio workout. Designed to elevate your jump rope game, this innovative fitness tool boasts Airflow Handles, ensuring a comfortable grip that allows air to circulate and keep your palms sweat-free. Crafted from durable PVC and polymer materials, this jump rope guarantees long-lasting performance, withstanding even the most intense workouts. The generous 10-foot cable with adjustable length lets you customize the rope to your preference, ensuring a perfect fit for your height. Whether you&#39;re honing your agility, improving your cardio or perfecting your coordination, the Rival Aero Jump Rope is your trusted partner in achieving your fitness goals. FEATURES Airflow Handles 10ft (3m) PVC &amp; Polymer Cable Adjustable Length</p>",rivalaerorope,visible,4,instock,no,yes,7.98,,0.35,"https://www.playwell.co.uk/images/rivalaeroropered.jpg
 ",taxable,"Standard rate",simple,"Skipping Ropes","Skipping Ropes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Opro UFC Kids Silver Self Fit Mouth Guard - Black",opro-ufc-kids-silver-self-fit-mouth-guard---black,publish,"<p>Opro UFC Kids&nbsp;Silver Self Fit Mouth Guard Black</p>
 
@@ -79940,7 +79940,7 @@ https://www.playwell.co.uk/images/Venum-x-Tekken-8-Jin-Kazama-8oz-MMA-Sparring-G
 	<li style=""box-sizing:border-box; padding:0px""><strong style=""box-sizing:border-box; padding:0px; font-weight:700""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">Venum Logos:</font></font></strong><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">&nbsp;Embossed brand details add a touch of style and authenticity.</font></font></li>
 </ul>
 
-<p style=""padding:0px; text-align:justify""><span style=""font-size:14px""><span style=""box-sizing:border-box""><span style=""color:#5b5b5b""><span style=""font-family:Inter, Arial, Tahoma, Helvetica, sans-serif""><span style=""font-style:normal""><span style=""font-variant-ligatures:normal""><span style=""font-weight:400""><span style=""white-space:normal""><span style=""background-color:#ffffff""><span style=""text-decoration-thickness:initial""><span style=""text-decoration-style:initial""><span style=""text-decoration-color:initial""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">With the&nbsp;</font></font><strong style=""box-sizing:border-box; padding:0px; font-weight:700""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">Venum Classic Boxing Gloves - Matte Black</font></font></strong><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">&nbsp;, you will be equipped with the best in glove technology, designed to improve your performance and protect you in every training and fight.</font></font></span></span></span></span></span></span></span></span></span></span></span></span></p>",VENBGKIDSCLASSIC8OZ,visible,28,instock,no,yes,27.9900,,0.35,"https://www.playwell.co.uk/images/Venum-Kids-Classic-Boxing-Gloves-Black-Black-WLMT-Edition.jpg
+<p style=""padding:0px; text-align:justify""><span style=""font-size:14px""><span style=""box-sizing:border-box""><span style=""color:#5b5b5b""><span style=""font-family:Inter, Arial, Tahoma, Helvetica, sans-serif""><span style=""font-style:normal""><span style=""font-variant-ligatures:normal""><span style=""font-weight:400""><span style=""white-space:normal""><span style=""background-color:#ffffff""><span style=""text-decoration-thickness:initial""><span style=""text-decoration-style:initial""><span style=""text-decoration-color:initial""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">With the&nbsp;</font></font><strong style=""box-sizing:border-box; padding:0px; font-weight:700""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">Venum Classic Boxing Gloves - Matte Black</font></font></strong><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit""><font style=""box-sizing:border-box; padding:0px; vertical-align:inherit"">&nbsp;, you will be equipped with the best in glove technology, designed to improve your performance and protect you in every training and fight.</font></font></span></span></span></span></span></span></span></span></span></span></span></span></p>",VENBGKIDSCLASSIC8OZ,visible,27,instock,no,yes,27.9900,,0.35,"https://www.playwell.co.uk/images/Venum-Kids-Classic-Boxing-Gloves-Black-Black-WLMT-Edition.jpg
 https://www.playwell.co.uk/images/Venum-Kids-Classic-Boxing-Gloves-Black-Black-WLMT-Edition_01.jpg
 https://www.playwell.co.uk/images/Venum-Kids-Classic-Boxing-Gloves-Black-Black-WLMT-Edition_02.jpg
 https://www.playwell.co.uk/images/Venum-Kids-Classic-Boxing-Gloves-Black-Black-WLMT-Edition_03.jpg
