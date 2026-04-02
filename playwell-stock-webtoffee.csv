@@ -567,7 +567,7 @@ https://www.playwell.co.uk/images/SHOTORED1_02.jpg
 
 <p>&nbsp;</p>",PLAYWELLS&WBAG,visible,0,outofstock,no,yes,44.99,,1,"https://www.playwell.co.uk/images/blueweaponsbagnewpic.jpg
 ",taxable,"Standard rate",simple,"Sport Gym Bags & BackPacks","Sport Gym Bags & BackPacks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Ju-Jitsu Lapel Badge 10",ju-jitsu-lapel-badge-10,publish,,,PIN10,visible,9,instock,no,yes,1.99,,0.2,"https://www.playwell.co.uk/images/pin10.jpg
+"Ju-Jitsu Lapel Badge 10",ju-jitsu-lapel-badge-10,publish,,,PIN10,visible,0,outofstock,no,yes,1.99,,0.2,"https://www.playwell.co.uk/images/pin10.jpg
 ",taxable,"Standard rate",simple,"Lapel Pins","Lapel Pins",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "British Flag",british-flag,publish,"<p>3&#39;x5&#39; cloth flag with grommets for secure attachment</p>
 
@@ -4860,7 +4860,7 @@ https://www.playwell.co.uk/images/KUNGCOTTON1_03.jpg
 ",taxable,"Standard rate",variable,"Traditional Footwear","Traditional Footwear",,,,,,,,,,,,,,"40 / 6|41 / 7|42 / 8|38 / 4|39 / 5|43 / 9|44 / 10|45 / 11|46 / 12",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ZORIX40,,24,instock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"40 / 6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ZORIX41,,24,instock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"41 / 7",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ZORIX42,,22,instock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"42 / 8",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ZORIX42,,20,instock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"42 / 8",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ZORIX38,,0,outofstock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"38 / 4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ZORIX39,,0,outofstock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"39 / 5",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ZORIX43,,24,instock,,yes,14.99,,,,,,,,,ZORIX,,,,,,,,,,,,,,,"43 / 9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6600,7 +6600,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_02.jpg
 https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ",taxable,"Standard rate",variable,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,Red/Blue|Black/Yellow,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,34,instock,,yes,59.99,,,,,,,,,BOGTOOTH2,,,Red/Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,,,27,instock,,yes,59.99,,,,,,,,,BOGTOOTH2,,,Black/Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,,,26,instock,,yes,59.99,,,,,,,,,BOGTOOTH2,,,Black/Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff White Wax Straight 60 : Inches",bo-staff-white-wax-straight-60-:-inches,publish,"<p>Bo staff made of White Wax Wood, 60 inches with a diameter of 1.25 Inches</p>
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
@@ -7749,7 +7749,7 @@ https://www.playwell.co.uk/images/escrimaredfoamhandlenew_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",ESB,visible,84,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/newescrimablack2red1.jpg
+<p>&nbsp;</p>",ESB,visible,0,outofstock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/newescrimablack2red1.jpg
 https://www.playwell.co.uk/images/newescrimablack2red1_01.jpg
 https://www.playwell.co.uk/images/newescrimablack2red1_02.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8994,7 +8994,7 @@ https://www.playwell.co.uk/images/cerem1_05.jpg
 ",taxable,"Standard rate",variable,"Kama's and Sais","Kama's and Sais",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18 Inches|21.5 Inches|19.5 Inches|15 Inches",0|1|1,,,,,,,,,,,,,,,,,,,
 ,,publish,,,S18,,6,instock,,yes,79.98,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18 Inches",,,,,,,,,,,,,,,,,,
 ,,publish,,,S21.5,,7,instock,,yes,79.98,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.5 Inches",,,,,,,,,,,,,,,,,,
-,,publish,,,S195,,3,instock,,yes,79.98,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"19.5 Inches",,,,,,,,,,,,,,,,,,
+,,publish,,,S195,,0,outofstock,,yes,79.98,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"19.5 Inches",,,,,,,,,,,,,,,,,,
 ,,publish,,,S15,,14,instock,,yes,79.98,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15 Inches",,,,,,,,,,,,,,,,,,
 "Sai Chrome Daggers - Round",sai-chrome-daggers---round,publish,"<p>sai enables the practitioner to train with deadly speed and accuracy. The monouchi (shaft) of the sai is octagonal with an imitation leather handle. Sold in pairs.</p>
 
@@ -10740,7 +10740,7 @@ https://www.playwell.co.uk/images/BGV1CWHITE1_03.jpeg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",SF53,visible,74,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/SF53.jpg
+<p>&nbsp;</p>",SF53,visible,73,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/SF53.jpg
 ",taxable,"Standard rate",simple,"Wooden & Steel Nunchucks","Wooden & Steel Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Choi Kwang Do Patch",choi-kwang-do-patch,publish,"<p>Official Choi kwang Do Embroidered Patch : Measurements : 3.5 Inches.</p>","<p>Official Choi kwang Do Embroidered Patch : Measurements : 3.5 Inches.</p>",PCHOI,visible,10,instock,no,yes,3.50,,0.2,"https://www.playwell.co.uk/images/choipatch.jpg
 ",taxable,"Standard rate",simple,"Other Embroided Patches","Other Embroided Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -17832,7 +17832,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_01.jpg
 https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_02.jpg
 https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ",taxable,"Standard rate",variable,"Demo And Graphite Bo Staffs","Demo And Graphite Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red/Blue|Black/Yellow,0|1|1,,,,,,,,,,
-,,publish,,,,,44,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Red/Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,,,43,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Red/Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,40,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Black/Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Graphite Bo: Tapered 2 Sectional - Blue/Red",graphite-bo:-tapered-2-sectional---blue/red,publish,"<p>A new concept in Bo demonstrations. Playwell has applied the same material used for high quality golf clubs and tennis rackets to bring you the Ultimate in durability for a Bo. Will not warp. 6 inch oak core. Smooth, metallic paint finish. Light weight. Comes as a 2 Sectional staff.</p>
 
@@ -30205,7 +30205,7 @@ https://www.playwell.co.uk/images/grappzmain1_04.jpg
 ,,publish,,,GRAPPZM,,4,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,GRAPPZXXS,,1,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,GRAPPZXL,,9,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,GRAPPZS,,14,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,GRAPPZS,,13,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,GRAPPZXXL,,6,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,GRAPPZL,,13,instock,,yes,29.98,,,,,,,,,GRAPPZ,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Elite Boxing Gloves - Black/White",venum-elite-boxing-gloves---black/white,publish,"<p>Venum Impact boxing gloves&nbsp;: knock them all out.</p>
@@ -43206,7 +43206,7 @@ https://www.playwell.co.uk/images/boashstraight_01.jpg
 https://www.playwell.co.uk/images/boashstraight_02.jpg
 ",taxable,"Standard rate",variable,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1""|1.25""",0|1|1,,,,,,,
 ,,publish,,,BOA721,,7,instock,,yes,27.99,,,,,,,,,BOA72,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOA721.25,,8,instock,,yes,27.99,,,,,,,,,BOA72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOA721.25,,0,outofstock,,yes,27.99,,,,,,,,,BOA72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival Boxing RS1 2.0 Ultra Sparring Gloves - Black",rival-boxing-rs1-2.0-ultra-sparring-gloves---black,publish,"<p>Rival Boxing RS1-2.0 Ultra Sparring Gloves Black</p>
 
 <p>&nbsp;</p>
@@ -43574,7 +43574,7 @@ https://www.playwell.co.uk/images/newrevolver1_01.jpg
 https://www.playwell.co.uk/images/newrevolver1_02.jpg
 https://www.playwell.co.uk/images/newrevolver1_03.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Press Worker ( Bull Worker ) - 110lbs",press-worker-(-bull-worker-)---110lbs,publish,"<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>","<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>",BW,visible,253,instock,no,yes,34.98,,0.9,"https://www.playwell.co.uk/images/PRESS1.jpg
+"Press Worker ( Bull Worker ) - 110lbs",press-worker-(-bull-worker-)---110lbs,publish,"<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>","<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>",BW,visible,252,instock,no,yes,34.98,,0.9,"https://www.playwell.co.uk/images/PRESS1.jpg
 https://www.playwell.co.uk/images/PRESS1_01.jpg
 https://www.playwell.co.uk/images/PRESS1_02.jpg
 ",taxable,"Standard rate",simple,"Strength Training Equipment","Strength Training Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -45594,7 +45594,7 @@ Nylon Sheath",HK695,visible,0,outofstock,no,yes,17.99,,1,"https://www.playwell.c
 
 <p>Can be used for Light And Semi Contact Sword Sparring</p>
 
-<p>Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available</p>",POLICETRUNCH,visible,2,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/plasticpolicetruncheon.jpg
+<p>Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available</p>",POLICETRUNCH,visible,0,outofstock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/plasticpolicetruncheon.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Challenger Running Parachute - Black/Yellow",venum-challenger-running-parachute---black/yellow,publish,"<p>The Venum Challenger Running Parachute is a multidisciplinary physical preparation tool that aims to develop your speed, strengthen muscle, and boost your explosiveness. SPEED - Working with continuous resistance strengthens muscles and develops their power. RESISTANCE / ENDURANCE - The faster the stride, the greater the resistance, muscle recruitment and contraction will be all the more important. Working with greater efforts and distances will help build endurance. EXPLOSIVITY / ACCELERATION - The parachute is a favorite accessory for sprinters: it allows you to work on your acceleration and explosiveness. TECHNIQUE - The resistance will force the runner to correct their posture so as not to disturb the parachute during exercise. The positioning of the chest, movement of the arms, amplitude and frequency of the stride: the parachute will work to correct your general body positioning to optimize your running technique. Key points : Convenient to transport and store Easy to put on and easy to use Adjustable to all body types No jerkiness, unlike training sleds Progressive difficulty, proportional to your speed Suitable for all levels Please note: this product is an athletic parachute / physical preparation device designed to provide resistance when running. This is not a product for skydiving use. TECHNICAL FEATURES Parachute diameter: 137 cm / 54 inchesParachute material: 100% polyesterMesh panels for stabilityOne size fits all - adjustable beltAttachment clip allowing instant release at the end of the strokeUp to 14Kg / 30 lbs of resistance depending on run speedEasy to transport: carrying bag included2 colors available</p>","<p>The Venum Challenger Running Parachute is a multidisciplinary physical preparation tool that aims to develop your speed, strengthen muscle, and boost your explosiveness. SPEED - Working with continuous resistance strengthens muscles and develops their power. RESISTANCE / ENDURANCE - The faster the stride, the greater the resistance, muscle recruitment and contraction will be all the more important. Working with greater efforts and distances will help build endurance. EXPLOSIVITY / ACCELERATION - The parachute is a favorite accessory for sprinters: it allows you to work on your acceleration and explosiveness. TECHNIQUE - The resistance will force the runner to correct their posture so as not to disturb the parachute during exercise. The positioning of the chest, movement of the arms, amplitude and frequency of the stride: the parachute will work to correct your general body positioning to optimize your running technique. Key points : Convenient to transport and store Easy to put on and easy to use Adjustable to all body types No jerkiness, unlike training sleds Progressive difficulty, proportional to your speed Suitable for all levels Please note: this product is an athletic parachute / physical preparation device designed to provide resistance when running. This is not a product for skydiving use. TECHNICAL FEATURES Parachute diameter: 137 cm / 54 inchesParachute material: 100% polyesterMesh panels for stabilityOne size fits all - adjustable beltAttachment clip allowing instant release at the end of the strokeUp to 14Kg / 30 lbs of resistance depending on run speedEasy to transport: carrying bag included2 colors available</p>",venumparachute,visible,2,instock,no,yes,28.98,,0.35,"https://www.playwell.co.uk/images/venumpara1.jpg
 https://www.playwell.co.uk/images/venumpara1_01.jpg
@@ -53617,7 +53617,7 @@ https://www.playwell.co.uk/images/pwgroin1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>Approx Weight Of Bokken - 500g</p>",redropedbokkenscabbard,visible,163,instock,no,yes,32.99,,1.1,"https://www.playwell.co.uk/images/redropedbokkenscab1.jpg
+<p>Approx Weight Of Bokken - 500g</p>",redropedbokkenscabbard,visible,162,instock,no,yes,32.99,,1.1,"https://www.playwell.co.uk/images/redropedbokkenscab1.jpg
 https://www.playwell.co.uk/images/redropedbokkenscab1_01.jpg
 https://www.playwell.co.uk/images/redropedbokkenscab1_02.jpg
 https://www.playwell.co.uk/images/redropedbokkenscab1_03.jpg
@@ -74881,7 +74881,7 @@ https://www.playwell.co.uk/images/rival-rs2v-super-sparring-boxing-gloves-blue-6
 https://www.playwell.co.uk/images/rival-rs2v-super-sparring-boxing-gloves-blue-66192b27d2af6_03.jpg
 https://www.playwell.co.uk/images/rival-rs2v-super-sparring-boxing-gloves-blue-66192b27d2af6_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|12 oz|18 oz|16 oz",0|1|1,,,,,,,
-,,publish,,,RIVALRS2VBLUE1,,3,instock,,yes,144.99,,,,,,,,,RIVALRS2VBLUE,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,RIVALRS2VBLUE1,,2,instock,,yes,144.99,,,,,,,,,RIVALRS2VBLUE,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,RIVALRS2VBLUE12,,1,instock,,yes,144.99,,,,,,,,,RIVALRS2VBLUE,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,RIVALRS2VBLUE18,,1,instock,,yes,144.99,,,,,,,,,RIVALRS2VBLUE,,,,,,,,,"18 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,RIVALRS2VBLUE16,,2,instock,,yes,144.99,,,,,,,,,RIVALRS2VBLUE,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
