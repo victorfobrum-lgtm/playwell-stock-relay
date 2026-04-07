@@ -2122,7 +2122,7 @@ https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_03.jpg
 https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_04.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,000/110cm|00/120cm|0/130cm|1/140cm|2/150cm|00000/90cm|0000/100cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW000B,,43,instock,,yes,22.99,,,,,,,,,KMWB,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KMW00B,,54,instock,,yes,22.99,,,,,,,,,KMWB,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KMW00B,,53,instock,,yes,22.99,,,,,,,,,KMWB,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW0B,,45,instock,,yes,23.82,,,,,,,,,KMWB,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW1B,,1,instock,,yes,24.66,,,,,,,,,KMWB,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW2B,,8,instock,,yes,24.66,,,,,,,,,KMWB,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11144,7 +11144,7 @@ https://www.playwell.co.uk/images/KARATESILVERBRAND1_01.jpg
 https://www.playwell.co.uk/images/KARATESILVERBRAND1_02.jpg
 https://www.playwell.co.uk/images/KARATESILVERBRAND1_03.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7/200cm|4/170cm|3/160cm|6/190cm|5/180cm,0|1|1,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSB7,,6,instock,,yes,39.99,,,,,,,,,KSB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSB7,,5,instock,,yes,39.99,,,,,,,,,KSB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB4,,32,instock,,yes,37.98,,,,,,,,,KSB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB3,,8,instock,,yes,36.98,,,,,,,,,KSB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB6,,0,outofstock,,yes,37.98,,,,,,,,,KSB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -13342,7 +13342,7 @@ https://www.playwell.co.uk/images/camofocuspads1_03.jpg
 
 <p>Will Fit all Rattan Wushu Sticks sold By US.</p>
 
-<p>&nbsp;</p>",SPEARHEAD1,visible,1,instock,no,yes,19.99,,0.35,"https://www.playwell.co.uk/images/silverspear.GIF
+<p>&nbsp;</p>",SPEARHEAD1,visible,0,outofstock,no,yes,19.99,,0.35,"https://www.playwell.co.uk/images/silverspear.GIF
 ",taxable,"Standard rate",simple,"Wu Shu Weapons","Wu Shu Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Large Wacoku Sports Bag",large-wacoku-sports-bag,publish,"<p>Deluxe Large Sports Bag, Made from Durable Heavy Nylon,&nbsp; Reinforced Stitching. Two Side Zip Pockets, 1 Large Centre Zip Pocket. Complete with Long strap holdall, and large carry handles.</p>
 
@@ -16565,7 +16565,7 @@ https://www.playwell.co.uk/images/fullescrima1_03.jpg
 https://www.playwell.co.uk/images/fullescrima1_04.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|Medium|Small|X - Large",0|1|1,,,,,,,,,,
 ,,publish,,,EHL,,0,outofstock,,yes,64.98,,,,,,,,,EH,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EHM,,9,instock,,yes,64.98,,,,,,,,,EH,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EHM,,8,instock,,yes,64.98,,,,,,,,,EH,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHS,,8,instock,,yes,64.98,,,,,,,,,EH,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHXL,,9,instock,,yes,64.98,,,,,,,,,EH,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sting Competition Approved Boxing Gloves 2:0 - Red",sting-competition-approved-boxing-gloves-2:0---red,publish,"<p><b>STING Competition Leather Boxing Gloves:&nbsp;</b>Elevate Your Ring Performance</p>
@@ -24090,7 +24090,7 @@ Cold Steel&#39;s solution to these dilemmas was to design a synthetic substitute
 		</tr>
 	</tbody>
 </table>
-</div>",COLDSRONDTD,visible,0,outofstock,no,yes,15.99,,0.35,"https://www.playwell.co.uk/images/rondel-training-dagger-92rdndl.jpg
+</div>",COLDSRONDTD,visible,8,instock,no,yes,15.99,,0.35,"https://www.playwell.co.uk/images/rondel-training-dagger-92rdndl.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Cold Steel Polypropylene Parrying Training Dagger",cold-steel-polypropylene-parrying-training-dagger,publish,"<div>The best of the world&#39;s sword fighters have known a simple truth for ages... if you want to become a reasonably good sword fighter you should endeavor to learn sword fighting techniques, footwork and the basic stances. However, if you want to be a master at sword fighting you have to eventually start fighting with a &quot;live blade&quot;. If your ultimate goal is to wield a razor shaNow you can practice with some of our most popular knife designs in relative safety - with our rubber training knives!<br />
 <br />
@@ -42192,7 +42192,7 @@ https://www.playwell.co.uk/images/XTVENUMSHORTS1_03.jpg
 ,,publish,,,XTVENUMSHORTSL,,2,instock,,yes,29.99,,,,,,,,,XTVENUMSHORTS,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,XTVENUMSHORTSXXL,,3,instock,,yes,29.99,,,,,,,,,XTVENUMSHORTS,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,XTVENUMSHORTSXL,,3,instock,,yes,29.99,,,,,,,,,XTVENUMSHORTS,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,XTVENUMSHORTSM,,2,instock,,yes,29.99,,,,,,,,,XTVENUMSHORTS,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,XTVENUMSHORTSM,,0,outofstock,,yes,29.99,,,,,,,,,XTVENUMSHORTS,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Heavy Striped Bo Staff Aluminium - Blue",heavy-striped-bo-staff-aluminium---blue,publish,"<p>This beautiful Bo is made of sturdy aluminum. Total Length is 72 inches. Diameter of&nbsp;Staff is&nbsp;0.875 inch. The sleek anodized color makes this Bo the most unique. Light weight and durable material makes it great for competitions</p>
 
 <p>&nbsp;</p>
@@ -43559,7 +43559,7 @@ https://www.playwell.co.uk/images/kravshinknee_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBKSCHILD,visible,93,instock,no,yes,23.99,,0.9,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
+<p>&nbsp;</p>",PPBKSCHILD,visible,91,instock,no,yes,23.99,,0.9,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_01.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_02.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_03.jpg
@@ -44426,7 +44426,7 @@ https://www.playwell.co.uk/images/Rival-RFX-Paint-Splash_02.jpg
 
 <p>appx weight 570g</p>
 
-<p>&nbsp;</p>",NUNHEAVYALUMOCTBLUE,visible,10,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/heavyblueoctagon.jpg
+<p>&nbsp;</p>",NUNHEAVYALUMOCTBLUE,visible,0,outofstock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/heavyblueoctagon.jpg
 ",taxable,"Standard rate",simple,"Wooden & Steel Nunchucks","Wooden & Steel Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Childrens Martial Arts Body Armour",deluxe-childrens-martial-arts-body-armour,publish,"<p>Deluxe Childrens Martial Arts Body Armour, Offer Protection Front, Sides, and lower back Area, Made from High Quality PVC W/ Thick Foam Padded Inserts</p>
 
@@ -44790,7 +44790,7 @@ https://www.playwell.co.uk/images/BB8INCHBLACKNEW1_02.jpg
 
 <p>Can be used for&nbsp;Full&nbsp;&amp;&nbsp;Semi Contact Sword Sparring.</p>
 
-<p>Designed from the world famous Japanese samurai sword coupled with advances in science and technology. The Chanbara sword is by far the combatant&#39;s weapon of choice. Made of Hard foam. Full speed offensive and defensive capabilities give the combatant a large array of fighting possibilities.</p>",PPCHANBARA20,visible,29,instock,no,yes,17.98,,0.35,"https://www.playwell.co.uk/images/NEWSMALLCHAN1.jpg
+<p>Designed from the world famous Japanese samurai sword coupled with advances in science and technology. The Chanbara sword is by far the combatant&#39;s weapon of choice. Made of Hard foam. Full speed offensive and defensive capabilities give the combatant a large array of fighting possibilities.</p>",PPCHANBARA20,visible,28,instock,no,yes,17.98,,0.35,"https://www.playwell.co.uk/images/NEWSMALLCHAN1.jpg
 https://www.playwell.co.uk/images/NEWSMALLCHAN1_01.jpg
 https://www.playwell.co.uk/images/NEWSMALLCHAN1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -45440,7 +45440,7 @@ https://www.playwell.co.uk/images/Rival-Boxing-Bob-And-Weave_06.jpg
 
 <p>&nbsp;</p>
 
-<p><span style=""color:#e74c3c;""><strong>THIS ITEM IS ON PRE ORDER, WILL BE SHIPPED ONCE STOCK ARRIVES, ETA 4TH MAY 2026</strong></span></p>",SANDBAGMEDIUM,visible,29,instock,no,yes,44.99,,0.35,"https://www.playwell.co.uk/images/sandeegymbag1.jpg
+<p><span style=""color:#e74c3c;""><strong>THIS ITEM IS ON PRE ORDER, WILL BE SHIPPED ONCE STOCK ARRIVES, ETA 4TH MAY 2026</strong></span></p>",SANDBAGMEDIUM,visible,28,instock,no,yes,44.99,,0.35,"https://www.playwell.co.uk/images/sandeegymbag1.jpg
 https://www.playwell.co.uk/images/sandeegymbag1_01.jpg
 https://www.playwell.co.uk/images/sandeegymbag1_02.jpg
 ",taxable,"Standard rate",simple,"Sport Gym Bags & BackPacks","Sport Gym Bags & BackPacks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -58591,7 +58591,7 @@ Over 6&quot; (15.25cm) of Padding<br />
 Padded, Easy-Grip Handles<br />
 DIMENSIONS<br />
 Punching Surface Diameter:<br />
-12&quot; (30.5cm)</p>",RPSSHIELD,visible,1,instock,no,yes,84.99,,1,"https://www.playwell.co.uk/images/RPS1.jpg
+12&quot; (30.5cm)</p>",RPSSHIELD,visible,0,outofstock,no,yes,84.99,,1,"https://www.playwell.co.uk/images/RPS1.jpg
 https://www.playwell.co.uk/images/RPS1_01.jpg
 https://www.playwell.co.uk/images/RPS1_02.jpg
 ",taxable,"Standard rate",simple,"Focus Mitts","Focus Mitts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -71211,7 +71211,7 @@ https://www.playwell.co.uk/images/rival-rsx3-genesis-boxing-boots-white-65578a2f
 ,,publish,,,FSTOPB41,,0,outofstock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOPB34,,0,outofstock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOPB42,,0,outofstock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,FSTOPB43,,1,instock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,FSTOPB43,,0,outofstock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOPB46,,26,instock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOPB47,,0,outofstock,,yes,22.98,,,,,,,,,FSTOPB,,,,,,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fairtex BGV11 F Day Microfibre Boxing Gloves - Green",fairtex-bgv11-f-day-microfibre-boxing-gloves---green,publish,"<p>Fairtex BGV11 F Day Microfibre Boxing Gloves&nbsp;Green</p>
@@ -78809,7 +78809,7 @@ https://www.playwell.co.uk/images/PURPLETIGERSHIN1_02.jpg
 https://www.playwell.co.uk/images/PURPLETIGERSHIN1_03.jpg
 ",taxable,"Standard rate",variable,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|X - Small",0|1|1,
 ,,publish,,,"	MMASHINTIGERPURPLES",,9,instock,,yes,44.99,,,,,,,,,MMASHINTIGERPURPLE,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	MMASHINTIGERPURPLEM",,10,instock,,yes,44.99,,,,,,,,,MMASHINTIGERPURPLE,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	MMASHINTIGERPURPLEM",,9,instock,,yes,44.99,,,,,,,,,MMASHINTIGERPURPLE,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	MMASHINTIGERPURPLEXS",,10,instock,,yes,44.99,,,,,,,,,MMASHINTIGERPURPLE,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Ladies Playwell Purple ""Twin Tiger"" Muay Thai Boxing Gloves",ladies-playwell-purple-&quot;twin-tiger&quot;-muay-thai-boxing-gloves,publish,"<p>New Boxing Gloves Made from Soft Matt Touch, With a new Inner Lining inside the Boxing Gloves, Makes these Extremley Comfortable to wear and Train in, Features a beautiful Twin Tiger Design. Outstanding ergonomic fit High density injection molded foam core Soft touch durable matte synthetic leather Comfortable, Moisture wicking interior with mesh breathable palm Embossed wrist patch Practical, easy Hook &amp; loop closure with superior wrist protection</p>","<p>New Boxing Gloves Made from Soft Matt Touch, With a new Inner Lining inside the Boxing Gloves, Makes these Extremley Comfortable to wear and Train in, Features a beautiful Twin Tiger Design. Outstanding ergonomic fit High density injection molded foam core Soft touch durable matte synthetic leather Comfortable, Moisture wicking interior with mesh breathable palm Embossed wrist patch Practical, easy Hook &amp; loop closure with superior wrist protection</p>",twintigerglovespurple,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/purpletigergloves1.jpg
 https://www.playwell.co.uk/images/purpletigergloves1_01.jpg
@@ -85305,7 +85305,7 @@ https://www.playwell.co.uk/images/serpentimmagloves1_02.jpg
 https://www.playwell.co.uk/images/serpentimmagloves1_03.jpg
 ",taxable,"Standard rate",variable,"Mixed Martial Arts And Grappling Gloves","Mixed Martial Arts And Grappling Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medium|Large / XLarge",0|1|1,
 ,,publish,,,"	serpentimmaglovesm",,0,outofstock,,yes,59.99,,,,,,,,,serpentimmagloves,,,,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	serpentimmagloveslxl",,2,instock,,yes,59.99,,,,,,,,,serpentimmagloves,,,,,,,,,"Large / XLarge",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	serpentimmagloveslxl",,1,instock,,yes,59.99,,,,,,,,,serpentimmagloves,,,,,,,,,"Large / XLarge",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Serpenti Boxing Gloves - Black/Silver/Gold",venum-serpenti-boxing-gloves---black/silver/gold,publish,"<p>Venum Serpenti: Perform with the silent, relentless force of the snake. This premium collection includes a full range of technical apparel and combat sports equipment. Made with triple-density foam for superior impact absorption, the Venum Serpenti Boxing Gloves offer excellent protection. Their ergonomic design, adjustable wrist strap and elongated cuffs deliver natural feeling fit and full support. Meanwhile, reinforced seams maximize the lifespan of these premium PU gloves. The design evokes the quiet yet deadly attack of a serpent as it tightens its grip on its prey. Your opponents - and your excuses - stand no chance. Suitable for boxing, kickboxing and Muay Thai, with regular use (3-4 times per week). Pair these gloves with technical apparel from the same collection.</p>","<p>Venum Serpenti: Perform with the silent, relentless force of the snake. This premium collection includes a full range of technical apparel and combat sports equipment. Made with triple-density foam for superior impact absorption, the Venum Serpenti Boxing Gloves offer excellent protection. Their ergonomic design, adjustable wrist strap and elongated cuffs deliver natural feeling fit and full support. Meanwhile, reinforced seams maximize the lifespan of these premium PU gloves. The design evokes the quiet yet deadly attack of a serpent as it tightens its grip on its prey. Your opponents - and your excuses - stand no chance. Suitable for boxing, kickboxing and Muay Thai, with regular use (3-4 times per week). Pair these gloves with technical apparel from the same collection.</p>",serpentiglovesblack,visible,,,no,,,,0,"https://www.playwell.co.uk/images/serpentiboxinggloves1.jpg
 https://www.playwell.co.uk/images/serpentiboxinggloves1_01.jpg
 https://www.playwell.co.uk/images/serpentiboxinggloves1_02.jpg
