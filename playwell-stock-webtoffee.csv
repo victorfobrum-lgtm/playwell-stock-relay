@@ -1482,9 +1482,9 @@ One of the advantages of this dying method is that Indigo has a natural antibact
 ",taxable,"Standard rate",variable,"Upper Body Protection","Upper Body Protection",,,,,"X - Small|Small|Large|Medium|X Large",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHMXS,,82,instock,,yes,6.98,,,,,,,,,EHM,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHMS,,99,instock,,yes,6.98,,,,,,,,,EHM,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EHML,,3890,instock,,yes,6.98,,,,,,,,,EHM,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EHML,,3886,instock,,yes,6.98,,,,,,,,,EHM,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHMM,,43,instock,,yes,6.98,,,,,,,,,EHM,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EHMXL,,24,instock,,yes,6.98,,,,,,,,,EHM,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EHMXL,,23,instock,,yes,6.98,,,,,,,,,EHM,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Snake Rings",wushu-snake-rings,publish,"<p>Snake Rings are one of the many ring weapons of Chinese martial arts. Mainly used in traditional styles today, ring weapon styles have become more rare, putting these weapons in the category of exotic weapons. Routines are designed to perform weilding one ring in each hand. These rings are great for everyday training, competitions or demonstrations. Handle Strapping Color Varies .</p>
 
 <ul>
@@ -1810,7 +1810,7 @@ https://www.playwell.co.uk/images/NEWKARATEWHITE14OZWHITEUNIFORM1_03.jpg
 ,,publish,,,KHW2W,,0,outofstock,,yes,64.98,,,,,,,,,KHWW,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW3W,,16,instock,,yes,64.98,,,,,,,,,KHWW,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW4W,,11,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHW5W,,3,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHW5W,,2,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW6W,,9,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW7W,,12,instock,,yes,70.98,,,,,,,,,KHWW,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kids Kung Fu Elite Microfibre Suit - Black",kids-kung-fu-elite-microfibre-suit---black,publish,"<p>New Elite Ultra Light Microfibre Kung Fu Uniforms,&nbsp;So Light You want even Feel you have this on,&nbsp;&nbsp;All Black Colour. Black Cuffs and Toggle Fasteners to Jackets. Kung Fu Trousers with Elastic and Cord Waist and Elasticated Ankle for all sizes. Traditional outfit.&nbsp;</p>
@@ -3466,7 +3466,7 @@ https://www.playwell.co.uk/images/kickboxsuit1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",EVAKNIFE2,visible,690,instock,no,yes,17.99,,0.3,"https://www.playwell.co.uk/images/evano2.jpg
+<p>&nbsp;</p>",EVAKNIFE2,visible,689,instock,no,yes,17.99,,0.3,"https://www.playwell.co.uk/images/evano2.jpg
 https://www.playwell.co.uk/images/evano2_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Full Contact Sparring Bokken - Choken Sword",full-contact-sparring-bokken---choken-sword,publish,"<p>Designed from the world famous Japanese samurai sword coupled with advances in science and technology. The Choken 46 inch long sword is by far the combatant&#39;s weapon of choice. Made of Hard foam. Full speed offensive and defensive capabilities give the combatant a large array of fighting possibilities. The Choken sword consists of Total Lnegthy of 40 Inches&nbsp;&nbsp;offering the combatant a realistic fight in the &quot;Ultimate Game of Physical Chess&quot;.</p>","<p>Designed from the world famous Japanese samurai sword coupled with advances in science and technology. The Choken 46 inch long sword is by far the combatant&#39;s weapon of choice. Made of Hard foam. Full speed offensive and defensive capabilities give the combatant a large array of fighting possibilities. The Choken sword consists of Total Lnegthy of 40 Inches&nbsp;&nbsp;offering the combatant a realistic fight in the &quot;Ultimate Game of Physical Chess&quot;.</p>",CHOKEN,visible,,,no,,,,1,"https://www.playwell.co.uk/images/chokenswordblue.jpg
@@ -3662,7 +3662,7 @@ https://www.playwell.co.uk/images/KODACHIBLUE1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",3SECRUBCORD,visible,5,instock,no,yes,22.98,,0.9,"https://www.playwell.co.uk/images/3secrub.jpg
+<p>&nbsp;</p>",3SECRUBCORD,visible,4,instock,no,yes,22.98,,0.9,"https://www.playwell.co.uk/images/3secrub.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Rubber Tonfa - Pair",deluxe-rubber-tonfa---pair,publish,"<p>Rubber Tonfas. Total length is approx: 20 inches. Handle length is approx: 5 inches. Sold In pairs</p>
 
@@ -5267,8 +5267,8 @@ https://www.playwell.co.uk/images/Scramble-Pantro-Grappling-Fight-Shorts_04.jpg
 ,,publish,,,ESINPL,,0,outofstock,,yes,9.99,,,,,,,,,ESINP,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Elasticated Shin Instep Pad",elasticated-shin-instep-pad,publish,"<p>Elasticated Shin instep Pads. cotton shin Protectors, with a thick foam pad covering the shins. Machine Washable, Thick durable foam padding, Inner lining which secures the foam padding and provides acomfortable fit., Elasticated cotton. Sold As Pairs</p>","<p>Elasticated Shin instep Pads. cotton shin Protectors, with a thick foam pad covering the shins. Machine Washable, Thick durable foam padding, Inner lining which secures the foam padding and provides acomfortable fit., Elasticated cotton. Sold As Pairs</p>",ESIN,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/shindragonelascaticated.jpg
 ",taxable,"Standard rate",variable,"Lower Body Protection","Lower Body Protection",,,,,,,,,,,,,,,,,"X - Large|Large|Small|X - Small|Medium",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ESINXL,,36,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ESINL,,68,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ESINXL,,35,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ESINL,,64,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ESINS,,48,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ESINXS,,39,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ESINM,,55,instock,,yes,12.98,,,,,,,,,ESIN,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -14897,7 +14897,7 @@ https://www.playwell.co.uk/images/newglock1_03.jpg
 
 <p>It comes in one size, but it&#39;s fully adjustable and fits anybody who wears Medium to&nbsp;Large size clothing.</p>
 
-<p>IDF VEST (Sharpatz) is made of 600 Denier PVC Coated Cordura with thick padding for ultimate body protection.</p>",IDFVEST,visible,12,instock,no,yes,79.98,,1.5,"https://www.playwell.co.uk/images/idfvest1.jpg
+<p>IDF VEST (Sharpatz) is made of 600 Denier PVC Coated Cordura with thick padding for ultimate body protection.</p>",IDFVEST,visible,11,instock,no,yes,79.98,,1.5,"https://www.playwell.co.uk/images/idfvest1.jpg
 https://www.playwell.co.uk/images/idfvest1_01.jpg
 https://www.playwell.co.uk/images/idfvest1_02.jpg
 https://www.playwell.co.uk/images/idfvest1_03.jpg
@@ -21869,8 +21869,8 @@ Suitable For Krav Maga,</p>
 ",taxable,"Standard rate",variable,"Krav Maga Offical Equipment & Clothing","Krav Maga Offical Equipment & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|X Large|Large",0|1|1,,,,,,,,,,
 ,,publish,,,KMLDGS,,13,instock,,yes,14.98,,,,,,,,,KMLDG,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMLDGM,,21,instock,,yes,14.98,,,,,,,,,KMLDG,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KMLDGXL,,281,instock,,yes,14.98,,,,,,,,,KMLDG,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KMLDGL,,189,instock,,yes,14.98,,,,,,,,,KMLDG,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KMLDGXL,,280,instock,,yes,14.98,,,,,,,,,KMLDG,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KMLDGL,,188,instock,,yes,14.98,,,,,,,,,KMLDG,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Krav Maga Mens Deluxe Padded Groin Guard",krav-maga-mens-deluxe-padded-groin-guard,publish,"<p /><p style=""margin: 0px; font-size: 13px; font-family: Arial; "">Groin Guard made of Vinyl Provides An added margin of safety to your groin. Hard plastic cup, with Foam Padded Protection covered In Durable vinyl, supported by a wide elasticated belt. </p><p /><p><br style=""color: rgb(255, 255, 0); "" /><br /><br /></p>","<p /><p style=""margin: 0px; font-size: 13px; font-family: Arial; "">Groin Guard made of Vinyl Provides An added margin of safety to your groin. Hard plastic cup, with Foam Padded Protection covered In Durable vinyl, supported by a wide elasticated belt. </p><p /><p><br style=""color: rgb(255, 255, 0); "" /><br /><br /></p>",KMMDG,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/kravmagamensgroinblack.jpg
 ",taxable,"Standard rate",variable,"Krav Maga Offical Equipment & Clothing","Krav Maga Offical Equipment & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|X Large|Large",0|1|1,,,,,,,,,,
 ,,publish,,,KMMDGS,,27,instock,,yes,14.98,,,,,,,,,KMMDG,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -22150,7 +22150,7 @@ https://www.playwell.co.uk/images/budokanji1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBO60,visible,31,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/0024.jpg
+<p>&nbsp;</p>",PPBO60,visible,30,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/0024.jpg
 https://www.playwell.co.uk/images/0024_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum G-Fit Air MMA Short Sleeve Rashguard - Urban Camo",venum-g-fit-air-mma-short-sleeve-rashguard---urban-camo,publish,"<p>Venum G-Fit Air MMA Short Sleeve Rashguard Urban Camo</p>
@@ -22481,7 +22481,7 @@ https://www.playwell.co.uk/images/NEWRIFLEPICKNIFE1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBS37,visible,74,instock,no,yes,19.98,,1,"https://www.playwell.co.uk/images/new37kungfu1.jpg
+<p>&nbsp;</p>",PPBS37,visible,73,instock,no,yes,19.98,,1,"https://www.playwell.co.uk/images/new37kungfu1.jpg
 https://www.playwell.co.uk/images/new37kungfu1_01.jpg
 https://www.playwell.co.uk/images/new37kungfu1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -28136,7 +28136,7 @@ https://www.playwell.co.uk/images/silverpantsblack1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBKS,visible,920,instock,no,yes,22.98,,1,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
+<p>&nbsp;</p>",PPBKS,visible,919,instock,no,yes,22.98,,1,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_01.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_02.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_03.jpg
@@ -52996,7 +52996,7 @@ https://www.playwell.co.uk/images/newpython1_03.jpg
 
 <p>Measurements: 15.5cm x 27cm</p>
 
-<p>Weighs&nbsp; 495g</p>",deserteagle,visible,90,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/eaglegun1.jpg
+<p>Weighs&nbsp; 495g</p>",deserteagle,visible,85,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/eaglegun1.jpg
 https://www.playwell.co.uk/images/eaglegun1_01.jpg
 https://www.playwell.co.uk/images/eaglegun1_02.jpg
 https://www.playwell.co.uk/images/eaglegun1_03.jpg
