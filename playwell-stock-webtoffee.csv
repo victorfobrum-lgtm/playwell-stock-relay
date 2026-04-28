@@ -639,7 +639,7 @@ Diameter : 5 inches.",patch39,visible,50,instock,no,yes,3.99,,0.2,"https://www.p
 
 3 inches x 5 inches",patch5,visible,48,instock,no,yes,3.50,,0.1,"https://www.playwell.co.uk/images/patch5.jpg
 ",taxable,"Standard rate",simple,"Karate Patches","Karate Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Kyokushin Kai Patch 43",kyokushin-kai-patch-43,publish,"<p>2 inches x 5.5 inches</p>","<p>2 inches x 5.5 inches</p>",P43,visible,15,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/0307.jpg
+"Kyokushin Kai Patch 43",kyokushin-kai-patch-43,publish,"<p>2 inches x 5.5 inches</p>","<p>2 inches x 5.5 inches</p>",P43,visible,5,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/0307.jpg
 ",taxable,"Standard rate",simple,"Karate Patches","Karate Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Jump Kick Patch 9",jump-kick-patch-9,publish,"Martial Arts Embroidered Badges, can be sewn onto suits, trousers.  bags and other accessories as you wish, 
 
@@ -1211,7 +1211,7 @@ https://www.playwell.co.uk/images/silkblacktai1_02.jpg
 https://www.playwell.co.uk/images/silkblacktai1_03.jpg
 https://www.playwell.co.uk/images/silkblacktai1_04.jpg
 ",taxable,"Standard rate",variable,"Tai Chi Uniforms And Suits","Tai Chi Uniforms And Suits",,,,,"160 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TCUBK160,,2400,instock,,yes,29.98,,,,,,,,,TCUBK,,,,,,"160 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TCUBK160,,2399,instock,,yes,29.98,,,,,,,,,TCUBK,,,,,,"160 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kung Fu Uniform  Satin : All Black",kung-fu-uniform--satin-:-all-black,publish,"<p>Light Weight&nbsp;Weight Kung fu suit. Black. Black Cuffs and blackToggle Fasteners to Jackets. 100% Satin. Trousers with Elastic and Cord Waist and Elasticated Ankle for all sizes. Excellent Kung fu uniform made with the finest bleached cotton. Traditional outfit. SASHES SOLD SEPARATELY.</p>
 
 <p>Uniform made from&nbsp; 100% Satin</p>
@@ -1580,8 +1580,8 @@ https://www.playwell.co.uk/images/karatestudentwhitecottonuniform1_04.jpg
 ,,publish,,,KLW0000W,,93,instock,,yes,22.99,,,,,,,,,KLW,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW000W,,84,instock,,yes,23.82,,,,,,,,,KLW,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW00W,,0,outofstock,,yes,23.82,,,,,,,,,KLW,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KLW0W,,85,instock,,yes,24.66,,,,,,,,,KLW,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KLW1W,,72,instock,,yes,24.66,,,,,,,,,KLW,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KLW0W,,81,instock,,yes,24.66,,,,,,,,,KLW,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KLW1W,,64,instock,,yes,24.66,,,,,,,,,KLW,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW2W,,0,outofstock,,yes,25.03,,,,,,,,,KLW,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLW00000W,,75,instock,,yes,22.99,,,,,,,,,KLW,,,,,,00000/90cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Playwell Premium Kids Judo Suit - White 380g",playwell-premium-kids-judo-suit---white-380g,publish,"<p>Playwell Premium Kids Judo Suit - White 380g</p>
@@ -2018,7 +2018,7 @@ https://www.playwell.co.uk/images/NEWPICMIXEDKARATE1_04.jpg
 "Karate Trousers: Black: Children's - 9oz",karate-trousers:-black:-children's---9oz,publish,"<p>Karate trousers Black. 100% cotton. Elastic and cord waist.</p>","<p>Karate trousers Black. 100% cotton. Elastic and cord waist.</p>",KTB,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/judoblacktrousers.jpg
 ",taxable,"Standard rate",variable,"Karate Trousers","Karate Trousers",,,,,2/150cm|1/140cm|00/120cm|0/130cm|000/110cm|0000/100cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTB2,,0,outofstock,,yes,17.99,,,,,,,,,KTB,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KTB1,,8,instock,,yes,17.99,,,,,,,,,KTB,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KTB1,,7,instock,,yes,17.99,,,,,,,,,KTB,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTB00,,5,instock,,yes,17.99,,,,,,,,,KTB,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTB0,,0,outofstock,,yes,17.99,,,,,,,,,KTB,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTB000,,0,outofstock,,yes,17.99,,,,,,,,,KTB,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3140,7 +3140,7 @@ https://www.playwell.co.uk/images/NEWPICYELLOWBRUCE1_02.jpg
 
 <p>&nbsp;</p>",JOH,visible,36,instock,no,yes,18.98,,1,"https://www.playwell.co.uk/images/00238.jpg
 ",taxable,"Standard rate",simple,"Jo Staffs","Jo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Fairtex Competition Muay Thai Elastic Shin Pads - Red",fairtex-competition-muay-thai-elastic-shin-pads---red,publish,"<p>Premium elastic cotton competition style shin pads from Fairtex with high impact padding on the shin and instep for maximum protection. Has a velcro fastening at the top for a secure fit. One size only. Features: Premium elastic cotton High impact padding Velcro fastening at the top Handmade in Thailand Shin Length Foot Length Adult size 30 cm 16 cm</p>","<p>Premium elastic cotton competition style shin pads from Fairtex with high impact padding on the shin and instep for maximum protection. Has a velcro fastening at the top for a secure fit. One size only. Features: Premium elastic cotton High impact padding Velcro fastening at the top Handmade in Thailand Shin Length Foot Length Adult size 30 cm 16 cm</p>",fairtexcottonshinred,visible,5,instock,no,yes,39.99,,0.35,"https://www.playwell.co.uk/images/fairtexredcottonshin.jpg
+"Fairtex Competition Muay Thai Elastic Shin Pads - Red",fairtex-competition-muay-thai-elastic-shin-pads---red,publish,"<p>Premium elastic cotton competition style shin pads from Fairtex with high impact padding on the shin and instep for maximum protection. Has a velcro fastening at the top for a secure fit. One size only. Features: Premium elastic cotton High impact padding Velcro fastening at the top Handmade in Thailand Shin Length Foot Length Adult size 30 cm 16 cm</p>","<p>Premium elastic cotton competition style shin pads from Fairtex with high impact padding on the shin and instep for maximum protection. Has a velcro fastening at the top for a secure fit. One size only. Features: Premium elastic cotton High impact padding Velcro fastening at the top Handmade in Thailand Shin Length Foot Length Adult size 30 cm 16 cm</p>",fairtexcottonshinred,visible,4,instock,no,yes,39.99,,0.35,"https://www.playwell.co.uk/images/fairtexredcottonshin.jpg
 ",taxable,"Standard rate",simple,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Jo Staff Plain Rattan",jo-staff-plain-rattan,publish,"<p>Jo staff made of plain Rattan. Total Length 50 inches, diameter length approx: 1.2 inches. Slightly Flexible.Please note the measurements are to the nearest and are appx.</p>
 
@@ -5975,7 +5975,7 @@ https://www.playwell.co.uk/images/ESCRIMABLACKJACK1_01.jpg
 ,,publish,,,EBABBLACKS,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKM,,4,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXS,,3,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EBABBLACKL,,8,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EBABBLACKL,,7,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXL,,6,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Plain Satin Boxing Gown - Red",plain-satin-boxing-gown---red,publish,"<p>Full Length Boxing Gowns. Made of Satin. With White Edging. Excellent Quality. With Hood.</p>
 
@@ -6855,10 +6855,10 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B2BR,,76058,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4W,,141,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4R,,-12,outofstock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4Y,,9579,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4Y,,9564,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4G,,11081,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4O,,99,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4P,,74888,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4O,,82,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4P,,74886,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BK,,76087,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BU,,74433,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BR,,75234,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6866,7 +6866,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5R,,439,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5Y,,234,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5G,,911,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5O,,82,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5O,,77,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5P,,75534,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BK,,76020,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BU,,75139,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6875,7 +6875,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B6R,,76058,instock,,yes,5.85,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6Y,,75941,instock,,yes,5.85,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6G,,76027,instock,,yes,5.85,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B6O,,35,instock,,yes,5.85,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B6O,,34,instock,,yes,5.85,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6P,,139,instock,,yes,5.85,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6BK,,76156,instock,,yes,5.85,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6BU,,76027,instock,,yes,5.85,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7049,15 +7049,15 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,Orange|Red|Yellow|Green|Purple|Blue|white|Brown,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4OBK,,97986,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4RBK,,97887,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4YBK,,97752,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4GBK,,98097,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4YBK,,97750,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4GBK,,98094,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4PBK,,98176,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BUBK,,98123,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4WBK,,98142,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BRBK,,97859,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5OBK,,98204,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5RBK,,98108,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5YBK,,98071,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5YBK,,98069,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5GBK,,98221,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5PBK,,98252,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BUBK,,98228,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7275,10 +7275,10 @@ https://www.playwell.co.uk/images/SPARCOBRAVINTAGE1_07.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,250cm|0/130cm|280cm|300cm|220cm|320cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BPOOM250,,0,outofstock,,yes,4.99,,,,,,,,,B,,,,,,250cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BPOOM0,,0,outofstock,,yes,4.99,,,,,,,,,B,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BPOOM280,,66,instock,,yes,4.99,,,,,,,,,B,,,,,,280cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BPOOM280,,64,instock,,yes,4.99,,,,,,,,,B,,,,,,280cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BPOOM300,,9,instock,,yes,4.99,,,,,,,,,B,,,,,,300cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BPOOM220,,0,outofstock,,yes,4.99,,,,,,,,,B,,,,,,220cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BPOOM320,,8,instock,,yes,4.99,,,,,,,,,B,,,,,,320cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BPOOM320,,5,instock,,yes,4.99,,,,,,,,,B,,,,,,320cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kung Fu Sash",kung-fu-sash,publish,"<p>This elegant kung fu sashes are made of satin. Length of sashes is 280cm.</p>","<p>This elegant kung fu sashes are made of satin. Length of sashes is 280cm.</p>",SASH,visible,,,no,,,,0.3,"https://www.playwell.co.uk/images/sashmain.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,Blue|Brown|Purple|Black|Yellow|White|Orange|Green|Red,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHBU,,230,instock,,yes,6.48,,,,,,,,,SASH,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9948,7 +9948,7 @@ https://www.playwell.co.uk/images/tangbluetrim_01.jpg
 ,,publish,,,TSDUBK4,,525,instock,,yes,65.68,,,,,,,,,TSD,,,"White with Black Trim",,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBU5,,526,instock,,yes,66.69,,,,,,,,,TSD,,,"White with Blue Trim",,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK5,,528,instock,,yes,66.69,,,,,,,,,TSD,,,"White with Black Trim",,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TSDUBU6,,561,instock,,yes,67.53,,,,,,,,,TSD,,,"White with Blue Trim",,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TSDUBU6,,559,instock,,yes,67.53,,,,,,,,,TSD,,,"White with Blue Trim",,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK6,,12,instock,,yes,67.53,,,,,,,,,TSD,,,"White with Black Trim",,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBU7,,0,outofstock,,yes,68.38,,,,,,,,,TSD,,,"White with Blue Trim",,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK7,,570,instock,,yes,68.38,,,,,,,,,TSD,,,"White with Black Trim",,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11014,14 +11014,14 @@ https://www.playwell.co.uk/images/choifocuspads1_03.jpg
 "Choi Belt: Solid Plain Gold Belt",choi-belt:-solid-plain-gold-belt,publish,"<p>Satin Coloured Belt in Gold Colour. 1.75 inch Widh</p>","<p>Satin Coloured Belt in Gold Colour. 1.75 inch Widh</p>",B,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/choigoldbelt.jpg
 ",taxable,"Standard rate",variable,"Choi Kwang Do Suits And equipment","Choi Kwang Do Suits And equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm",0|1|1,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2GD,,-66,outofstock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4GD,,41,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4GD,,39,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5GD,,468,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6GD,,628,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7GD,,15,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Choi Belt: Satin Gold Belt With Black Stripe",choi-belt:-satin-gold-belt-with-black-stripe,publish,"<p>Satin Gold Belt WITH Black Stripe Running through the belt. 1.75 inch with.</p>","<p>Satin Gold Belt WITH Black Stripe Running through the belt. 1.75 inch with.</p>",B,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/goldblackstripe.jpg
 ",taxable,"Standard rate",variable,"Choi Kwang Do Suits And equipment","Choi Kwang Do Suits And equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm",0|1|1,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2GDB,,580,instock,,yes,7.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4GDB,,628,instock,,yes,7.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4GDB,,626,instock,,yes,7.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5GDB,,749,instock,,yes,7.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6GDB,,794,instock,,yes,7.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7GDB,,778,instock,,yes,7.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11286,7 +11286,7 @@ https://www.playwell.co.uk/images/wushusilktrou1_03.jpg
 ,,publish,,,TCSILKT6,,23,instock,,yes,16.89,,,,,,,,,TCSILKT,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TCSILKT3,,880,instock,,yes,16.89,,,,,,,,,TCSILKT,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TCSILKT4,,0,outofstock,,yes,16.89,,,,,,,,,TCSILKT,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TCSILKT5,,1,instock,,yes,16.89,,,,,,,,,TCSILKT,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TCSILKT5,,0,outofstock,,yes,16.89,,,,,,,,,TCSILKT,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Adults Karate Premium Silver Brand Suit - White 10oz",adults-karate-premium-silver-brand-suit---white-10oz,publish,"<p>Our Adults Karate SIlver Brand Suit White IS our Best Selling&nbsp;And top premium quality Student suits who prefer the best, Medium Weight in quality from 10oz Fabric&nbsp;</p>
 
 <p>&nbsp;</p>
@@ -12210,7 +12210,7 @@ https://www.playwell.co.uk/images/Adidas-Adistar-Pro-Groin-Guard-Black-Gold_03.j
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
 
-<p>&nbsp;</p>",BKCROP,visible,99,instock,no,yes,31.98,,0.9,"https://www.playwell.co.uk/images/bokkencherryroped1.jpg
+<p>&nbsp;</p>",BKCROP,visible,98,instock,no,yes,31.98,,0.9,"https://www.playwell.co.uk/images/bokkencherryroped1.jpg
 https://www.playwell.co.uk/images/bokkencherryroped1_01.jpg
 https://www.playwell.co.uk/images/bokkencherryroped1_02.jpg
 https://www.playwell.co.uk/images/bokkencherryroped1_03.jpg
@@ -16654,7 +16654,7 @@ https://www.playwell.co.uk/images/Fairtex-SP5-Shin-Guards-Black_05.jpg
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>",BORSP72,visible,12,instock,no,yes,28.98,,18,"https://www.playwell.co.uk/images/SPIRALBO.jpg
+<div>&nbsp;</div>",BORSP72,visible,11,instock,no,yes,28.98,,18,"https://www.playwell.co.uk/images/SPIRALBO.jpg
 ",taxable,"Standard rate",simple,"Bamboo And Rattan Bo Staffs","Bamboo And Rattan Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sword Stand 2 Tier : Wall Mounted",sword-stand-2-tier-:-wall-mounted,publish,"<p>This solid wood sword rack holds 2 weapons and the attractive black finish makes this rack perfect for displaying your swords at home, school or office.&nbsp;</p>
 
@@ -19230,7 +19230,7 @@ https://www.playwell.co.uk/images/NEWKUNAIPIC1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RIFLEE400,visible,18,instock,no,yes,159.98,,1,"https://www.playwell.co.uk/images/E401NEW1.jpg
+<p>&nbsp;</p>",RIFLEE400,visible,17,instock,no,yes,159.98,,1,"https://www.playwell.co.uk/images/E401NEW1.jpg
 https://www.playwell.co.uk/images/E401NEW1_01.jpg
 https://www.playwell.co.uk/images/E401NEW1_02.jpg
 https://www.playwell.co.uk/images/E401NEW1_03.jpg
@@ -20563,7 +20563,7 @@ https://www.playwell.co.uk/images/redtips1_02.jpg
 
 <p>Total Length is 40 Inches</p>
 
-<p>&nbsp;</p>",JORUB40,visible,72,instock,no,yes,17.99,,5,"https://www.playwell.co.uk/images/rubberstaff.jpg
+<p>&nbsp;</p>",JORUB40,visible,71,instock,no,yes,17.99,,5,"https://www.playwell.co.uk/images/rubberstaff.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum x Roger Gracie Academy BJJ Gi - Black",venum-x-roger-gracie-academy-bjj-gi---black,publish,"<p>Venum x Roger Gracie Academy BJJ Gi was developed in collaboration with Roger Gracie. The fit of this Jiu-Jitsu gi has been optimized for comfort and freedom of movement. Reinforcements at all stratgeic tension points help extend the life of this kimono. The Gi&#39;s jacket is made with a 380 gsm cotton and the pants are 280 gsm Ripstock fabric, making it suitable for IBJJF competition.</p>","<p>Venum x Roger Gracie Academy BJJ Gi was developed in collaboration with Roger Gracie. The fit of this Jiu-Jitsu gi has been optimized for comfort and freedom of movement. Reinforcements at all stratgeic tension points help extend the life of this kimono. The Gi&#39;s jacket is made with a 380 gsm cotton and the pants are 280 gsm Ripstock fabric, making it suitable for IBJJF competition.</p>",VENUMROGERACADBLACK,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Venum-Roger-Gracie-Academy-Jiu-Jitsu-Gi-Black.jpg
 https://www.playwell.co.uk/images/Venum-Roger-Gracie-Academy-Jiu-Jitsu-Gi-Black_01.jpg
@@ -22456,7 +22456,7 @@ A versatile award system for a Demo Team, STORM Team, SWAT team, etc. Can be use
 ",taxable,"Standard rate",variable,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,White|Black|Red|Yellow|Silver|Green|Purple|Orange|Brown|Blue,0|1|1,,,,,,,,,,
 ,,publish,,,PCW,,2527,instock,,yes,1.48,,,,,,,,,PC,,,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PCBK,,2778,instock,,yes,1.48,,,,,,,,,PC,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,PCR,,-6,outofstock,,yes,1.48,,,,,,,,,PC,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PCR,,150,instock,,yes,1.48,,,,,,,,,PC,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PCY,,46,instock,,yes,1.48,,,,,,,,,PC,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PCS,,75,instock,,yes,1.48,,,,,,,,,PC,,,Silver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PCG,,38,instock,,yes,1.48,,,,,,,,,PC,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -33749,7 +33749,7 @@ https://www.playwell.co.uk/images/karatestudentwhitecottonuniform1_04.jpg
 ,,publish,,,KLWPCWH00000,,0,outofstock,,yes,19.99,,,,,,,,,KLWPCWH,,,,,,00000/90cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCWH0000,,11,instock,,yes,19.99,,,,,,,,,KLWPCWH,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCWH000,,50,instock,,yes,19.99,,,,,,,,,KLWPCWH,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KLWPCWH00,,7,instock,,yes,19.99,,,,,,,,,KLWPCWH,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KLWPCWH00,,0,outofstock,,yes,19.99,,,,,,,,,KLWPCWH,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCWH0,,14,instock,,yes,19.99,,,,,,,,,KLWPCWH,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCWH1,,0,outofstock,,yes,20.49,,,,,,,,,KLWPCWH,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Elite Kung Fu Microfibre Trousers White",elite-kung-fu-microfibre-trousers-white,publish,"<p>Elite Kung Fu Trousers, Made from Microfibre Material Ultra Light weight, Elasticated cuffed ankles and elasticated tie waist. So Light You will not even feel that you have these on,</p>
@@ -33943,7 +33943,7 @@ https://www.playwell.co.uk/images/kudoblackhead1_03.jpg
 https://www.playwell.co.uk/images/kudoblackhead1_04.jpg
 https://www.playwell.co.uk/images/kudoblackhead1_05.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Senior|Junior,0|1|1,,,,,,,
-,,publish,,,HGKUDOBKSR,,30,instock,,yes,64.98,,,,,,,,,HGKUDOBK,,,,,,Senior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,HGKUDOBKSR,,29,instock,,yes,64.98,,,,,,,,,HGKUDOBK,,,,,,Senior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HGKUDOBKJR,,14,instock,,yes,64.98,,,,,,,,,HGKUDOBK,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kudo Red Headguard: Full Mask",kudo-red-headguard:-full-mask,publish,"<p>For total facial protection, use this new&nbsp;Kudo Headguard with a full face cover A Unique Product On the market, made of tough Acrylic. Has ventilation, and the Mask comes at least 1.5 inches away from the face, this aids in a breathing and also helps prevent the face mask steaming up. Ears on the headguard are well padded, with an adjustable Velcro strap at the back of the headguard. Made of Vinyl: Face Mask is not removable.</p>
 
@@ -34939,7 +34939,7 @@ https://www.playwell.co.uk/images/wushusilktrou1_02.jpg
 https://www.playwell.co.uk/images/wushusilktrou1_03.jpg
 ",taxable,"Standard rate",variable,"Wu Shu Uniforms And Suits","Wu Shu Uniforms And Suits",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black,0|1|1,,,,,,,
 ,,publish,,,WST3.00,,74,instock,,yes,16.99,,,,,,,,,WST,,,Black,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,WST4.00,,74,instock,,yes,16.99,,,,,,,,,WST,,,Black,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,WST4.00,,0,outofstock,,yes,16.99,,,,,,,,,WST,,,Black,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WST6.00,,27,instock,,yes,16.99,,,,,,,,,WST,,,Black,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WST5.00,,0,outofstock,,yes,16.99,,,,,,,,,WST,,,Black,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WST2.00,,75,instock,,yes,16.99,,,,,,,,,WST,,,Black,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -41387,7 +41387,7 @@ https://www.playwell.co.uk/images/evokidsear_01.jpg
 https://www.playwell.co.uk/images/evokidsear_02.jpg
 ",taxable,"Standard rate",variable,"Jiu Jitsu Gi Uniforms and Equipment","Jiu Jitsu Gi Uniforms and Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small / Medium|Large / X Large",0|1|1,,,,,,,
 ,,publish,,,JJEARSHOCKSM,,21,instock,,yes,21.99,,,,,,,,,JJEARSHOCK,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,JJEARSHOCKLXL,,45,instock,,yes,21.99,,,,,,,,,JJEARSHOCK,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,JJEARSHOCKLXL,,44,instock,,yes,21.99,,,,,,,,,JJEARSHOCK,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Playwell Childrens Shockwave Jiu Jitsu Ear Guards",playwell-childrens-shockwave-jiu-jitsu-ear-guards,publish,"<p>PMA Childrens Shockwave Jiu Jitsu Ear Guards</p>
 
 <p>&nbsp;</p>
@@ -43310,7 +43310,7 @@ https://www.playwell.co.uk/images/rb50-white_04.jpg
 https://www.playwell.co.uk/images/MMASPARRINGKNEEPADS0_01.jpg
 https://www.playwell.co.uk/images/MMASPARRINGKNEEPADS0_02.jpg
 ",taxable,"Standard rate",variable,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large / X Large|Small / Medium",0|1|1,,,,,,,
-,,publish,,,COMBATKNEEPADSLXL,,20,instock,,yes,34.98,,,,,,,,,COMBATKNEEPADS,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,COMBATKNEEPADSLXL,,19,instock,,yes,34.98,,,,,,,,,COMBATKNEEPADS,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,COMBATKNEEPADSSM,,15,instock,,yes,34.98,,,,,,,,,COMBATKNEEPADS,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sandee Red Traditional Ankle Supports",sandee-red-traditional-ankle-supports,publish,"<p>A pair of authentic, professional SANDEE ankle supports for protection &amp; comfort and a &lsquo;must have&rsquo; item for every combat sports athlete.</p>
 
@@ -43770,7 +43770,7 @@ https://www.playwell.co.uk/images/rival_RPM3-2_black-01_03.jpg
 
 <p>Can Be used indoor or outdoor, ( Top Part can be removed and kept inside when raining etc )</p>
 
-<p>&nbsp;</p>",PBAGPMAXLPLAIN,visible,0,outofstock,no,yes,399.99,,50,"https://www.playwell.co.uk/images/xxlplain1.jpg
+<p>&nbsp;</p>",PBAGPMAXLPLAIN,visible,0,outofstock,no,yes,399.99,,80,"https://www.playwell.co.uk/images/xxlplain1.jpg
 https://www.playwell.co.uk/images/xxlplain1_01.jpg
 ",taxable,"Standard rate",simple,"Free Standing Punch Bags","Free Standing Punch Bags",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Krav Maga Black Full Contact Shin, Instep & Knee Pads","krav-maga-black-full-contact-shin,-instep-&amp;-knee-pads",publish,"<p>&nbsp;Elasticated Cotton&nbsp;Shin Guards Made from Eva Foam Paddng. 1 Thick Paddded Foam Which Offers the Best in Protection.<br />
@@ -46120,14 +46120,84 @@ https://www.playwell.co.uk/images/compblacksword1_05.jpg
 <p>our current monk spade model&nbsp; - does not have any gold plating on the design,</p>",MONKSPADE2PC,visible,1,instock,no,yes,169.99,,4,"https://www.playwell.co.uk/images/monkspade2pcnew1.jpg
 https://www.playwell.co.uk/images/monkspade2pcnew1_01.jpg
 ",taxable,"Standard rate",simple,"Wu Shu Weapons","Wu Shu Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Rival RFX- Guerrero Sparring Gloves P4P Edition",rival-rfx--guerrero-sparring-gloves-p4p-edition,publish,"<p>Over the years, we have been privileged to create some incredible and beautiful custom designs for some of the greatest fighters in the game. As a result of this, we have received numerous queries and requests from our customers as to when they can get the same gloves. We have taken into consideration all of your amazing feedback, and have combed through our most popular colours and designs to bring you a &quot;Special Edition&quot; glove. Rival proudly introduces the high-end RFX-Guerrero Sparring Gloves - P4P Edition. Modelled after our crown jewel, the RFX-Guerrero Pro Fight Glove, this beautiful, handcrafted glove is a masterpiece in design, fit, comfort and performance. Using only the finest in cowhide leather, coupled with a combination of foam padding, this sparring glove is as close as you can possibly get to the fit and feel of our pro fight glove. Over the years, World Champions like Vasily Lomachenko, Oleksandr Usyk, Anthony Joshua, Keith Thurman, Artur Beterbiev, David Benavidez and Katie Taylor, along with many World class fighters, all used this glove and provided the feedback we needed, to construct what we believe, to not only be an elite, professional, sparring glove but a work of art. Features: Multi-Layered Inner Foam Padding Construction; Handcrafted with High-Quality Leather; RFX-Guerrero Pro Fight Gloves Fit; Rival&rsquo;s Trademark 15&deg; Angled Lace-Track; Exclusive Custom P4P Edition Printed Graphics; Printed &amp; Embroidered Rival Graphics.</p>","<p>Over the years, we have been privileged to create some incredible and beautiful custom designs for some of the greatest fighters in the game. As a result of this, we have received numerous queries and requests from our customers as to when they can get the same gloves. We have taken into consideration all of your amazing feedback, and have combed through our most popular colours and designs to bring you a &quot;Special Edition&quot; glove. Rival proudly introduces the high-end RFX-Guerrero Sparring Gloves - P4P Edition. Modelled after our crown jewel, the RFX-Guerrero Pro Fight Glove, this beautiful, handcrafted glove is a masterpiece in design, fit, comfort and performance. Using only the finest in cowhide leather, coupled with a combination of foam padding, this sparring glove is as close as you can possibly get to the fit and feel of our pro fight glove. Over the years, World Champions like Vasily Lomachenko, Oleksandr Usyk, Anthony Joshua, Keith Thurman, Artur Beterbiev, David Benavidez and Katie Taylor, along with many World class fighters, all used this glove and provided the feedback we needed, to construct what we believe, to not only be an elite, professional, sparring glove but a work of art. Features: Multi-Layered Inner Foam Padding Construction; Handcrafted with High-Quality Leather; RFX-Guerrero Pro Fight Gloves Fit; Rival&rsquo;s Trademark 15&deg; Angled Lace-Track; Exclusive Custom P4P Edition Printed Graphics; Printed &amp; Embroidered Rival Graphics.</p>",RIVALP4P,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/rfx-g-spar_p4p.jpg
+"Rival RFX- Guerrero Sparring Gloves P4P Edition",rival-rfx--guerrero-sparring-gloves-p4p-edition,publish,"<p>Meet the ultimate high-end sparring glove, specifically designed to withstand the rigours of a professional, World Championship calibre training camp.</p>
+
+<p>&nbsp;</p>
+
+<p>Trusted by an array of World Champions and top contenders, the RFX-Guerrero Sparring Gloves were designed to offer the same fit and feel as our ever-popular crown jewel, the RFX-Guerrero Pro Fight Glove &mdash; but with added protection.</p>
+
+<p>&nbsp;</p>
+
+<p>We&rsquo;ve taken all of your amazing feedback into consideration and have combed through our most popular colours and designs to offer you an exclusive selection of stunning &ldquo;Special Edition&rdquo; gloves.</p>
+
+<p>&nbsp;</p>
+
+<p>Rival is proud to introduce the innovative RFX-Guerrero Sparring Gloves P4P Edition!</p>
+
+<p>&nbsp;</p>
+
+<p>Handcrafted using only the finest genuine leather, the HDE-F version of our RFX-Guerrero Sparring Gloves are padded with a unique combination of layered foam, and laminated with a high-density EVA, giving them a stiff, firmer feel with the accent on power and hand protection.</p>
+
+<p>&nbsp;</p>
+
+<p>These elite-level, professional sparring gloves are a masterpiece not only in design and performance, but in comfort and fit as well.</p>
+
+<p>&nbsp;</p>
+
+<h4>Features</h4>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Multi-Layered Inner Foam Padding (HDE-F)</li>
+	<li>Premium Quality Leather</li>
+	<li>Same Fit and Feel as the RFX-Guerrero Pro Fight Glove</li>
+	<li>Rival&rsquo;s Trademarked 15&deg; Angled Lace Track</li>
+	<li>Exclusive, Custom Printed Design</li>
+	<li>Printed and Embroidered Rival Graphics</li>
+</ul>","<p>Meet the ultimate high-end sparring glove, specifically designed to withstand the rigours of a professional, World Championship calibre training camp.</p>
+
+<p>&nbsp;</p>
+
+<p>Trusted by an array of World Champions and top contenders, the RFX-Guerrero Sparring Gloves were designed to offer the same fit and feel as our ever-popular crown jewel, the RFX-Guerrero Pro Fight Glove &mdash; but with added protection.</p>
+
+<p>&nbsp;</p>
+
+<p>We&rsquo;ve taken all of your amazing feedback into consideration and have combed through our most popular colours and designs to offer you an exclusive selection of stunning &ldquo;Special Edition&rdquo; gloves.</p>
+
+<p>&nbsp;</p>
+
+<p>Rival is proud to introduce the innovative RFX-Guerrero Sparring Gloves P4P Edition!</p>
+
+<p>&nbsp;</p>
+
+<p>Handcrafted using only the finest genuine leather, the HDE-F version of our RFX-Guerrero Sparring Gloves are padded with a unique combination of layered foam, and laminated with a high-density EVA, giving them a stiff, firmer feel with the accent on power and hand protection.</p>
+
+<p>&nbsp;</p>
+
+<p>These elite-level, professional sparring gloves are a masterpiece not only in design and performance, but in comfort and fit as well.</p>
+
+<p>&nbsp;</p>
+
+<h4>Features</h4>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Multi-Layered Inner Foam Padding (HDE-F)</li>
+	<li>Premium Quality Leather</li>
+	<li>Same Fit and Feel as the RFX-Guerrero Pro Fight Glove</li>
+	<li>Rival&rsquo;s Trademarked 15&deg; Angled Lace Track</li>
+	<li>Exclusive, Custom Printed Design</li>
+	<li>Printed and Embroidered Rival Graphics</li>
+</ul>",RIVALP4P,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/rfx-g-spar_p4p.jpg
 https://www.playwell.co.uk/images/rfx-g-spar_p4p_01.jpg
 https://www.playwell.co.uk/images/rfx-g-spar_p4p_02.jpg
 https://www.playwell.co.uk/images/rfx-g-spar_p4p_03.jpg
 https://www.playwell.co.uk/images/rfx-g-spar_p4p_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16 oz|14 oz",0|1|1,,,,,,,
-,,publish,,,RIVALP4P16,,1,instock,,yes,259.98,,,,,,,,,RIVALP4P,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,RIVALP4P14,,2,instock,,yes,259.98,,,,,,,,,RIVALP4P,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,RIVALP4P16,,1,instock,,yes,279.99,,,,,,,,,RIVALP4P,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,RIVALP4P14,,2,instock,,yes,279.99,,,,,,,,,RIVALP4P,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "RFX-Guerrero Intelli-Shock Bag Gloves RJJ Edition",rfx-guerrero-intelli-shock-bag-gloves-rjj-edition,publish,"When it comes to boxing greatness, few names resonate like Roy Jones Jr. — a living legend, pound-for-pound icon, and one of the most electrifying fighters the sport has ever seen. 
 
 Over the years, Rival has been honoured to call Roy a dear friend. While we take great pride in crafting unique, custom gloves for some of boxing greatest champions, the time has come to commemorate, with the same artistry and innovation you've come to expect, the legend that is RJJ.   
@@ -46424,7 +46494,7 @@ https://www.playwell.co.uk/images/plainblueblack1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>Total Length 28&quot;&nbsp;</p>",ESBS28,visible,62,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/10042-Escrima-Stick-Bamboo-Skin.jpg
+<p>Total Length 28&quot;&nbsp;</p>",ESBS28,visible,57,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/10042-Escrima-Stick-Bamboo-Skin.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Body Conditioning Battle Ropes - 9M",body-conditioning-battle-ropes---9m,publish,"Versatile training tool, ideal for any ability from beginners to elite athletes. Helps to use multiple muscle groups simultaneously to increase overall strength, core strength, hand strength and endurance, whilst building power. 9 metre rope . Suitable for indoor and outdoor use. Wrapped finished ends for additional grip. Polyester rope covered with a hardwearing, water resistant nylon jacket; that's easy to wipe clean before and after use.
 
@@ -46641,7 +46711,7 @@ https://www.playwell.co.uk/images/venumgel_04.jpg
 https://www.playwell.co.uk/images/venumgel_05.jpg
 https://www.playwell.co.uk/images/venumgel_06.jpg
 ",taxable,"Standard rate",simple,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Century Torrent T1 Freestanding Pucnh Bag  - Black",century-torrent-t1-freestanding-pucnh-bag----black,publish,"<p>Get a great workout with the Torrent T1 bag! Perfect for cardio kickboxing and other fight-fitness training, the T1 features a two-part inner stem design to allow the bag to bend more, and shift the base less. Because running is a great workout but running after your bag isn&#39;t! Great for all styles of martial arts including Kickboxing, Boxing, Taekwondo and Muay Thai Suitable for a variety of striking techniques like kicks, knees, punches and elbows WHY THE TORRENT? Century&#39;s strongest ever freestanding punch bag Non-wrinkle fabric New style base allows the bag to bend when struck, as opposed to tipping over Dimensions: 15&quot; DIA (top) 24&quot; DIA (base) Approx. 245 lbs when filled. 60&quot; Tall</p>","<p>Get a great workout with the Torrent T1 bag! Perfect for cardio kickboxing and other fight-fitness training, the T1 features a two-part inner stem design to allow the bag to bend more, and shift the base less. Because running is a great workout but running after your bag isn&#39;t! Great for all styles of martial arts including Kickboxing, Boxing, Taekwondo and Muay Thai Suitable for a variety of striking techniques like kicks, knees, punches and elbows WHY THE TORRENT? Century&#39;s strongest ever freestanding punch bag Non-wrinkle fabric New style base allows the bag to bend when struck, as opposed to tipping over Dimensions: 15&quot; DIA (top) 24&quot; DIA (base) Approx. 245 lbs when filled. 60&quot; Tall</p>",CTORRENT1,visible,200,instock,no,yes,529.98,,230,"https://www.playwell.co.uk/images/TORRENT1.jpg
+"Century Torrent T1 Freestanding Pucnh Bag  - Black",century-torrent-t1-freestanding-pucnh-bag----black,publish,"<p>Get a great workout with the Torrent T1 bag! Perfect for cardio kickboxing and other fight-fitness training, the T1 features a two-part inner stem design to allow the bag to bend more, and shift the base less. Because running is a great workout but running after your bag isn&#39;t! Great for all styles of martial arts including Kickboxing, Boxing, Taekwondo and Muay Thai Suitable for a variety of striking techniques like kicks, knees, punches and elbows WHY THE TORRENT? Century&#39;s strongest ever freestanding punch bag Non-wrinkle fabric New style base allows the bag to bend when struck, as opposed to tipping over Dimensions: 15&quot; DIA (top) 24&quot; DIA (base) Approx. 245 lbs when filled. 60&quot; Tall</p>","<p>Get a great workout with the Torrent T1 bag! Perfect for cardio kickboxing and other fight-fitness training, the T1 features a two-part inner stem design to allow the bag to bend more, and shift the base less. Because running is a great workout but running after your bag isn&#39;t! Great for all styles of martial arts including Kickboxing, Boxing, Taekwondo and Muay Thai Suitable for a variety of striking techniques like kicks, knees, punches and elbows WHY THE TORRENT? Century&#39;s strongest ever freestanding punch bag Non-wrinkle fabric New style base allows the bag to bend when struck, as opposed to tipping over Dimensions: 15&quot; DIA (top) 24&quot; DIA (base) Approx. 245 lbs when filled. 60&quot; Tall</p>",CTORRENT1,visible,0,outofstock,no,yes,529.98,,230,"https://www.playwell.co.uk/images/TORRENT1.jpg
 ",taxable,"Standard rate",simple,"Free Standing Punch Bags","Free Standing Punch Bags",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Top Ten Muay Thai IFMA Approved Head Guard - Blue",top-ten-muay-thai-ifma-approved-head-guard---blue,publish,"The skullcap of the IFMA “Jarot Muay” head guard is extra secured so that head hits from above cannot throw you off course. TOP TEN relies on an unobstructed field of vision for the IFMA head protection for a good view. The deep-drawn forehead area well covers the temples.
 
@@ -47271,7 +47341,7 @@ https://www.playwell.co.uk/images/adih25_black_new_logo_pair1_03.jpg
 
 <p>&nbsp;</p>",IUBJJBLACK,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/BJJBABYBLACK.jpg
 ",taxable,"Standard rate",variable,"Jiu Jitsu Gi Uniforms and Equipment","Jiu Jitsu Gi Uniforms and Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1 - 2 Years|6 - 12 Months",0|1|1,,,,,,,
-,,publish,,,IUBJJBLACK1-2,,28,instock,,yes,20.99,,,,,,,,,IUBJJBLACK,,,,,,"1 - 2 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,IUBJJBLACK1-2,,27,instock,,yes,20.99,,,,,,,,,IUBJJBLACK,,,,,,"1 - 2 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,IUBJJBLACK6-12,,30,instock,,yes,20.99,,,,,,,,,IUBJJBLACK,,,,,,"6 - 12 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Full Contact Bokken  - 40""",black-polypropylene-full-contact-bokken----40&quot;,publish,"<p>Bokkens made from Polypropylene Material &nbsp;Much stronger &amp; Durable &nbsp;then Wooden Bokkens, Lightweight Yet Sturdy. &nbsp;</p>
 
@@ -50415,7 +50485,7 @@ Polypropelene Is virtually A unbreakable Material Which Makes These Training Wea
 <p>&nbsp;</p>",VENSGELITEBKGD,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/venumgoldshin1.jpg
 ",taxable,"Standard rate",variable,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medium|X - Large|Large",0|1|1,,,,,,,
 ,,publish,,,VENSGELITEBKGDMED,,0,outofstock,,yes,109.98,,,,,,,,,VENSGELITEBKGD,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENSGELITEBKGDXLAR,,1,instock,,yes,109.98,,,,,,,,,VENSGELITEBKGD,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,VENSGELITEBKGDXLAR,,0,outofstock,,yes,109.98,,,,,,,,,VENSGELITEBKGD,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENSGELITEBKGDLAR,,1,instock,,yes,109.98,,,,,,,,,VENSGELITEBKGD,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival RFX-Guerrero HDE-F Pro Fight Gloves - White",rival-rfx-guerrero-hde-f-pro-fight-gloves---white,publish,"<p>Rival Boxing RFX-Guerrero Pro Fight Gloves White&nbsp;</p>
 
@@ -53430,7 +53500,7 @@ https://www.playwell.co.uk/images/cruveddragon1_03.jpg
 	<li>Stands 175cm tall and a full 45cm in diameter.</li>
 	<li>Weight distribution of base provides stability and functionality, easy assembly and disassembly.</li>
 	<li>Extra large fill hole and cap allows you to easily fill base with sand or water.</li>
-</ul>",CWMXXLWHITE,visible,0,outofstock,no,yes,519.99,,30,"https://www.playwell.co.uk/images/XXLGHOST.jpg
+</ul>",CWMXXLWHITE,visible,0,outofstock,no,yes,519.99,,80,"https://www.playwell.co.uk/images/XXLGHOST.jpg
 ",taxable,"Standard rate",simple,"Free Standing Punch Bags","Free Standing Punch Bags",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Masters Deluxe  Instructor Dan Block Belt - White/Black",masters-deluxe--instructor-dan-block-belt---white/black,publish,"<p>Great Quality Block Belts, Belts are colour fast. Proffessional 2 inch Wide Thick Deluxe Belts. Please call in for any Other colour combination.</p>
 
@@ -55474,7 +55544,7 @@ https://www.playwell.co.uk/images/Fairtex-SP5-Shin-Pads-Blue_04.jpg
 
 <p>&nbsp;</p>",KPDELWHGREY,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/GREYGHOST.jpg
 ",taxable,"Standard rate",variable,"Lower Body Protection","Lower Body Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium|Large|Small,0|1|1,,,,,,,
-,,publish,,,KPDELWHGREYM,,0,outofstock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KPDELWHGREYM,,-1,outofstock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KPDELWHGREYL,,0,outofstock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KPDELWHGREYS,,88,instock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Aluminium Broadsword With Rivets - 36"" - D471B",deluxe-aluminium-broadsword-with-rivets---36&quot;---d471b,publish,"<p>Deluxe Broadsword made of Aluminium. Stylishly crafted of aluminum With Rivets. Features an etched blood groove in the blade. An excellent training weapon. Wrapped handle. Sashes included, color may vary. Scabbard not included. Total Length approx: 36 inches, Handle Length approx: 5.5 inches</p>
@@ -75106,7 +75176,7 @@ https://www.playwell.co.uk/images/Rival-Boxing-RHG30-Mexican-Headgear-Black-Whit
 
 <p>&nbsp;</p>
 
-<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 4TH MAY&nbsp; 2026&nbsp;</strong></span></p>","<p>Sandee Competition Muay Thai Cotton Shin Pads Black</p>
+<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 10TH JUNE&nbsp; 2026&nbsp;</strong></span></p>","<p>Sandee Competition Muay Thai Cotton Shin Pads Black</p>
 
 <p>&nbsp;</p>
 
@@ -75122,14 +75192,14 @@ https://www.playwell.co.uk/images/Rival-Boxing-RHG30-Mexican-Headgear-Black-Whit
 
 <p>&nbsp;</p>
 
-<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 4TH MAY&nbsp; 2026&nbsp;</strong></span></p>",sandeecottonshinblack,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads.jpg
+<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 10TH JUNE&nbsp; 2026&nbsp;</strong></span></p>",sandeecottonshinblack,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads.jpg
 https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads_01.jpg
 https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads_02.jpg
 ",taxable,"Standard rate",variable,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Adult|X - Small|Junior",0|1|1,,,,,,,
 ,,publish,,,sandeecottonshinblacks,,8,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,sandeecottonshinblackad,,0,outofstock,,yes,29.99,,,,,,,,,sandeecottonshinblack,,,,,,Adult,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,sandeecottonshinblackxs,,11,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,sandeecottonshinblackjr,,-1,outofstock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,sandeecottonshinblackjr,,-2,outofstock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sandee Competition Muay Thai Cotton Shin Pads - Red",sandee-competition-muay-thai-cotton-shin-pads---red,publish,"<p>Sandee Competition Muay Thai Cotton Shin Pads Red</p>
 
 <p>&nbsp;</p>
@@ -87831,3 +87901,38 @@ https://www.playwell.co.uk/images/10191-NEWPICESCRIMABAMBOO1_02.jpg
 
 <p><span style=""color:#e74c3c;""><strong>THIS IS A&nbsp; PRE ORDER ITEM -PRE ORDER NOW AND WE WILL SHIP 10TH AUGUST 2026&nbsp;</strong></span></p>",bo72graphitecracklered,visible,11,instock,no,yes,23.99,,20,"https://www.playwell.co.uk/images/10197-redcrackletoothpick.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Fairtex Versatile FS3 Curved Kick Shield",fairtex-versatile-fs3-curved-kick-shield,publish,"Compact size that is constructed of Fairtex durable Syntek Leather with high density foam core for maximum shock absorbency.
+
+Features the Fairtex famous kick pad’s holder system for tight fit and maximum comfort of trainer.
+
+This version stocked is for a right-handed holder but a left handed pad can be custom made to order, please call for details on custom ordering.
+Features:
+
+    Durable syntek leather
+    High density foam core
+    Maximum comfort
+    Right-handed holder
+
+  	Length 	Width 	Thickness
+FS3
+	63 cm 	42 cm 	13 cm","Compact size that is constructed of Fairtex durable Syntek Leather with high density foam core for maximum shock absorbency.
+
+Features the Fairtex famous kick pad’s holder system for tight fit and maximum comfort of trainer.
+
+This version stocked is for a right-handed holder but a left handed pad can be custom made to order, please call for details on custom ordering.
+Features:
+
+    Durable syntek leather
+    High density foam core
+    Maximum comfort
+    Right-handed holder
+
+  	Length 	Width 	Thickness
+FS3
+	63 cm 	42 cm 	13 cm",FS3KICK,visible,2,instock,no,yes,139.98,,1,"https://www.playwell.co.uk/images/FS3SHIELD1.jpg
+https://www.playwell.co.uk/images/FS3SHIELD1_01.jpg
+https://www.playwell.co.uk/images/FS3SHIELD1_02.jpg
+https://www.playwell.co.uk/images/FS3SHIELD1_03.jpg
+https://www.playwell.co.uk/images/FS3SHIELD1_04.jpg
+https://www.playwell.co.uk/images/FS3SHIELD1_05.jpg
+",taxable,"Standard rate",simple,"Strike Shields And Kick Pads","Strike Shields And Kick Pads",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
