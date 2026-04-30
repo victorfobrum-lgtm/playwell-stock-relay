@@ -317,7 +317,7 @@ https://www.playwell.co.uk/images/babysuit_01.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,"0 - 3 Months|1 - 2 Years|6 - 12 Months|0 - 6 Months",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,IUKARWH0-3,,0,outofstock,,yes,14.99,,,,,,,,,IUKARWH,,,,,,"0 - 3 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,IUKARWH1-2,,44,instock,,yes,14.99,,,,,,,,,IUKARWH,,,,,,"1 - 2 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,IUKARWH6-12,,26,instock,,yes,14.99,,,,,,,,,IUKARWH,,,,,,"6 - 12 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,IUKARWH6-12,,25,instock,,yes,14.99,,,,,,,,,IUKARWH,,,,,,"6 - 12 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,IUKARWH0-6,,0,outofstock,,yes,14.99,,,,,,,,,IUKARWH,,,,,,"0 - 6 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Roped Grip Blunt Training Knife - NO14",roped-grip-blunt-training-knife---no14,publish,"<p>A blunt Version Of the Popular&nbsp; Training Knife, Made of best quality steel and anodised for a smooth finish.</p>
 
@@ -339,7 +339,7 @@ https://www.playwell.co.uk/images/babysuit_01.jpg
 
 <p>Measurements : Total Length 11.5 Inches</p>
 
-<p>&nbsp;</p>",TKNO14,visible,47,instock,no,yes,17.98,,0.3,"https://www.playwell.co.uk/images/knife14.jpg
+<p>&nbsp;</p>",TKNO14,visible,44,instock,no,yes,17.98,,0.3,"https://www.playwell.co.uk/images/knife14.jpg
 ",taxable,"Standard rate",simple,"Metal Blunt Training Knives","Metal Blunt Training Knives",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Mini Bruce Lee Figurine",mini-bruce-lee-figurine,publish,"<p>
 Bruce Lee Wearing Game of Death Outfit, In kicking position With Nunchucks in The Left Hand. 
@@ -382,7 +382,7 @@ https://www.playwell.co.uk/images/SPARBARPRO6CLASSIC1_07.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Dragon Headband 04",dragon-headband-04,publish,"<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD4,visible,38,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headdragon.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Karate Headband 05",karate-headband-05,publish,"<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD5,visible,1455,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkarate.jpg
+"Karate Headband 05",karate-headband-05,publish,"<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD5,visible,1454,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkarate.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bonzai Headband 06",bonzai-headband-06,publish,"<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD6,visible,116,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/5a_1.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -400,7 +400,7 @@ https://www.playwell.co.uk/images/SPARBARPRO6CLASSIC1_07.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kamikaze Headband 13",kamikaze-headband-13,publish,"<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD13,visible,100,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkamikaze.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Kung Fu Headband 14",kung-fu-headband-14,publish,"<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD14,visible,45,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkungfu.jpg
+"Kung Fu Headband 14",kung-fu-headband-14,publish,"<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD14,visible,44,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkungfu.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Silver Ultra Light Spear Head: Large",wushu-silver-ultra-light-spear-head:-large,publish,"<p>Spear Head: This spear head is constructed of cold-rolled, chrome plated&Acirc;&nbsp;Iron This head is strong and has a distinctive diamond-shaped cross-section. It is stiff and unsharpened, with &nbsp;Pointed blade.</p>
 
@@ -2260,7 +2260,7 @@ https://www.playwell.co.uk/images/vinylbokkencase1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOC72,visible,55,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/bo-padded-vinyl-case-72-ddf.jpg
+<p>&nbsp;</p>",BOC72,visible,50,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/bo-padded-vinyl-case-72-ddf.jpg
 ",taxable,"Standard rate",simple,"Weapons Cases and Accessories","Weapons Cases and Accessories",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Case Vinyl  - 63 inches",bo-staff-case-vinyl----63-inches,publish,"<p>Deluxe Bo Case Holds 2 60 inch staffs. New and improved case. Now made of artificial Leather (PU) with felt lining inside for extra protection to the weapons. Zipped. Comes with a shoulder strap For easy carrying.</p>
 
@@ -2270,7 +2270,7 @@ https://www.playwell.co.uk/images/vinylbokkencase1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOC63,visible,52,instock,no,yes,22.98,,0.35,"https://www.playwell.co.uk/images/bo-padded-vinyl-case-72-ddf.jpg
+<p>&nbsp;</p>",BOC63,visible,50,instock,no,yes,22.98,,0.35,"https://www.playwell.co.uk/images/bo-padded-vinyl-case-72-ddf.jpg
 ",taxable,"Standard rate",simple,"Weapons Cases and Accessories","Weapons Cases and Accessories",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Escrima Case",escrima-case,publish,"<p>Deluxe Quality Made from Vinyl With soft Interior Lining, Holds 2 escrima sticks. Has a handle for easy carrying. 30&quot; long x 4&quot; wide.</p>","<p>Deluxe Quality Made from Vinyl With soft Interior Lining, Holds 2 escrima sticks. Has a handle for easy carrying. 30&quot; long x 4&quot; wide.</p>",ESC,visible,51,instock,no,yes,15.98,,0.35,"https://www.playwell.co.uk/images/00600.jpg
 ",taxable,"Standard rate",simple,"Weapons Cases and Accessories","Weapons Cases and Accessories",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2798,7 +2798,7 @@ https://www.playwell.co.uk/images/GRAPHITEREDBB1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NR-046,visible,29,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/graphiteblueredbb.jpg
+<p>&nbsp;</p>",NR-046,visible,28,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/graphiteblueredbb.jpg
 https://www.playwell.co.uk/images/graphiteblueredbb_01.jpg
 ",taxable,"Standard rate",simple,"Wooden & Steel Nunchucks","Wooden & Steel Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Monks Staff",wushu-monks-staff,publish,"<p>The classic weapon of high ranking monks of the legendary Shaolin Temple, we are pleased to offer this rare weapon to our customers. 74&quot; overall length 6 .lbs</p>","<p>The classic weapon of high ranking monks of the legendary Shaolin Temple, we are pleased to offer this rare weapon to our customers. 74&quot; overall length 6 .lbs</p>",WUSHUMONKST,visible,2,instock,no,yes,99.99,,18,"https://www.playwell.co.uk/images/monkstaff.jpg
@@ -6296,7 +6296,7 @@ https://www.playwell.co.uk/images/LOTKAMSU1_02.jpg
 
 <p>TOTAL LENGTH OF THE RULER: APPROX 10.5 INCHES.</p>
 
-<p>&nbsp;</p>",TCRRD,visible,74,instock,no,yes,15.98,,0.35,"https://www.playwell.co.uk/images/ruleroak.jpg
+<p>&nbsp;</p>",TCRRD,visible,73,instock,no,yes,15.98,,0.35,"https://www.playwell.co.uk/images/ruleroak.jpg
 ",taxable,"Standard rate",simple,"Tai Chi Uniforms And Suits","Tai Chi Uniforms And Suits",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wooden Knife 1",wooden-knife-1,publish,"<p>Wooden training Knife. Made of quality wood. One piece wood with hand guard. Total Length of Knife: 11 inches. Blade Length: 7 inches. Handle: 4 inches.</p>
 
@@ -6642,7 +6642,7 @@ https://www.playwell.co.uk/images/BLACKHANDWRAPS4M_01.jpg
 <p>&nbsp;</p>",SNECKTHIN,visible,,,no,,,,0.4,"https://www.playwell.co.uk/images/sbds.jpg
 ",taxable,"Standard rate",variable,"Miscellaneous Weapons","Miscellaneous Weapons",,,,,,,,,,,,,,,,,,,,"108 beads",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SNECK1081,,46,instock,,yes,17.00,,,,,,,,,SNECKTHIN,,,,,,"108 beads",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Rattan Walking Stick",rattan-walking-stick,publish,"<p>Rattan walking cane. Length 34&nbsp;inches approx. Handle opening 4 inches approx. Flexibilty: 5-9 degrees, Thickness appx 3cm. Varnished Rattan</p>","<p>Rattan walking cane. Length 34&nbsp;inches approx. Handle opening 4 inches approx. Flexibilty: 5-9 degrees, Thickness appx 3cm. Varnished Rattan</p>",RWS,visible,46,instock,no,yes,24.99,,1,"https://www.playwell.co.uk/images/Cane_-_Rattan_Walking_W013W_1024x1024.jpg
+"Rattan Walking Stick",rattan-walking-stick,publish,"<p>Rattan walking cane. Length 34&nbsp;inches approx. Handle opening 4 inches approx. Flexibilty: 5-9 degrees, Thickness appx 3cm. Varnished Rattan</p>","<p>Rattan walking cane. Length 34&nbsp;inches approx. Handle opening 4 inches approx. Flexibilty: 5-9 degrees, Thickness appx 3cm. Varnished Rattan</p>",RWS,visible,41,instock,no,yes,24.99,,1,"https://www.playwell.co.uk/images/Cane_-_Rattan_Walking_W013W_1024x1024.jpg
 ",taxable,"Standard rate",simple,"Miscellaneous Weapons","Miscellaneous Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Adults Wooden Broadsword - PRE ORDER",adults-wooden-broadsword---pre-order,publish,"<p>Beautifully hand crafted this smooth, hardwood sword is designed to have the look and feel of a real sword but without the hazards or expense of a real sword. Total length is 33&quot; long. Handle Length 7 inches. Made of&nbsp;Beech Wood&nbsp;for a durable feel.</p>
 
@@ -6834,7 +6834,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B1BK,,20,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1BU,,76142,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1BR,,10,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B34W,,20,instock,,yes,7.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B34W,,19,instock,,yes,7.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34R,,14,instock,,yes,7.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34Y,,2,instock,,yes,7.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34G,,2,instock,,yes,7.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6843,7 +6843,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B34BK,,9,instock,,yes,7.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34BU,,16,instock,,yes,7.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B3BR,,5,instock,,yes,7.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B36W,,18,instock,,yes,7.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B36W,,17,instock,,yes,7.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36R,,9,instock,,yes,7.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36Y,,20,instock,,yes,7.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36G,,7,instock,,yes,7.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6879,7 +6879,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5BK,,76020,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BU,,75138,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BR,,75551,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B6W,,76089,instock,,yes,5.85,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B6W,,76087,instock,,yes,5.85,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6R,,76058,instock,,yes,5.85,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6Y,,75941,instock,,yes,5.85,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6G,,76027,instock,,yes,5.85,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6888,7 +6888,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B6BK,,76156,instock,,yes,5.85,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6BU,,76025,instock,,yes,5.85,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6BR,,15,instock,,yes,5.85,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B7W,,76127,instock,,yes,5.85,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B7W,,76125,instock,,yes,5.85,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7R,,0,outofstock,,yes,5.85,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7Y,,75987,instock,,yes,5.85,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7G,,76059,instock,,yes,5.85,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7901,7 +7901,7 @@ https://www.playwell.co.uk/images/NEWPICESCRIMABAMBOO1_01.jpg
 https://www.playwell.co.uk/images/NEWPICESCRIMABAMBOO1_02.jpg
 ",taxable,"Standard rate",variable,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,"26 Inches|28 Inches",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ESBS26,,0,outofstock,,yes,13.98,,,,,,,,,ESBS,,,,,,,,,,,,,,,,,,,,,,,,,,,"26 Inches",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ESBS28,,6,instock,,yes,14.98,,,,,,,,,ESBS,,,,,,,,,,,,,,,,,,,,,,,,,,,"28 Inches",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ESBS28,,4,instock,,yes,14.98,,,,,,,,,ESBS,,,,,,,,,,,,,,,,,,,,,,,,,,,"28 Inches",,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Escrima Stick Black Wood",escrima-stick-black-wood,publish,"<p>Escrima&nbsp;Kali Sticks Black Oak Wood. Round short staffs made of Hardwood. Ideal for demonstrations. 26 inches in length, Diameter Length approx 1.2 inches. With two stripes. Sold as singles</p>
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
@@ -8149,8 +8149,8 @@ https://www.playwell.co.uk/images/W204_01.jpg
 <p>&nbsp;</p>",BKSROPED,visible,,,no,,,,0.75,"https://www.playwell.co.uk/images/12631-LG.jpg
 ",taxable,"Standard rate",variable,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cherry Oak|Red Oak|Black Oak",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKSROPEDCH,,36,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Cherry Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BKSROPEDR,,33,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Red Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BKSROPEDB,,47,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Black Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BKSROPEDR,,32,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Red Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BKSROPEDB,,46,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Black Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kendo Shinai: Beginners",kendo-shinai:-beginners,publish,"<p>Kendo Shinai. A split bamboo stick mostly used in kendo. Suede handle and end with tension ties. Comes with Tsube. Sizes Given In Inches. NO34 - 41&quot; Total Length NO36 - 43.5&quot; Total Length NO38 - 46&quot; Total Length</p>
 
 <p>&nbsp;</p>","<p>Kendo Shinai. A split bamboo stick mostly used in kendo. Suede handle and end with tension ties. Comes with Tsube. Sizes Given In Inches. NO34 - 41&quot; Total Length NO36 - 43.5&quot; Total Length NO38 - 46&quot; Total Length</p>
@@ -8231,7 +8231,7 @@ https://www.playwell.co.uk/images/W204_01.jpg
 ",taxable,"Standard rate",variable,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Black Oak|White Oak|Red Oak",0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKBK,,0,outofstock,,yes,22.84,,,,,,,,,BK,,,"Black Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKW,,71,instock,,yes,25.98,,,,,,,,,BK,,,"White Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BKR,,197,instock,,yes,21.99,,,,,,,,,BK,,,"Red Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BKR,,196,instock,,yes,21.99,,,,,,,,,BK,,,"Red Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Martial Arts Yin Yang Wallet",martial-arts-yin-yang-wallet,publish,"This stylish 5"" wide x 3.5"" tall wallet is perfect for martial arts students and instructors. It features a velcro closure to help keep your money from falling out. Makes a great Christmas gift!
 
 Perfect gift for Teenagers and Adults","This stylish 5"" wide x 3.5"" tall wallet is perfect for martial arts students and instructors. It features a velcro closure to help keep your money from falling out. Makes a great Christmas gift!
@@ -9714,7 +9714,7 @@ Height Diameter Weight<br />
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",3SECRUBBB1,visible,32,instock,no,yes,28.98,,0.9,"https://www.playwell.co.uk/images/3sectionalrubber.jpg
+<p>&nbsp;</p>",3SECRUBBB1,visible,31,instock,no,yes,28.98,,0.9,"https://www.playwell.co.uk/images/3sectionalrubber.jpg
 ",taxable,"Standard rate",simple,"Autumn/Winter Sales / Offers 2026","Autumn/Winter Sales / Offers 2026",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Cold Steel Polypropylene Spear Head Trainer",cold-steel-polypropylene-spear-head-trainer,publish,"<p>Now you can practice with some of our most popular knife designs in relative safety - with our rubber training knives!<br />
 <br />
@@ -10177,7 +10177,7 @@ https://www.playwell.co.uk/images/boredtaperednew1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BORDTAP72,visible,20,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredtaperednew1.jpg
+<p>&nbsp;</p>",BORDTAP72,visible,19,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredtaperednew1.jpg
 https://www.playwell.co.uk/images/boredtaperednew1_01.jpg
 https://www.playwell.co.uk/images/boredtaperednew1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11403,7 +11403,7 @@ https://www.playwell.co.uk/images/GREYCLOTHBELT1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RGREMOVMAG,visible,90,instock,no,yes,24.99,,0.35,"https://www.playwell.co.uk/images/5953NEWPICGUN1.jpg
+<p>&nbsp;</p>",RGREMOVMAG,visible,89,instock,no,yes,24.99,,0.35,"https://www.playwell.co.uk/images/5953NEWPICGUN1.jpg
 https://www.playwell.co.uk/images/5953NEWPICGUN1_01.jpg
 https://www.playwell.co.uk/images/5953NEWPICGUN1_02.jpg
 https://www.playwell.co.uk/images/5953NEWPICGUN1_03.jpg
@@ -13067,7 +13067,7 @@ https://www.playwell.co.uk/images/boblackthin1_01.jpg
 https://www.playwell.co.uk/images/boblackthin1_02.jpg
 ",taxable,"Standard rate",variable,"Jo Staffs","Jo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1""|1.25""",0|1|1,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	JOBK1",,25,instock,,yes,22.98,,,,,,,,,JOBK,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	JOBK1.2",,31,instock,,yes,22.98,,,,,,,,,JOBK,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	JOBK1.2",,30,instock,,yes,22.98,,,,,,,,,JOBK,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Adults Kung Fu Medium Weight 9oz Suit - Black",adults-kung-fu-medium-weight-9oz-suit---black,publish,"<p>Medium Weight Kung fu suit. Black. Black Cuffs and blackToggle Fasteners to Jackets. 100% Cotton. Trousers with Elastic and Cord Waist and Elasticated Ankle for all sizes. Excellent Kung fu uniform made with the finest bleached cotton. Traditional outfit. SASHES SOLD SEPARATELY.</p>
 
 <p>&nbsp;</p>","<p>Medium Weight Kung fu suit. Black. Black Cuffs and blackToggle Fasteners to Jackets. 100% Cotton. Trousers with Elastic and Cord Waist and Elasticated Ankle for all sizes. Excellent Kung fu uniform made with the finest bleached cotton. Traditional outfit. SASHES SOLD SEPARATELY.</p>
@@ -13078,11 +13078,11 @@ https://www.playwell.co.uk/images/newpickungfuallblackuniform1_02.jpg
 https://www.playwell.co.uk/images/newpickungfuallblackuniform1_03.jpg
 https://www.playwell.co.uk/images/newpickungfuallblackuniform1_04.jpg
 ",taxable,"Standard rate",variable,"Traditional Kung Fu Uniforms","Traditional Kung Fu Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5/180cm|4/170cm|7/200cm|6/190cm|3/160cm,0|1|1,,,,,,,,,,,,,,,,,,,
-,,publish,,,KFUB5,,5,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KFUB5,,4,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFUB4,,7,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFUB7,,0,outofstock,,yes,34.98,,,,,,,,,KFUB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFUB6,,10,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KFUB3,,2,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KFUB3,,1,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Nine Section Whip Chain - 250g",nine-section-whip-chain---250g,publish,"<p>Nine Section Whip Chain Made of Lightweight Steel. Regarded by some as one of the primary weapons of China, small enough to easily conceal but deadly when unleashed. Weight of Whip is Approx 250 grams. Really Lightweight for Fast Movements Total Length is Approx 52 Inches. Comes Complete With Free Carry Case.</p>
 
 <p>&nbsp;</p>","<p>Nine Section Whip Chain Made of Lightweight Steel. Regarded by some as one of the primary weapons of China, small enough to easily conceal but deadly when unleashed. Weight of Whip is Approx 250 grams. Really Lightweight for Fast Movements Total Length is Approx 52 Inches. Comes Complete With Free Carry Case.</p>
@@ -18958,7 +18958,7 @@ https://www.playwell.co.uk/images/badprogloves1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BKCRD,visible,136,instock,no,yes,20.99,,0.35,"https://www.playwell.co.uk/images/bokkenchildred1.jpg
+<p>&nbsp;</p>",BKCRD,visible,130,instock,no,yes,20.99,,0.35,"https://www.playwell.co.uk/images/bokkenchildred1.jpg
 https://www.playwell.co.uk/images/bokkenchildred1_01.jpg
 https://www.playwell.co.uk/images/bokkenchildred1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -21828,7 +21828,7 @@ https://www.playwell.co.uk/images/boashstraight_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOASHTOOTH72,visible,9,instock,no,yes,25.98,,18,"https://www.playwell.co.uk/images/ashbotapered.jpg
+<p>&nbsp;</p>",BOASHTOOTH72,visible,8,instock,no,yes,25.98,,18,"https://www.playwell.co.uk/images/ashbotapered.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Ash Wood Tapered  - 72"" - ( 6ft )",bo-staff-ash-wood-tapered----72&quot;---(-6ft-),publish,"<p>Bo staff Made of the finest Ash wood . Hardwood. Total Length 72 inches. Tapered At Both Ends, Diameter Centre length : 1.25 Inch - ends: 0.85&quot;</p>
 
@@ -23407,7 +23407,7 @@ https://www.playwell.co.uk/images/bolotussilverblack1_03.jpg
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>",ESWAXSPIRAL,visible,50,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/escrimspiralwax.jpg
+<div>&nbsp;</div>",ESWAXSPIRAL,visible,48,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/escrimspiralwax.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wooden Red Beech Wood Bokken With Plastic Scabbard",wooden-red-beech-wood-bokken-with-plastic-scabbard,publish,"<p>New Red Oak Bokken with Plastic Saya. A great product for beginners in Iaido and other sword arts looking to foster an interest without huge expenditure. Total Length is 40 inches Long, Handle Length is is 10 inches, Blade length 30 inches. Comes Complete with a plastic Saya Scabbard</p>","<p>New Red Oak Bokken with Plastic Saya. A great product for beginners in Iaido and other sword arts looking to foster an interest without huge expenditure. Total Length is 40 inches Long, Handle Length is is 10 inches, Blade length 30 inches. Comes Complete with a plastic Saya Scabbard</p>",redbokkenscabbard,visible,48,instock,no,yes,26.99,,0.9,"https://www.playwell.co.uk/images/redbokkenscabbard1.jpg
 https://www.playwell.co.uk/images/redbokkenscabbard1_01.jpg
@@ -24508,7 +24508,7 @@ Cold Steel&#39;s solution to these dilemmas was to design a synthetic substitute
 
 <p>. Please call if you need a particular colour, normally Black is available at all times</p>",SPADJUMBKRAV,visible,0,outofstock,no,yes,47.98,,5,"https://www.playwell.co.uk/images/kravjumbo.jpg
 ",taxable,"Standard rate",simple,"Strike Shields And Kick Pads","Strike Shields And Kick Pads",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Dynamint Balm - 237ml",dynamint-balm---237ml,publish,"<p>Increase your blood flow with Dynamint muscle balm. Benefit from a reduction in warm up times, helping you play your sport better and for longer. Refreshes muscle and reduces muscle tension when used as an &#39;After Sport Massage&#39;. Improves perception skills under extreme conditions. Developed especially for men and women involved in periods of increased mental or physical exertion. Dynamint muscle balm contains essential oils of Calendula, Peppermint, Teatree and Eucalpytus blended in a gentle aqueous base, made using the Glacier fresh waters from the Cascade Mountains in British Columbia. Deeply Penetrating, with a Cool-Warm sensation. Perfect for deep tissue, remedial sports massage, or just when you need soothing and relaxing warmth</p>","<p>Increase your blood flow with Dynamint muscle balm. Benefit from a reduction in warm up times, helping you play your sport better and for longer. Refreshes muscle and reduces muscle tension when used as an &#39;After Sport Massage&#39;. Improves perception skills under extreme conditions. Developed especially for men and women involved in periods of increased mental or physical exertion. Dynamint muscle balm contains essential oils of Calendula, Peppermint, Teatree and Eucalpytus blended in a gentle aqueous base, made using the Glacier fresh waters from the Cascade Mountains in British Columbia. Deeply Penetrating, with a Cool-Warm sensation. Perfect for deep tissue, remedial sports massage, or just when you need soothing and relaxing warmth</p>",DYNABALM237,visible,8,instock,no,yes,16.49,,0.35,"https://www.playwell.co.uk/images/Dynamint-Muscle-Balm-237ML.jpg
+"Dynamint Balm - 237ml",dynamint-balm---237ml,publish,"<p>Increase your blood flow with Dynamint muscle balm. Benefit from a reduction in warm up times, helping you play your sport better and for longer. Refreshes muscle and reduces muscle tension when used as an &#39;After Sport Massage&#39;. Improves perception skills under extreme conditions. Developed especially for men and women involved in periods of increased mental or physical exertion. Dynamint muscle balm contains essential oils of Calendula, Peppermint, Teatree and Eucalpytus blended in a gentle aqueous base, made using the Glacier fresh waters from the Cascade Mountains in British Columbia. Deeply Penetrating, with a Cool-Warm sensation. Perfect for deep tissue, remedial sports massage, or just when you need soothing and relaxing warmth</p>","<p>Increase your blood flow with Dynamint muscle balm. Benefit from a reduction in warm up times, helping you play your sport better and for longer. Refreshes muscle and reduces muscle tension when used as an &#39;After Sport Massage&#39;. Improves perception skills under extreme conditions. Developed especially for men and women involved in periods of increased mental or physical exertion. Dynamint muscle balm contains essential oils of Calendula, Peppermint, Teatree and Eucalpytus blended in a gentle aqueous base, made using the Glacier fresh waters from the Cascade Mountains in British Columbia. Deeply Penetrating, with a Cool-Warm sensation. Perfect for deep tissue, remedial sports massage, or just when you need soothing and relaxing warmth</p>",DYNABALM237,visible,6,instock,no,yes,16.49,,0.35,"https://www.playwell.co.uk/images/Dynamint-Muscle-Balm-237ML.jpg
 ",taxable,"Standard rate",simple,"Medical, Balms, Oils, Sprays","Medical, Balms, Oils, Sprays",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Karate Uniform Photo Frame",karate-uniform-photo-frame,publish,"<p>High quality fabric used to produce this photo frame. Holds 3.5 x 5 inch photo.</p>
 
@@ -26286,7 +26286,7 @@ https://www.playwell.co.uk/images/rhgc2blue1_03.jpg
 
 <div>&nbsp;</div>
 
-<p>&nbsp;</p>",ESWAXBTP,visible,9,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/whitewaxburntescrima.jpg
+<p>&nbsp;</p>",ESWAXBTP,visible,7,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/whitewaxburntescrima.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Vinyl Kama Case",deluxe-vinyl-kama-case,publish,"<p>Deluxe Quality Made from Vinyl With soft Interior Lining, Holds 2 kamas sticks. Has a handle for easy carrying. Measurements 19&quot; x 9.5&quot; x 1.75</p>
 
@@ -33869,7 +33869,7 @@ https://www.playwell.co.uk/images/JAP36REDBOKKEN1_03.jpg
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-</div>",TCWS38LION,visible,35,instock,no,yes,29.99,,1,"https://www.playwell.co.uk/images/LIONWOOD1.jpg
+</div>",TCWS38LION,visible,34,instock,no,yes,29.99,,1,"https://www.playwell.co.uk/images/LIONWOOD1.jpg
 https://www.playwell.co.uk/images/LIONWOOD1_01.jpg
 https://www.playwell.co.uk/images/LIONWOOD1_02.jpg
 https://www.playwell.co.uk/images/LIONWOOD1_03.jpg
@@ -35117,7 +35117,7 @@ https://www.playwell.co.uk/images/Kihon_Male_White_Front_1024x1024_05.jpg
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
 
-<p>&nbsp;</p>",BOKKENREDSTANDARD,visible,169,instock,no,yes,22.98,,0.9,"https://www.playwell.co.uk/images/bokkeneverestred1.jpg
+<p>&nbsp;</p>",BOKKENREDSTANDARD,visible,168,instock,no,yes,22.98,,0.9,"https://www.playwell.co.uk/images/bokkeneverestred1.jpg
 https://www.playwell.co.uk/images/bokkeneverestred1_01.jpg
 https://www.playwell.co.uk/images/bokkeneverestred1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -39292,7 +39292,7 @@ https://www.playwell.co.uk/images/KIDSBLUEWRAPS1_01.jpg
 
 <p>&nbsp;
 <p>&nbsp;</p>
-</p>",BORDTAP60OAK,visible,37,instock,no,yes,22.98,,18,"https://www.playwell.co.uk/images/boredtaperednew1.jpg
+</p>",BORDTAP60OAK,visible,36,instock,no,yes,22.98,,18,"https://www.playwell.co.uk/images/boredtaperednew1.jpg
 https://www.playwell.co.uk/images/boredtaperednew1_01.jpg
 https://www.playwell.co.uk/images/boredtaperednew1_02.jpg
 ",taxable,"Standard rate",simple,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -43502,9 +43502,9 @@ https://www.playwell.co.uk/images/abskatananew_01.jpg
 https://www.playwell.co.uk/images/abskatananew_02.jpg
 https://www.playwell.co.uk/images/abskatananew_03.jpg
 ",taxable,"Standard rate",variable,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black|Blue|Red|White,0|1|1,,,,,,,
-,,publish,,,ABSSAMKATSCABBLACK,,22,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ABSSAMKATSCABBLACK,,21,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ABSSAMKATSCABBLUE,,7,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ABSSAMKATSCABRED,,8,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ABSSAMKATSCABRED,,7,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ABSSAMKATSCABWHITE,,8,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Ash Wood Straight  - 72"" - ( 6ft )",bo-staff-ash-wood-straight----72&quot;---(-6ft-),publish,"<p>Bo staff Made of the finest Ash wood . Hardwood. Total Length 72 inches. Straight,&nbsp;</p>
 
@@ -43827,7 +43827,7 @@ https://www.playwell.co.uk/images/kravshinknee_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBKSCHILD,visible,89,instock,no,yes,23.99,,0.9,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
+<p>&nbsp;</p>",PPBKSCHILD,visible,87,instock,no,yes,23.99,,0.9,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_01.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_02.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_03.jpg
@@ -47442,7 +47442,7 @@ https://www.playwell.co.uk/images/Under-Armour-Playmaker-Squeeze-Sports-Water-Bo
 
 <p>Top of the Range Bokken - GRADE (A) High Quality Wood&nbsp;</p>
 
-<p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>",BKDRAGON,visible,136,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/DRAGONBOKKEN.jpg
+<p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>",BKDRAGON,visible,135,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/DRAGONBOKKEN.jpg
 https://www.playwell.co.uk/images/DRAGONBOKKEN_01.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Escrima Stick Red Oak With Carved Dragon",deluxe-escrima-stick-red-oak-with-carved-dragon,publish,"<p>Our Best selling Dragon Range Is Now available for our escrima Stick Range, Made from Red Oak Featuring Laser carved Dragon in the centre, Total Length 26 inches Sold as singles</p>","<p>Our Best selling Dragon Range Is Now available for our escrima Stick Range, Made from Red Oak Featuring Laser carved Dragon in the centre, Total Length 26 inches Sold as singles</p>",redcarvedstick,visible,0,outofstock,no,yes,16.98,,0.35,"https://www.playwell.co.uk/images/redcarvedstick.jpg
@@ -55554,8 +55554,8 @@ https://www.playwell.co.uk/images/Fairtex-SP5-Shin-Pads-Blue_04.jpg
 <p>&nbsp;</p>",KPDELWHGREY,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/GREYGHOST.jpg
 ",taxable,"Standard rate",variable,"Lower Body Protection","Lower Body Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium|Large|Small,0|1|1,,,,,,,
 ,,publish,,,KPDELWHGREYM,,-1,outofstock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KPDELWHGREYL,,0,outofstock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KPDELWHGREYS,,88,instock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KPDELWHGREYL,,-1,outofstock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KPDELWHGREYS,,87,instock,,yes,18.98,,,,,,,,,KPDELWHGREY,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Aluminium Broadsword With Rivets - 36"" - D471B",deluxe-aluminium-broadsword-with-rivets---36&quot;---d471b,publish,"<p>Deluxe Broadsword made of Aluminium. Stylishly crafted of aluminum With Rivets. Features an etched blood groove in the blade. An excellent training weapon. Wrapped handle. Sashes included, color may vary. Scabbard not included. Total Length approx: 36 inches, Handle Length approx: 5.5 inches</p>
 
 <p>&nbsp;</p>
@@ -72031,7 +72031,7 @@ https://www.playwell.co.uk/images/Adidas-Adistar-Pro-Boxing-Headguard-Black-Gold
 ,,publish,,,ADIHGADISTARBKGDM,,1,instock,,yes,89.99,,,,,,,,,ADIHGADISTARBKGD,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ADIHGADISTARBKGDL,,1,instock,,yes,89.99,,,,,,,,,ADIHGADISTARBKGD,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ADIHGADISTARBKGDXL,,1,instock,,yes,89.99,,,,,,,,,ADIHGADISTARBKGD,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Deluxe Escrima Stick Black Oak With Gold Dragon",deluxe-escrima-stick-black-oak-with-gold-dragon,publish,"<p>Our Best selling Dragon Range Is Now available for our escrima Stick Range, Made from Black Oak Featuring Laser Stamp Dragon in the centre, Total Length 26 inches Sold as singles</p>","<p>Our Best selling Dragon Range Is Now available for our escrima Stick Range, Made from Black Oak Featuring Laser Stamp Dragon in the centre, Total Length 26 inches Sold as singles</p>",blackcarvedstick,visible,77,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/newescrimagolddragon1.jpg
+"Deluxe Escrima Stick Black Oak With Gold Dragon",deluxe-escrima-stick-black-oak-with-gold-dragon,publish,"<p>Our Best selling Dragon Range Is Now available for our escrima Stick Range, Made from Black Oak Featuring Laser Stamp Dragon in the centre, Total Length 26 inches Sold as singles</p>","<p>Our Best selling Dragon Range Is Now available for our escrima Stick Range, Made from Black Oak Featuring Laser Stamp Dragon in the centre, Total Length 26 inches Sold as singles</p>",blackcarvedstick,visible,74,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/newescrimagolddragon1.jpg
 https://www.playwell.co.uk/images/newescrimagolddragon1_01.jpg
 https://www.playwell.co.uk/images/newescrimagolddragon1_02.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -88074,3 +88074,26 @@ https://www.playwell.co.uk/images/TIGERTHAIPADS1_04.jpg
 https://www.playwell.co.uk/images/TIGERTHAIPADS1_05.jpg
 https://www.playwell.co.uk/images/TIGERTHAIPADS1_06.jpg
 ",taxable,"Standard rate",simple,"Thai Kick Pads","Thai Kick Pads",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"High Top Feiyue Wushu Training Shoes : Black - PRE ORDER",high-top-feiyue-wushu-training-shoes-:-black---pre-order,publish,"<p>These NEW Feiyue High-Top trainers are the most comfortable training shoes that we have ever had in stock. This new design is top for comfort, performance and grip, they are just what you would expect from Feiyue, a High-Top supportive design. Feiyue is China&#39;s most popular martial arts shoe and for good reason. These high-tops are lightweight yet durable in construction, with secure fit and ankle support with extra stability and flexibility at an extremely affordable price. They are a modern shoe for an ancient tradition.</p>
+
+<p>Sold as Pairs</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILLSHIP 10TH AUGUST 2026&nbsp;</strong></span></p>","<p>These NEW Feiyue High-Top trainers are the most comfortable training shoes that we have ever had in stock. This new design is top for comfort, performance and grip, they are just what you would expect from Feiyue, a High-Top supportive design. Feiyue is China&#39;s most popular martial arts shoe and for good reason. These high-tops are lightweight yet durable in construction, with secure fit and ankle support with extra stability and flexibility at an extremely affordable price. They are a modern shoe for an ancient tradition.</p>
+
+<p>Sold as Pairs</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILLSHIP 10TH AUGUST 2026&nbsp;</strong></span></p>",FSHblack,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/hiblacktop.jpg
+",taxable,"Standard rate",variable,"Traditional Footwear","Traditional Footwear",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45|43|42|39|44|38|41|40|37,0|1|1,
+,,publish,,,"	FSHblack45",,15,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack43",,37,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack42",,37,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack39",,20,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack44",,12,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack38",,10,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack41",,36,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack40",,18,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack37",,10,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
