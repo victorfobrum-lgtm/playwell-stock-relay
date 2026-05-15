@@ -1361,7 +1361,7 @@ One of the advantages of this dying method is that Indigo has a natural antibact
 ",taxable,"Standard rate",variable,Hakama,Hakama,,,,,"Size 28|Size 29|Size 30",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HKJ1000028,,0,outofstock,,yes,62.54,,,,,,,,,HKJ10000,,,,,,"Size 28",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HKJ1000029,,0,outofstock,,yes,63.38,,,,,,,,,HKJ10000,,,,,,"Size 29",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,HKJ1000030,,1,instock,,yes,64.23,,,,,,,,,HKJ10000,,,,,,"Size 30",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,HKJ1000030,,0,outofstock,,yes,64.23,,,,,,,,,HKJ10000,,,,,,"Size 30",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Hapkido Uniform: Black/Red",hapkido-uniform:-black/red,publish,"<p>Medium weight black cotton with red lining across front and back. Excellent quality stitching with top features. For the serious Martial artist. Black belt NOT included.</p>","<p>Medium weight black cotton with red lining across front and back. Excellent quality stitching with top features. For the serious Martial artist. Black belt NOT included.</p>",HPBR,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/Hapkido-Black-Red-Uniform.jpg
 ",taxable,"Standard rate",variable,"Hapkido Uniforms And Suits","Hapkido Uniforms And Suits",,,,,4/170cm|6/190cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HPBR4,,0,outofstock,,yes,26.70,,,,,,,,,HPBR,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4053,7 +4053,7 @@ As a gift, the fan symbolises friendship and respect. In ancient China, fans wer
 ,,publish,,,WKFCGS,,19,instock,,yes,54.99,,,,,,,,,WKFCG,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WKFCGL,,0,outofstock,,yes,54.99,,,,,,,,,WKFCG,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WKFCGXL,,18,instock,,yes,54.99,,,,,,,,,WKFCG,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,WKFCGM,,18,instock,,yes,54.99,,,,,,,,,WKFCG,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,WKFCGM,,17,instock,,yes,54.99,,,,,,,,,WKFCG,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Full Contact Excalibur Long Sword - 41.7""",black-polypropylene-full-contact-excalibur-long-sword---41.7&quot;,publish,"<p>Excalibur Long &nbsp;made from Polypropylene Material&nbsp; Much stronger &amp; Durable &nbsp;then Wooden Oak Bokkens, Lightweight Yet Sturdy.</p>
 
 <p>Total Length of&nbsp;Sword is 41.7 Inches. Comes Complete With Tsuba Guard,</p>
@@ -33948,7 +33948,7 @@ https://www.playwell.co.uk/images/WTFWHITEFIGHTERSUIT_03.jpg
 https://www.playwell.co.uk/images/WTFWHITEFIGHTERSUIT_04.jpg
 https://www.playwell.co.uk/images/WTFWHITEFIGHTERSUIT_05.jpg
 ",taxable,"Standard rate",variable,"Taekwondo Uniforms and Trousers","Taekwondo Uniforms and Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4/170cm|5/180cm|6/190cm|7/200cm|3/160cm,0|1|1,,,,,,,
-,,publish,,,WTFFIGHTWH170,,5,instock,,yes,40.98,,,,,,,,,WTFFIGHTWH,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,WTFFIGHTWH170,,4,instock,,yes,40.98,,,,,,,,,WTFFIGHTWH,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WTFFIGHTWH180,,4,instock,,yes,41.98,,,,,,,,,WTFFIGHTWH,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WTFFIGHTWH190,,272,instock,,yes,42.98,,,,,,,,,WTFFIGHTWH,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WTFFIGHTWH1200,,275,instock,,yes,39.98,,,,,,,,,WTFFIGHTWH,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34853,7 +34853,7 @@ https://www.playwell.co.uk/images/jap36bokken1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",SHOTOW,visible,88,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/SHOTOWHITE1.jpg
+<p>&nbsp;</p>",SHOTOW,visible,87,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/SHOTOWHITE1.jpg
 https://www.playwell.co.uk/images/SHOTOWHITE1_01.jpg
 https://www.playwell.co.uk/images/SHOTOWHITE1_02.jpg
 https://www.playwell.co.uk/images/SHOTOWHITE1_03.jpg
@@ -37077,7 +37077,7 @@ https://www.playwell.co.uk/images/smallpistol1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RGM009,visible,23,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/NEWPICM009GUN1.jpg
+<p>&nbsp;</p>",RGM009,visible,22,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/NEWPICM009GUN1.jpg
 https://www.playwell.co.uk/images/NEWPICM009GUN1_01.jpg
 https://www.playwell.co.uk/images/NEWPICM009GUN1_02.jpg
 https://www.playwell.co.uk/images/NEWPICM009GUN1_03.jpg
@@ -49237,7 +49237,7 @@ https://www.playwell.co.uk/images/MAROONSHIN1_02.jpg
 https://www.playwell.co.uk/images/MAROONSHIN1_03.jpg
 ",taxable,"Standard rate",variable,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|Medium|X - Large",0|1|1,,,,,,,
 ,,publish,,,MAROONSHINL,,7,instock,,yes,24.99,,,,,,,,,MAROONSHIN,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,MAROONSHINM,,10,instock,,yes,24.99,,,,,,,,,MAROONSHIN,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,MAROONSHINM,,9,instock,,yes,24.99,,,,,,,,,MAROONSHIN,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,MAROONSHINXL,,9,instock,,yes,24.99,,,,,,,,,MAROONSHIN,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum x UFC Replica Cotton Joggers - Black/Gold",venum-x-ufc-replica-cotton-joggers---black/gold,publish,"<p>Venum x UFC Replica Cotton Joggers - Black/Gold</p>
 
@@ -72880,7 +72880,7 @@ The Walking Axe Cane represents the culmination of years of design and developme
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>",COLDSHEAVYCANE,visible,13,instock,no,yes,46.98,,0.9,"https://www.playwell.co.uk/images/COLDHEAVYDUTYCANE.jpg
+<div>&nbsp;</div>",COLDSHEAVYCANE,visible,12,instock,no,yes,46.98,,0.9,"https://www.playwell.co.uk/images/COLDHEAVYDUTYCANE.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Hayabusa Double End & Heavy Bag Anchor",hayabusa-double-end-&amp;-heavy-bag-anchor,publish,"<p>Hayabusa Double End &amp; Heavy Bag Anchor</p>
 
@@ -78143,7 +78143,7 @@ https://www.playwell.co.uk/images/newwoodspeedblue1_02.jpg
 
 <p>Weight:&nbsp; 348g</p>
 
-<p>&nbsp;</p>",PPBARONGDOUBLEJOHN,visible,31,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newbarong1.jpg
+<p>&nbsp;</p>",PPBARONGDOUBLEJOHN,visible,30,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newbarong1.jpg
 https://www.playwell.co.uk/images/newbarong1_01.jpg
 https://www.playwell.co.uk/images/newbarong1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
