@@ -5043,7 +5043,7 @@ https://www.playwell.co.uk/images/KUNGCOTTON1_03.jpg
 ,,publish,,,KUNGCOTTON37,,1,instock,,yes,17.99,,,,,,,,,KUNGCOTTON,,,,,,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KUNGCOTTON44,,44,instock,,yes,17.99,,,,,,,,,KUNGCOTTON,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KUNGCOTTON45,,0,outofstock,,yes,17.99,,,,,,,,,KUNGCOTTON,,,,,,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KUNGCOTTON43,,25,instock,,yes,17.99,,,,,,,,,KUNGCOTTON,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KUNGCOTTON43,,24,instock,,yes,17.99,,,,,,,,,KUNGCOTTON,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KUNGCOTTON42,,31,instock,,yes,17.99,,,,,,,,,KUNGCOTTON,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Zorri Sandals X shape",zorri-sandals-x-shape,publish,"<p>Traditional zorri slippers, Available in x or y shape, as displayed in picture.</p>","<p>Traditional zorri slippers, Available in x or y shape, as displayed in picture.</p>",ZORIX,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/ZORIXSHAPENEWIMAGE.jpg
 ",taxable,"Standard rate",variable,"Traditional Footwear","Traditional Footwear",,,,,,,,,,,,,,"40 / 6|41 / 7|42 / 8|38 / 4|39 / 5|43 / 9|44 / 10|45 / 11|46 / 12",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6763,7 +6763,7 @@ https://www.playwell.co.uk/images/BLACKHANDWRAPS4M_01.jpg
 https://www.playwell.co.uk/images/boredstaff_01.jpg
 ",taxable,"Standard rate",variable,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,"1""|1.25""",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BOR601,,0,outofstock,,yes,23.99,,,,,,,,,BOR60,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOR60125,,38,instock,,yes,23.99,,,,,,,,,BOR60,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOR60125,,37,instock,,yes,23.99,,,,,,,,,BOR60,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff White Tapered 60 Inches",bo-staff-white-tapered-60-inches,publish,"<p>Made of The Finest &nbsp;Grade A Quality Made From Beech Wood. Hardwood. Total Length 60 inches&nbsp;&nbsp; OR 5ft . Diameter Length Varies. Tapered On Both Ends Of Staff</p>
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
@@ -25910,7 +25910,7 @@ https://www.playwell.co.uk/images/Venum-Challenger-4.0-Boxing-Gloves-Black-White
 <p>&nbsp;</p>",JORD,visible,,,no,,,,15,"https://www.playwell.co.uk/images/jored.jpg
 ",taxable,"Standard rate",variable,"Jo Staffs","Jo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1.25""|1""",0|1|1,,,,,,,,,,
 ,,publish,,,JORD125,,60,instock,,yes,23.99,,,,,,,,,JORD,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,JORD1,,60,instock,,yes,23.99,,,,,,,,,JORD,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,JORD1,,59,instock,,yes,23.99,,,,,,,,,JORD,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Jo Staff Red Oak Carved Dragon",jo-staff-red-oak-carved-dragon,publish,"<p>Jo Staff Red Oak Wood Carved dragon Made of quality hardwood. Available in straight only. 50 inches in Length. Diameter Length approx 1.2 inches. Colour Red Beech Wood. Has a buetifully carved dragon on the centre of the staff. Excellent Design..................Top Seller</p>
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
@@ -77710,7 +77710,7 @@ https://www.playwell.co.uk/images/Wicked1-Eager-Contest-Lightweight-MMA-Shorts_0
 https://www.playwell.co.uk/images/Wicked1-Eager-Contest-Lightweight-MMA-Shorts_05.jpg
 ",taxable,"Standard rate",variable,"Adidas Boxing Equipment","Adidas Boxing Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|Medium|Small|X Large",0|1|1,
 ,,publish,,,WICKED1ECMMASHORTL,,2,instock,,yes,49.98,,,,,,,,,WICKED1ECMMASHORT,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,WICKED1ECMMASHORTM,,1,instock,,yes,49.98,,,,,,,,,WICKED1ECMMASHORT,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,WICKED1ECMMASHORTM,,0,outofstock,,yes,49.98,,,,,,,,,WICKED1ECMMASHORT,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WICKED1ECMMASHORTS,,1,instock,,yes,49.98,,,,,,,,,WICKED1ECMMASHORT,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WICKED1ECMMASHORTXL,,2,instock,,yes,49.98,,,,,,,,,WICKED1ECMMASHORT,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wicked1 Eager Contest Short Sleeve MMA Rashguard",wicked1-eager-contest-short-sleeve-mma-rashguard,publish,"<p>Wicked1 Eager Contest Short Sleeve MMA Rashguard</p>
@@ -83737,7 +83737,7 @@ Weight: 1040 g",watchman,visible,4,instock,no,yes,84.99,,1,"https://www.playwell
 https://www.playwell.co.uk/images/RIVALRS100RED1_01.jpg
 https://www.playwell.co.uk/images/RIVALRS100RED1_02.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|18 oz|16 oz",0|1|1,
-,,publish,,,RIVALRS100RED14,,2,instock,,yes,199.98,,,,,,,,,RIVALRS100RED,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,RIVALRS100RED14,,1,instock,,yes,199.98,,,,,,,,,RIVALRS100RED,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,RIVALRS100RED18,,1,instock,,yes,199.98,,,,,,,,,RIVALRS100RED,,,,,,,,,"18 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,RIVALRS100RED16,,0,outofstock,,yes,199.98,,,,,,,,,RIVALRS100RED,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Waxwood Single Spear head Stick (With Ball Bearings) - 78""",wushu-waxwood-single-spear-head-stick-(with-ball-bearings)---78&quot;,publish,"<p>Kung fu Spear Stick, Made from Wax Wood, This new Innovation has ball bearings in the spear Head For Sound while training.</p>
