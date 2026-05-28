@@ -1619,9 +1619,9 @@ https://www.playwell.co.uk/images/newpicjudoblack1_03.jpg
 https://www.playwell.co.uk/images/newpicjudoblack1_04.jpg
 ",taxable,"Standard rate",variable,"Judo Uniforms","Judo Uniforms",,,,,6/190cm|5/180cm|4/170cm|3/160cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	JBK6",,10,instock,,yes,52.54,,,,,,,,,JBK,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	JBK5",,15,instock,,yes,49.98,,,,,,,,,JBK,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	JBK5",,14,instock,,yes,49.98,,,,,,,,,JBK,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	JBK4",,7,instock,,yes,49.98,,,,,,,,,JBK,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	JBK3",,8,instock,,yes,49.98,,,,,,,,,JBK,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	JBK3",,7,instock,,yes,49.98,,,,,,,,,JBK,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,49.98,,,,,,,,,JBK,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Judo Uniform: Blue",judo-uniform:-blue,publish,"<p>Bleached Blue Judo Suit. A new introduction by Playwell for that distinctive style in judo. 100% cotton: 475 grams. Excellent quality Judo uniform. Judo trousers comes with Drawstring tie waist waist for all sizes. Comes complete with white white judo belt. Genuine 475g weight and colourfast bleached blue.</p>","<p>Bleached Blue Judo Suit. A new introduction by Playwell for that distinctive style in judo. 100% cotton: 475 grams. Excellent quality Judo uniform. Judo trousers comes with Drawstring tie waist waist for all sizes. Comes complete with white white judo belt. Genuine 475g weight and colourfast bleached blue.</p>",JBU,visible,,,no,,,,1,"https://www.playwell.co.uk/images/jujitsubluefront.jpg
 https://www.playwell.co.uk/images/jujitsubluefront_01.jpg
@@ -6467,8 +6467,8 @@ https://www.playwell.co.uk/images/KARATESILVERBRAND1_03.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,,,,,,,,,,,,,,,,00/120cm|0/130cm|1/140cm|2/150cm|000/110cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB00,,9,instock,,yes,29.99,,,,,,,,,KSB,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB0,,13,instock,,yes,29.99,,,,,,,,,KSB,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSB1,,1,instock,,yes,29.99,,,,,,,,,KSB,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSB2,,12,instock,,yes,29.99,,,,,,,,,KSB,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSB1,,0,outofstock,,yes,29.99,,,,,,,,,KSB,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSB2,,11,instock,,yes,29.99,,,,,,,,,KSB,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB000,,9,instock,,yes,29.99,,,,,,,,,KSB,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Thai Kick Pad Vinyl - Slim",thai-kick-pad-vinyl---slim,publish,"<p>Velcro fastening holding straps. Soft foam filling, Great For Ladies, Kids, Beginners. . Playwell best seller at the best price on the market. Sold in singles. Measurements in Inches: 17 x 9 x 3.5.<br>
 <br>Colour Available Blue Only</p>","<p>Velcro fastening holding straps. Soft foam filling, Great For Ladies, Kids, Beginners. . Playwell best seller at the best price on the market. Sold in singles. Measurements in Inches: 17 x 9 x 3.5.<br>
@@ -6857,7 +6857,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B36BR,,8,instock,,yes,7.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2W,,123,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2R,,84,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2Y,,157,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2Y,,156,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2G,,94,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2O,,75209,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2P,,75960,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7189,7 +7189,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 
 <p>&nbsp;</p>",B,visible,,,no,,,,0.25,"https://www.playwell.co.uk/images/WHITEBELTCOLOUREDSTRIPENEW.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DUPLICATE83,,2904,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DUPLICATE83,,2903,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4WO,,3328,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WO,,3864,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WO,,3910,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7199,7 +7199,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5WR,,3670,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WR,,3854,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WR,,3886,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2WY,,224,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2WY,,221,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4WY,,0,outofstock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WY,,3255,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WY,,3864,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7209,7 +7209,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5WG,,3899,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WG,,3912,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WG,,3909,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2WP,,3556,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2WP,,3555,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4WP,,3676,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WP,,3902,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WP,,3907,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7219,7 +7219,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5WBU,,3885,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WBU,,3908,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WBU,,3907,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DUPLICATE16,,3501,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DUPLICATE16,,3500,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE17,,3545,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE18,,3837,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE19,,3906,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8182,7 +8182,7 @@ https://www.playwell.co.uk/images/W204_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",SUBOBOKDELUXE,visible,13,instock,no,yes,31.98,,1,"https://www.playwell.co.uk/images/Wooden-Suburito-C411.jpg
+<p>&nbsp;</p>",SUBOBOKDELUXE,visible,12,instock,no,yes,31.98,,1,"https://www.playwell.co.uk/images/Wooden-Suburito-C411.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Training Wooden Oak Bokken - Grade A Quality",training-wooden-oak-bokken---grade-a-quality,publish,"<p>Training Wooden Bokken available in red, black or white oak wood</p>
 
@@ -8398,7 +8398,7 @@ https://www.playwell.co.uk/images/F210A1_03.jpg
 ,,publish,,,"	TBS41",,9,instock,,yes,34.99,,,,,,,,,TBS,,,,,,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	TBS40",,3,instock,,yes,34.99,,,,,,,,,TBS,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	TBS42",,8,instock,,yes,34.99,,,,,,,,,TBS,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	TBS43",,9,instock,,yes,34.99,,,,,,,,,TBS,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	TBS43",,8,instock,,yes,34.99,,,,,,,,,TBS,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	TBS44",,14,instock,,yes,34.99,,,,,,,,,TBS,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	TBS45",,14,instock,,yes,34.99,,,,,,,,,TBS,,,,,,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	TBS46",,9,instock,,yes,34.99,,,,,,,,,TBS,,,,,,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11305,7 +11305,7 @@ https://www.playwell.co.uk/images/KARATESILVERBRAND1_03.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7/200cm|4/170cm|3/160cm|6/190cm|5/180cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB7,,4,instock,,yes,39.99,,,,,,,,,KSB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB4,,30,instock,,yes,37.98,,,,,,,,,KSB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSB3,,8,instock,,yes,36.98,,,,,,,,,KSB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSB3,,7,instock,,yes,36.98,,,,,,,,,KSB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB6,,0,outofstock,,yes,37.98,,,,,,,,,KSB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB5,,24,instock,,yes,37.98,,,,,,,,,KSB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Panther Knife - 17.5"" E442",black-polypropylene-panther-knife---17.5&quot;-e442,publish,"<p>Black Panther Knife&nbsp;made from Polypropylene Material &nbsp;Much stronger &amp; Durable&nbsp;&nbsp;then Metal Knives, Lightweight Yet Sturdy. &nbsp;</p>
@@ -12626,7 +12626,7 @@ https://www.playwell.co.uk/images/DOUBLEBLACK1_02.jpg
 ,,publish,,,B2PBU,,8885,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Purple Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BUP,,8886,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Blue Belt - Purple Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2YO,,8734,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Orange Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2YG,,8526,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Green Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2YG,,8525,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Green Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BRR,,8894,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Brown Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2YR,,8773,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2OG,,8845,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Orange Belt - Green Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12866,7 +12866,7 @@ https://www.playwell.co.uk/images/RPMWHITEGOLD_01.jpg
 <p>&nbsp;</p>",TTENPFBOOTBK,visible,,,no,,,,0.75,"https://www.playwell.co.uk/images/toptenblackfoot.jpg
 ",taxable,"Standard rate",variable,"Sparring Boots","Sparring Boots",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small|Medium|Large|Medium/Large,0|1|1,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TTENPFBOOTBKS,,2,instock,,yes,47.99,,,,,,,,,TTENPFBOOTBK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TTENPFBOOTBKM,,1,instock,,yes,47.99,,,,,,,,,TTENPFBOOTBK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TTENPFBOOTBKM,,0,outofstock,,yes,47.99,,,,,,,,,TTENPFBOOTBK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TTENPFBOOTBKL,,2,instock,,yes,47.99,,,,,,,,,TTENPFBOOTBK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TTENPFBOOTBKML,,1,instock,,yes,47.99,,,,,,,,,TTENPFBOOTBK,,,,,,Medium/Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sinawali Rattan Kali Escrima Sticks  22"" - Pair - PRE ORDER",sinawali-rattan-kali-escrima-sticks--22&quot;---pair---pre-order,publish,"<p>Sinawali Rattan Kali Sticks Slightly Shorter then your normal Escrima sticks at 22 inches, Made from strong durable rattan, Sold as pairs</p>
@@ -22934,7 +22934,7 @@ https://www.playwell.co.uk/images/venumreflexball1_04.jpg
 
 <p>&nbsp;</p>","<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Now with a Removeable Magazine, Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is Black,</p>
 
-<p>&nbsp;</p>",RGSIGREMOVMAG,visible,23,instock,no,yes,24.99,,0.35,"https://www.playwell.co.uk/images/NEWPICSIGGUN1.jpg
+<p>&nbsp;</p>",RGSIGREMOVMAG,visible,22,instock,no,yes,24.99,,0.35,"https://www.playwell.co.uk/images/NEWPICSIGGUN1.jpg
 https://www.playwell.co.uk/images/NEWPICSIGGUN1_01.jpg
 https://www.playwell.co.uk/images/NEWPICSIGGUN1_02.jpg
 https://www.playwell.co.uk/images/NEWPICSIGGUN1_03.jpg
@@ -34954,7 +34954,7 @@ https://www.playwell.co.uk/images/Kihon_Male_White_Front_1024x1024_05.jpg
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
 
-<p>&nbsp;</p>",BOKKENREDSTANDARD,visible,157,instock,no,yes,22.98,,0.9,"https://www.playwell.co.uk/images/bokkeneverestred1.jpg
+<p>&nbsp;</p>",BOKKENREDSTANDARD,visible,156,instock,no,yes,22.98,,0.9,"https://www.playwell.co.uk/images/bokkeneverestred1.jpg
 https://www.playwell.co.uk/images/bokkeneverestred1_01.jpg
 https://www.playwell.co.uk/images/bokkeneverestred1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34970,7 +34970,7 @@ https://www.playwell.co.uk/images/SEMIGLOVESPURPLE1_03.jpg
 ,,publish,,,"	SCGPMAPURPLEL",,19,instock,,yes,27.99,,,,,,,,,SCGPMAPURPLE,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	SCGPMAPURPLEM",,9,instock,,yes,27.99,,,,,,,,,SCGPMAPURPLE,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	SCGPMAPURPLEXS",,13,instock,,yes,27.99,,,,,,,,,SCGPMAPURPLE,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	SCGPMAPURPLES",,11,instock,,yes,27.99,,,,,,,,,SCGPMAPURPLE,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	SCGPMAPURPLES",,10,instock,,yes,27.99,,,,,,,,,SCGPMAPURPLE,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Semi Contact Point Sparring Boots - Purple",semi-contact-point-sparring-boots---purple,publish,"<p>High Quality Semi Contact Boots. Made of Sytnec Leather. For sparring in tournaments &amp; Competitions. Made from Highly Absorbant &quot;MFS&quot; Foam Padding Semi contact boots are suitable for Taekwondo, Kickkboxing, Karate.........</p>
 
 <p>Superior High Quality Sparring Boots</p>
@@ -39083,7 +39083,7 @@ https://www.playwell.co.uk/images/KIDSBLUEWRAPS1_01.jpg
 ",taxable,"Standard rate",variable,"Competition Semi Contact Gloves & Bag Gloves","Competition Semi Contact Gloves & Bag Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|Medium|X - Small|Small",0|1|1,,,,,,,
 ,,publish,,,SCGPMAPINKL,,5,instock,,yes,27.99,,,,,,,,,SCGPMAPINK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SCGPMAPINKM,,6,instock,,yes,27.99,,,,,,,,,SCGPMAPINK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,SCGPMAPINKXS,,5,instock,,yes,27.99,,,,,,,,,SCGPMAPINK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,SCGPMAPINKXS,,4,instock,,yes,27.99,,,,,,,,,SCGPMAPINK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SCGPMAPINKS,,0,outofstock,,yes,27.99,,,,,,,,,SCGPMAPINK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Red Oak Tapered Both Ends - 60"" - PRE ORDER",bo-staff-red-oak-tapered-both-ends---60&quot;---pre-order,publish,"<p>Bo Staff Made of&nbsp;Beech Wood Total Length 60 Inches, Tapered At Both Ends</p>
 
@@ -43673,7 +43673,7 @@ https://www.playwell.co.uk/images/newrevolver1_01.jpg
 https://www.playwell.co.uk/images/newrevolver1_02.jpg
 https://www.playwell.co.uk/images/newrevolver1_03.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Press Worker ( Bull Worker ) - 110lbs",press-worker-(-bull-worker-)---110lbs,publish,"<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>","<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>",BW,visible,99,instock,no,yes,39.99,,7,"https://www.playwell.co.uk/images/PRESS1.jpg
+"Press Worker ( Bull Worker ) - 110lbs",press-worker-(-bull-worker-)---110lbs,publish,"<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>","<p>Press worker is the original home fitness aid, the proven alternative to expensive, time consuming visits to the Gym. The Press worker builds muscle fast in all the major muscle groups. There is no way to build muscle faster than isometric exercise. It builds your strength by 4% every week. And you only have to do each exercise once a day for 7 seconds. You can do 104 exercises with the Bullworker - but 7 of them build all the major muscle groups. This is how you can build a power packed body in just 49 seconds a day. Great for use at home, at work, while traveling and in private. The Bullworker...Feel Better...Look Better...Tone Your Abs, Arms, Shoulders &amp; Chest!!! Resistance from 5 lbs to over 110lbs</p>",BW,visible,98,instock,no,yes,39.99,,7,"https://www.playwell.co.uk/images/PRESS1.jpg
 https://www.playwell.co.uk/images/PRESS1_01.jpg
 https://www.playwell.co.uk/images/PRESS1_02.jpg
 ",taxable,"Standard rate",simple,"Strength Training Equipment","Strength Training Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -56105,7 +56105,7 @@ https://www.playwell.co.uk/images/SO23AXE_03.jpg
 
 <p>Diameter - 0.75 Inches</p>
 
-<p>Weight : 130 Grams&nbsp;<span style=""color:#e74c3c;""><strong>&nbsp;</strong></span></p>",speedchucksfoam11,visible,115,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/comp11foam1.jpg
+<p>Weight : 130 Grams&nbsp;<span style=""color:#e74c3c;""><strong>&nbsp;</strong></span></p>",speedchucksfoam11,visible,114,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/comp11foam1.jpg
 https://www.playwell.co.uk/images/comp11foam1_01.jpg
 https://www.playwell.co.uk/images/comp11foam1_02.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -61588,7 +61588,7 @@ https://www.playwell.co.uk/images/fgv15black1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBO5ftTAP,visible,5,instock,no,yes,26.99,,18,"https://www.playwell.co.uk/images/taperedppbo.jpg
+<p>&nbsp;</p>",PPBO5ftTAP,visible,4,instock,no,yes,26.99,,18,"https://www.playwell.co.uk/images/taperedppbo.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Rattan Burnt Spiral Pattern 5ft ( 60"" )",bo-staff-rattan-burnt-spiral-pattern-5ft-(-60&quot;-),publish,"<p><span class=""actxsmall"">This straight style bo is made from lightweight, all natural rattan. This gives it a unique appearance and feel. It features a burn pattern with hand carvings on both ends of the Jo.<br />
 <br />
@@ -78368,7 +78368,7 @@ https://www.playwell.co.uk/images/purpletigergloves1_03.jpg
 https://www.playwell.co.uk/images/purpletigergloves1_04.jpg
 https://www.playwell.co.uk/images/purpletigergloves1_05.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10 oz|8 oz|6 oz",0|1|1,
-,,publish,,,twintigerglovespurple10,,14,instock,,yes,39.99,,,,,,,,,twintigerglovespurple,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,twintigerglovespurple10,,0,outofstock,,yes,39.99,,,,,,,,,twintigerglovespurple,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigerglovespurple8,,14,instock,,yes,39.99,,,,,,,,,twintigerglovespurple,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigerglovespurple6,,15,instock,,yes,39.99,,,,,,,,,twintigerglovespurple,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Playwell Childrens Matte Black ""Twin Tiger"" Boxing Gloves",playwell-childrens-matte-black-&quot;twin-tiger&quot;-boxing-gloves,publish,"<p>Our Best Selling Range Now Available in Kids Sizes Boxing Gloves Made from Soft Matt Touch, With a new Inner Lining inside the Boxing Gloves, Makes these Extremley Comfortable to wear and Train in, Features a beautiful Twin Tiger Design. Outstanding ergonomic fit High density injection molded foam core Soft touch durable matte synthetic leather Comfortable, Moisture wicking interior with mesh breathable palm Embossed wrist patch Practical, easy Hook &amp; loop closure with superior wrist protection</p>","<p>Our Best Selling Range Now Available in Kids Sizes Boxing Gloves Made from Soft Matt Touch, With a new Inner Lining inside the Boxing Gloves, Makes these Extremley Comfortable to wear and Train in, Features a beautiful Twin Tiger Design. Outstanding ergonomic fit High density injection molded foam core Soft touch durable matte synthetic leather Comfortable, Moisture wicking interior with mesh breathable palm Embossed wrist patch Practical, easy Hook &amp; loop closure with superior wrist protection</p>",twintigergloveskids,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/TWINTIGERGLOVES1.jpg
@@ -78999,9 +78999,9 @@ https://www.playwell.co.uk/images/PMA-Purple-Twin-Tigers-Muay-Thai-Gloves-And-Sh
 ,,publish,,,PMATWINTIGERSETPURP8OZXS,,10,instock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XSmall,,,,,,,,,
 ,,publish,,,PMATWINTIGERSETPURP8OZS,,9,instock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small,,,,,,,,,
 ,,publish,,,PMATWINTIGERSETPURP8OZM,,10,instock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium,,,,,,,,,
-,,publish,,,PMATWINTIGERSETPURP10OZXS,,10,instock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XSmall,,,,,,,,,
-,,publish,,,PMATWINTIGERSETPURP10OZS,,9,instock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small,,,,,,,,,
-,,publish,,,PMATWINTIGERSETPURP10OZM,,8,instock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium,,,,,,,,,
+,,publish,,,PMATWINTIGERSETPURP10OZXS,,0,outofstock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XSmall,,,,,,,,,
+,,publish,,,PMATWINTIGERSETPURP10OZS,,0,outofstock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small,,,,,,,,,
+,,publish,,,PMATWINTIGERSETPURP10OZM,,0,outofstock,,yes,78.99,,,,,,,,,PMATWINTIGERSETPURP,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium,,,,,,,,,
 "Boxing Gloves Metal Key Chain",boxing-gloves-metal-key-chain,publish,"<p>Cute pattern pendant keychain rings are great for house keys, keyrings, arts, crafts, DIY projects, jewelry making, backpacks, handbags, keychains, camera, cell phone, card holders, badges, wallets, purses, sports equipment, outdoor accessories, etc. Specification Color: Silver Material: Metal Size: 28 x 13.5mm / 1.1 x 0.53 inch (LxW) Overall Length: 80mm / 3.15 inch Keyring Diameter: 30mm / 1.18 inch Advantage 1. The keychain is made of durable metal material, which is sturdy, lightweight, wear-resistant, and durable, and provides solid security in connecting. It is flexible for you to open or remove the keys. 2. Cute pattern design, small and lightweight, helps you easily identify your keychain, enhances your personal taste, and brings you some fun and ease.</p>","<p>Cute pattern pendant keychain rings are great for house keys, keyrings, arts, crafts, DIY projects, jewelry making, backpacks, handbags, keychains, camera, cell phone, card holders, badges, wallets, purses, sports equipment, outdoor accessories, etc. Specification Color: Silver Material: Metal Size: 28 x 13.5mm / 1.1 x 0.53 inch (LxW) Overall Length: 80mm / 3.15 inch Keyring Diameter: 30mm / 1.18 inch Advantage 1. The keychain is made of durable metal material, which is sturdy, lightweight, wear-resistant, and durable, and provides solid security in connecting. It is flexible for you to open or remove the keys. 2. Cute pattern design, small and lightweight, helps you easily identify your keychain, enhances your personal taste, and brings you some fun and ease.</p>",boxingmetalkeychain,visible,99,instock,no,yes,3.99,,0.35,"https://www.playwell.co.uk/images/boxingmetalkeychain.jpg
 ",taxable,"Standard rate",simple,"Martial Arts Key chains","Martial Arts Key chains",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Childrens Taekwondo Rubber Key Chain ( H552 )",childrens-taekwondo-rubber-key-chain-(-h552-),publish,"<p>New Martial Arts Key Chains for Childrens Made From Rubber. Cartoon Style Make these Really Cool Key Chains for Kids to Have for house keys, keyrings, arts, crafts, DIY projects, jewelry making, backpacks, handbags, keychains, camera, cell phone, card holders, badges, wallets, purses, sports equipment, outdoor accessories, etc.</p>","<p>New Martial Arts Key Chains for Childrens Made From Rubber. Cartoon Style Make these Really Cool Key Chains for Kids to Have for house keys, keyrings, arts, crafts, DIY projects, jewelry making, backpacks, handbags, keychains, camera, cell phone, card holders, badges, wallets, purses, sports equipment, outdoor accessories, etc.</p>",H552,visible,43,instock,no,yes,2.64,,0.35,"https://www.playwell.co.uk/images/H552.jpg
