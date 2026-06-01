@@ -691,7 +691,7 @@ Reward your students with these merit patches for forms. Size: 1 x 4 inches.",pa
 
 <p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P103,visible,4,instock,no,yes,2.88,,0.2,"https://www.playwell.co.uk/images/patch103.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Merit Patch: Student: Junior Leader P101",merit-patch:-student:-junior-leader-p101,publish,"<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P101,visible,100,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/1008.jpg
+"Merit Patch: Student: Junior Leader P101",merit-patch:-student:-junior-leader-p101,publish,"<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P101,visible,90,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/1008.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Merit Patch: Student: Team Leader P102",merit-patch:-student:-team-leader-p102,publish,"<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P102,visible,915,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/teamleaderpatch.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1814,9 +1814,9 @@ https://www.playwell.co.uk/images/KARATEHEAVYBLACK1_01.jpg
 ",taxable,"Standard rate",variable,"Karate Heavyweight Professional Uniforms","Karate Heavyweight Professional Uniforms",,,,,3/160cm|4/170cm|5/180cm|6/190cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW3B,,11,instock,,yes,64.98,,,,,,,,,KHWB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW4B,,9,instock,,yes,64.98,,,,,,,,,KHWB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHW5B,,0,outofstock,,yes,65.98,,,,,,,,,KHWB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHW6B,,0,outofstock,,yes,65.98,,,,,,,,,KHWB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHW7B,,9,instock,,yes,66.99,,,,,,,,,KHWB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHW5B,,24,instock,,yes,65.98,,,,,,,,,KHWB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHW6B,,12,instock,,yes,65.98,,,,,,,,,KHWB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHW7B,,16,instock,,yes,66.99,,,,,,,,,KHWB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Karate 14oz Heavyweight Suit - White",karate-14oz-heavyweight-suit---white,publish,"<p>Karate 14oz Heavyweight Suit White</p>
 
 <p>&nbsp;</p>
@@ -1841,9 +1841,9 @@ https://www.playwell.co.uk/images/NEWKARATEWHITE14OZWHITEUNIFORM1_03.jpg
 ,,publish,,,KHW2W,,0,outofstock,,yes,64.98,,,,,,,,,KHWW,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW3W,,16,instock,,yes,64.98,,,,,,,,,KHWW,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW4W,,11,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHW5W,,0,outofstock,,yes,69.99,,,,,,,,,KHWW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHW5W,,25,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHW6W,,7,instock,,yes,69.99,,,,,,,,,KHWW,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHW7W,,12,instock,,yes,70.98,,,,,,,,,KHWW,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHW7W,,9,instock,,yes,70.98,,,,,,,,,KHWW,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kids Kung Fu Elite Microfibre Suit - Black",kids-kung-fu-elite-microfibre-suit---black,publish,"<p>New Elite Ultra Light Microfibre Kung Fu Uniforms,&nbsp;So Light You want even Feel you have this on,&nbsp;&nbsp;All Black Colour. Black Cuffs and Toggle Fasteners to Jackets. Kung Fu Trousers with Elastic and Cord Waist and Elasticated Ankle for all sizes. Traditional outfit.&nbsp;</p>
 
 <p>New cut, New Quality.</p>
@@ -1888,9 +1888,9 @@ https://www.playwell.co.uk/images/NEWPIC16OZWHITEUNIFORM1_04.jpg
 ",taxable,"Standard rate",variable,"Karate Heavyweight Professional Uniforms","Karate Heavyweight Professional Uniforms",,,,,2/150cm|3/160cm|4/170cm|5/180cm|6/190cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHGW2W,,0,outofstock,,yes,69.99,,,,,,,,,KHGWW,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHGW3W,,12,instock,,yes,69.99,,,,,,,,,KHGWW,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHGW4W,,16,instock,,yes,70.98,,,,,,,,,KHGWW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHGW5W,,11,instock,,yes,72.99,,,,,,,,,KHGWW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHGW6W,,0,outofstock,,yes,73.98,,,,,,,,,KHGWW,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHGW4W,,33,instock,,yes,70.98,,,,,,,,,KHGWW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHGW5W,,31,instock,,yes,72.99,,,,,,,,,KHGWW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHGW6W,,11,instock,,yes,73.98,,,,,,,,,KHGWW,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHGW7W,,0,outofstock,,yes,75.99,,,,,,,,,KHGWW,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Karate Uniform Mixed Heavyweight - Made to order",karate-uniform-mixed-heavyweight---made-to-order,publish,"<p>Karate suit Made of Heavy Weight canvas. Top quality with fine grains. Excellent cut with perfect fittings on all sizes. Wider trousers. Trousers with Tie Waist. Recommended by the professionals. Manufacturer&#39;s guarantee. 14oz/400gm Canvas. Belt is not included. New Improved HeavyWeight Suits Now In BRUSHED COTTON</p>","<p>Karate suit Made of Heavy Weight canvas. Top quality with fine grains. Excellent cut with perfect fittings on all sizes. Wider trousers. Trousers with Tie Waist. Recommended by the professionals. Manufacturer&#39;s guarantee. 14oz/400gm Canvas. Belt is not included. New Improved HeavyWeight Suits Now In BRUSHED COTTON</p>",,visible,,,no,,,,1,"https://www.playwell.co.uk/images/karatemixed.gif
 ",taxable,"Standard rate",variable,"Karate Heavyweight Professional Uniforms","Karate Heavyweight Professional Uniforms",,,,,"White Top/Black Pants|Black Top/White Pants",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1914,7 +1914,7 @@ https://www.playwell.co.uk/images/NEWPICMIXEDKARATE1_04.jpg
 ,,publish,,,KMIX4,,10,instock,,yes,36.98,,,,,,,,,KMIX,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMIX5,,4,instock,,yes,37.98,,,,,,,,,KMIX,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMIX6,,4,instock,,yes,39.99,,,,,,,,,KMIX,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KMIX7,,0,outofstock,,yes,40.98,,,,,,,,,KMIX,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KMIX7,,4,instock,,yes,40.98,,,,,,,,,KMIX,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Karate Uniform Mixed Childrens: White / Black Trousers  - 9oz",karate-uniform-mixed-childrens:-white-/-black-trousers----9oz,publish,"<p>Student Karate Suit. Medium Weight 9oz karate uniform. 100% Cotton. Complete with Belt. Trousers with Elastic and Cord Waist for all sizes. Excellent suit made with finest bleached cotton. Mixed suits are medium weight and of top quality, and we can assure you that there is no other match. Wear with pride and play safe. White Jacket with Black Trousers</p>
 
 <p>&nbsp;</p>
@@ -2250,7 +2250,7 @@ https://www.playwell.co.uk/images/vinylbokkencase1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOC72,visible,92,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/bo-padded-vinyl-case-72-ddf.jpg
+<p>&nbsp;</p>",BOC72,visible,89,instock,no,yes,23.99,,0.35,"https://www.playwell.co.uk/images/bo-padded-vinyl-case-72-ddf.jpg
 ",taxable,"Standard rate",simple,"Weapons Cases and Accessories","Weapons Cases and Accessories",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Case Vinyl  - 63 inches",bo-staff-case-vinyl----63-inches,publish,"<p>Deluxe Bo Case Holds 2 60 inch staffs. New and improved case. Now made of artificial Leather (PU) with felt lining inside for extra protection to the weapons. Zipped. Comes with a shoulder strap For easy carrying.</p>
 
@@ -3999,9 +3999,9 @@ As a gift, the fan symbolises friendship and respect. In ancient China, fans wer
 
 <p>&nbsp;</p>",KFANRED,visible,40,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/TAICHIFANRED.jpg
 ",taxable,"Standard rate",simple,"Martial Arts Gifts","Martial Arts Gifts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Wooden Tai Chi Sword One Piece ( BS4 ) - 36""",wooden-tai-chi-sword-one-piece-(-bs4-)---36&quot;,publish,"<p>These Tai Chi Swords are made of hard wood. This Hardwood Tai Chi Sword is 36 1/4&quot; overall. All hardwood construction with an oak stain finish. One peice sword. Made from One Piece. More Durable then the 3 piece sword.</p>
+"Wooden Tai Chi Sword  ( BS4 ) - 36""",wooden-tai-chi-sword--(-bs4-)---36&quot;,publish,"<p>These Tai Chi Swords are made of hard wood. This Hardwood Tai Chi Sword is 36 1/4&quot; overall. All hardwood construction with an oak stain finish. One peice sword. Three Peice Wooden Sword&nbsp;</p>
 
-<div>High Quality</div>","<p>These Tai Chi Swords are made of hard wood. This Hardwood Tai Chi Sword is 36 1/4&quot; overall. All hardwood construction with an oak stain finish. One peice sword. Made from One Piece. More Durable then the 3 piece sword.</p>
+<div>High Quality</div>","<p>These Tai Chi Swords are made of hard wood. This Hardwood Tai Chi Sword is 36 1/4&quot; overall. All hardwood construction with an oak stain finish. One peice sword. Three Peice Wooden Sword&nbsp;</p>
 
 <div>High Quality</div>",TCWS36BS4,visible,39,instock,no,yes,27.99,,1,"https://www.playwell.co.uk/images/bs4sword.jpg
 ",taxable,"Standard rate",simple,"Wooden Broadswords And Tai Chi Swords","Wooden Broadswords And Tai Chi Swords",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5171,7 +5171,7 @@ https://www.playwell.co.uk/images/NEWPICPINKGLOVES1_05.jpg
 ,,publish,,,BGPROMOPINK6,,0,outofstock,,yes,31.98,,,,,,,,,BGPROMOPINK,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BGPROMOPINK8,,4,instock,,yes,31.98,,,,,,,,,BGPROMOPINK,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BGPROMOPINK10,,0,outofstock,,yes,31.98,,,,,,,,,BGPROMOPINK,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Premium Police Plastic training replica Telescopic  Baton  - PRE",premium-police-plastic-training-replica-telescopic--baton----pre,publish,"<p>These Premium Grade Batons are&nbsp; made from Polypropylene Material, Much Better Quality and Mechanism then our standard Training Batons, So Good they look and feellike the real thing,&nbsp;</p>
+"Premium Police Plastic training replica Telescopic  Baton",premium-police-plastic-training-replica-telescopic--baton,publish,"<p>These Premium Grade Batons are&nbsp; made from Polypropylene Material, Much Better Quality and Mechanism then our standard Training Batons, So Good they look and feellike the real thing,&nbsp;</p>
 
 <p>Total Length of Baton is 60cm When Extended .</p>
 
@@ -5186,8 +5186,6 @@ https://www.playwell.co.uk/images/NEWPICPINKGLOVES1_05.jpg
 <p><span style=""color:#e74c3c;""><strong>THIS ITEM IS SOLD TO POLICE AND CROWN SERVICES&nbsp; UNDER PURCHASE ORDERS ONLY&nbsp;</strong></span></p>
 
 <p><span style=""color:#e74c3c;""><strong>NOT AVAILABLE TO THE GENERAL PUBLIC&nbsp;</strong></span></p>
-
-<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 25TH MAY 2026</strong></span></p>
 
 <p><strong>Enquiries to be emailed to akib@playwell.co.uk</strong></p>
 
@@ -5210,8 +5208,6 @@ https://www.playwell.co.uk/images/NEWPICPINKGLOVES1_05.jpg
 <p><span style=""color:#e74c3c;""><strong>THIS ITEM IS SOLD TO POLICE AND CROWN SERVICES&nbsp; UNDER PURCHASE ORDERS ONLY&nbsp;</strong></span></p>
 
 <p><span style=""color:#e74c3c;""><strong>NOT AVAILABLE TO THE GENERAL PUBLIC&nbsp;</strong></span></p>
-
-<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 25TH MAY 2026</strong></span></p>
 
 <p><strong>Enquiries to be emailed to akib@playwell.co.uk</strong></p>
 
@@ -6866,12 +6862,12 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B2BR,,76057,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4W,,141,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4R,,-12,outofstock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4Y,,9494,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4G,,11063,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4O,,27,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4Y,,9491,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4G,,11061,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4O,,23,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4P,,74870,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BK,,76087,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4BU,,74398,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4BU,,74395,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BR,,75213,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5W,,183,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5R,,415,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7528,7 +7524,7 @@ https://www.playwell.co.uk/images/canvasstaffcase1_04.jpg
 
 <p>Sold as singles&nbsp;</p>
 
-<p>&nbsp;</p>",BOCCAN72,visible,94,instock,no,yes,15.99,,0.35,"https://www.playwell.co.uk/images/canvasstaffcase1.jpg
+<p>&nbsp;</p>",BOCCAN72,visible,0,outofstock,no,yes,15.99,,0.35,"https://www.playwell.co.uk/images/canvasstaffcase1.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_01.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_02.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_03.jpg
@@ -7729,7 +7725,7 @@ https://www.playwell.co.uk/images/satinkungtrousers1_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOCDWHITEOAK,visible,41,instock,no,yes,44.99,,21,"https://www.playwell.co.uk/images/BOCARVEDWHITE1.jpg
+<p>&nbsp;</p>",BOCDWHITEOAK,visible,0,outofstock,no,yes,44.99,,21,"https://www.playwell.co.uk/images/BOCARVEDWHITE1.jpg
 https://www.playwell.co.uk/images/BOCARVEDWHITE1_01.jpg
 https://www.playwell.co.uk/images/BOCARVEDWHITE1_02.jpg
 https://www.playwell.co.uk/images/BOCARVEDWHITE1_03.jpg
@@ -7965,7 +7961,7 @@ https://www.playwell.co.uk/images/escrimablackfoamhandle1_02.jpg
 
 <p>Sold as singles</p>","<p>Escrima Kali Sticks Made Rattan Wood With A&nbsp;Burnt Tiger Pattern Design. Total Length 26 inches, Diameter Length Approx 1.1 inches.</p>
 
-<p>Sold as singles</p>",EST,visible,66,instock,no,yes,12.99,,0.35,"https://www.playwell.co.uk/images/Escrima-rattan-Tiger-burnt.jpg
+<p>Sold as singles</p>",EST,visible,64,instock,no,yes,12.99,,0.35,"https://www.playwell.co.uk/images/Escrima-rattan-Tiger-burnt.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Deluxe Red Oak Straight   - 72""  ( 6FT) - PRE ORDER",bo-staff-deluxe-red-oak-straight-----72&quot;--(-6ft)---pre-order,publish,"<p>Deluxe Quality Bo staff Made of the finest Red Oak wood . Hardwood. Total Length 72 inches. This Is a Straight Bo Staff</p>
 
@@ -13746,7 +13742,7 @@ https://www.playwell.co.uk/images/ULTIBLACKHEAD1_03.jpg
 ,,publish,,,,,20,instock,,yes,24.99,,,,,,,,,FSHW,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,19,instock,,yes,24.99,,,,,,,,,FSHW,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,20,instock,,yes,24.99,,,,,,,,,FSHW,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Black Plastic training replica Telescopic  Baton",black-plastic-training-replica-telescopic--baton,publish,"<p>Baton made from Polypropylene Material&nbsp;&nbsp;</p>
+"Black Plastic training replica Telescopic  Baton - PRE ORDER",black-plastic-training-replica-telescopic--baton---pre-order,publish,"<p>Baton made from Polypropylene Material&nbsp;&nbsp;</p>
 
 <p>Total Length of Baton is 60cm When Extended .</p>
 
@@ -13755,6 +13751,10 @@ https://www.playwell.co.uk/images/ULTIBLACKHEAD1_03.jpg
 <p>Can be used for Light And Semi Contact&nbsp; Self Defence Techniques</p>
 
 <p>Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""color:#c0392b;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 10TH JULY 2026</strong>&nbsp;</span></p>
 
 <p>&nbsp;</p>
 
@@ -13769,6 +13769,10 @@ https://www.playwell.co.uk/images/ULTIBLACKHEAD1_03.jpg
 <p>Can be used for Light And Semi Contact&nbsp; Self Defence Techniques</p>
 
 <p>Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""color:#c0392b;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 10TH JULY 2026</strong>&nbsp;</span></p>
 
 <p>&nbsp;</p>
 
@@ -14975,7 +14979,7 @@ https://www.playwell.co.uk/images/33broadswordin1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RUBBERGLOCK,visible,22,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
+<p>&nbsp;</p>",RUBBERGLOCK,visible,21,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
 https://www.playwell.co.uk/images/newglock1_01.jpg
 https://www.playwell.co.uk/images/newglock1_02.jpg
 https://www.playwell.co.uk/images/newglock1_03.jpg
@@ -24793,7 +24797,7 @@ https://www.playwell.co.uk/images/NEWPICMACHETE1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOCCAN60,visible,11,instock,no,yes,15.98,,0.35,"https://www.playwell.co.uk/images/canvasstaffcase1.jpg
+<p>&nbsp;</p>",BOCCAN60,visible,0,outofstock,no,yes,15.98,,0.35,"https://www.playwell.co.uk/images/canvasstaffcase1.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_01.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_02.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_03.jpg
@@ -26792,7 +26796,7 @@ https://www.playwell.co.uk/images/adidas-hybrid-150-head-guard-black-white_02.jp
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",TCSWDDRAGD490-N4,visible,11,instock,no,yes,64.99,,1,"https://www.playwell.co.uk/images/dragond1.jpg
+<p>&nbsp;</p>",TCSWDDRAGD490-N4,visible,10,instock,no,yes,64.99,,1,"https://www.playwell.co.uk/images/dragond1.jpg
 https://www.playwell.co.uk/images/dragond1_01.jpg
 https://www.playwell.co.uk/images/dragond1_02.jpg
 https://www.playwell.co.uk/images/dragond1_03.jpg
@@ -28187,7 +28191,7 @@ https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_04.jpg
 ,,publish,,,KLWPCBK0,,15,instock,,yes,22.82,,,,,,,,,KLWPCBK,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK1,,6,instock,,yes,23.66,,,,,,,,,KLWPCBK,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK2,,30,instock,,yes,23.66,,,,,,,,,KLWPCBK,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KLWPCBK0000,,28,instock,,yes,21.99,,,,,,,,,KLWPCBK,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KLWPCBK0000,,26,instock,,yes,21.99,,,,,,,,,KLWPCBK,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK00000,,0,outofstock,,yes,21.99,,,,,,,,,KLWPCBK,,,,,,00000/90cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Krav Maga Leather Sparring & Grappling Shooto Glove - 7oz",krav-maga-leather-sparring-&amp;-grappling-shooto-glove---7oz,publish,"<p>Top of the range Gloves. Excellent mould to secure the fitting of the hand. Tough mould and filling on the back of the hand. Open hand on the front. Made of Genuine Cowhide Leather. The Gloves Feature top of the range protection ARound The Knuckle Area, Offering upto 1.5 inches of padding to protect the hand. Can be used for grappling, Vale tudor, shoot fighting, full contact, sparring, MMA. An all rounder glove. Try it to appreciate the true value of this glove. Designed for quality conscious students and instructors.</p>","<p>Top of the range Gloves. Excellent mould to secure the fitting of the hand. Tough mould and filling on the back of the hand. Open hand on the front. Made of Genuine Cowhide Leather. The Gloves Feature top of the range protection ARound The Knuckle Area, Offering upto 1.5 inches of padding to protect the hand. Can be used for grappling, Vale tudor, shoot fighting, full contact, sparring, MMA. An all rounder glove. Try it to appreciate the true value of this glove. Designed for quality conscious students and instructors.</p>",KMLSHOOTOGL,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/newkravshooto1.jpg
 https://www.playwell.co.uk/images/newkravshooto1_01.jpg
@@ -29266,7 +29270,7 @@ https://www.playwell.co.uk/images/v2glasdiusnew1_07.jpg
 https://www.playwell.co.uk/images/dragon1_01.jpg
 https://www.playwell.co.uk/images/dragon1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Sparbar Pro Cobra Reflex Boxing Punch Bag - Midnight",sparbar-pro-cobra-reflex-boxing-punch-bag---midnight,publish,"<p>Engineered for the serious Professional or the everyday athlete training at home, SPARBAR&reg; PRO COBRA REFLEX BOXING PUNCH BAG - WHITE has gone toe-to-toe with the world&rsquo;s best and is used by Tyson Fury, Anthony Joshua, Conor McGregor, Roy Jones Jr, Jon Jones as well as Usher and Kevin Hart. Quick Release Interchangeable with SPARBAR PRO 5X, 6.0 &amp; 6X Models Vegan Certified Leather Wipe-clean SB1 skins, head, and base Stronger, more balanced coil spring Telescopic height adjustment Easily wipeable surface Eco-Friendly Recycled Plastic 50L water/sand-filled base 9kg weight inc. packaging One-year warranty on moveable parts Design Patent &amp; Trademark Protected Sparbar SB1 Vegan Leather Velcro Gloves - Black &amp; Yellow Compression Hand Wraps - Black &amp; Yellow</p>","<p>Engineered for the serious Professional or the everyday athlete training at home, SPARBAR&reg; PRO COBRA REFLEX BOXING PUNCH BAG - WHITE has gone toe-to-toe with the world&rsquo;s best and is used by Tyson Fury, Anthony Joshua, Conor McGregor, Roy Jones Jr, Jon Jones as well as Usher and Kevin Hart. Quick Release Interchangeable with SPARBAR PRO 5X, 6.0 &amp; 6X Models Vegan Certified Leather Wipe-clean SB1 skins, head, and base Stronger, more balanced coil spring Telescopic height adjustment Easily wipeable surface Eco-Friendly Recycled Plastic 50L water/sand-filled base 9kg weight inc. packaging One-year warranty on moveable parts Design Patent &amp; Trademark Protected Sparbar SB1 Vegan Leather Velcro Gloves - Black &amp; Yellow Compression Hand Wraps - Black &amp; Yellow</p>",COBRABAGMIDNIGHT,visible,50,instock,no,yes,795.00,,1,"https://www.playwell.co.uk/images/SPARCOBRAMIDNIGHT1.jpg
+"Sparbar Pro Cobra Reflex Boxing Punch Bag - Midnight",sparbar-pro-cobra-reflex-boxing-punch-bag---midnight,publish,"<p>Engineered for the serious Professional or the everyday athlete training at home, SPARBAR&reg; PRO COBRA REFLEX BOXING PUNCH BAG - WHITE has gone toe-to-toe with the world&rsquo;s best and is used by Tyson Fury, Anthony Joshua, Conor McGregor, Roy Jones Jr, Jon Jones as well as Usher and Kevin Hart. Quick Release Interchangeable with SPARBAR PRO 5X, 6.0 &amp; 6X Models Vegan Certified Leather Wipe-clean SB1 skins, head, and base Stronger, more balanced coil spring Telescopic height adjustment Easily wipeable surface Eco-Friendly Recycled Plastic 50L water/sand-filled base 9kg weight inc. packaging One-year warranty on moveable parts Design Patent &amp; Trademark Protected Sparbar SB1 Vegan Leather Velcro Gloves - Black &amp; Yellow Compression Hand Wraps - Black &amp; Yellow</p>","<p>Engineered for the serious Professional or the everyday athlete training at home, SPARBAR&reg; PRO COBRA REFLEX BOXING PUNCH BAG - WHITE has gone toe-to-toe with the world&rsquo;s best and is used by Tyson Fury, Anthony Joshua, Conor McGregor, Roy Jones Jr, Jon Jones as well as Usher and Kevin Hart. Quick Release Interchangeable with SPARBAR PRO 5X, 6.0 &amp; 6X Models Vegan Certified Leather Wipe-clean SB1 skins, head, and base Stronger, more balanced coil spring Telescopic height adjustment Easily wipeable surface Eco-Friendly Recycled Plastic 50L water/sand-filled base 9kg weight inc. packaging One-year warranty on moveable parts Design Patent &amp; Trademark Protected Sparbar SB1 Vegan Leather Velcro Gloves - Black &amp; Yellow Compression Hand Wraps - Black &amp; Yellow</p>",COBRABAGMIDNIGHT,visible,49,instock,no,yes,795.00,,1,"https://www.playwell.co.uk/images/SPARCOBRAMIDNIGHT1.jpg
 https://www.playwell.co.uk/images/SPARCOBRAMIDNIGHT1_01.jpg
 https://www.playwell.co.uk/images/SPARCOBRAMIDNIGHT1_02.jpg
 https://www.playwell.co.uk/images/SPARCOBRAMIDNIGHT1_03.jpg
@@ -29391,7 +29395,7 @@ https://www.playwell.co.uk/images/ppbspear1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NUNSPIRJING,visible,147,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/spiraljingle1.jpg
+<p>&nbsp;</p>",NUNSPIRJING,visible,146,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/spiraljingle1.jpg
 https://www.playwell.co.uk/images/spiraljingle1_01.jpg
 https://www.playwell.co.uk/images/spiraljingle1_02.jpg
 https://www.playwell.co.uk/images/spiraljingle1_03.jpg
@@ -30055,7 +30059,7 @@ https://www.playwell.co.uk/images/avantered1_01.jpg
 https://www.playwell.co.uk/images/avantered1_02.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Large|Small|Medium,0|1|1,,,,,,,,,,
 ,,publish,,,TTENAVANTHGRDL,,0,outofstock,,yes,93.99,,,,,,,,,TTENAVANTHGRD,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TTENAVANTHGRDM,,2,instock,,yes,93.99,,,,,,,,,TTENAVANTHGRD,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TTENAVANTHGRDM,,1,instock,,yes,93.99,,,,,,,,,TTENAVANTHGRD,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TTENAVANTHGRDLM,,0,outofstock,,yes,93.99,,,,,,,,,TTENAVANTHGRD,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Top Ten Kids Generation Open Hand Gloves",top-ten-kids-generation-open-hand-gloves,publish,"<p style=""margin:0px"">Top Ten Kids Generation Open Hand Gloves&nbsp;<span id=""ctl00_plcMid_lDescrLong"" style=""margin:0px"">Ideal for semicontact and ITF Taekwondo also with regular foam rubber padding (Not Bayfill&reg;).</span></p>
 
@@ -30112,7 +30116,7 @@ https://www.playwell.co.uk/images/toptenkidsblackgloves_02.png
 https://www.playwell.co.uk/images/S009_01.jpg
 https://www.playwell.co.uk/images/S009_02.jpg
 ",taxable,"Standard rate",variable,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6ft|5ft,0|1|1,,,,,,,,,,
-,,publish,,,PPSPEARS0096FT,,26,instock,,yes,69.99,,,,,,,,,PPSPEARS009,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PPSPEARS0096FT,,25,instock,,yes,69.99,,,,,,,,,PPSPEARS009,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PPSPEARS0095FT,,30,instock,,yes,69.99,,,,,,,,,PPSPEARS009,,,,,,5ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "ABS Polypropylene Full Contact Long Pole Naginata Stick",abs-polypropylene-full-contact-long-pole-naginata-stick,publish,"<p style=""margin: 0cm 0cm 10pt;"">The naginata (<span style=""font-family:ms gothic"">????</span>, <span style=""font-family:ms gothic"">??</span>) is one of several varieties of traditionally made Japanese blades (nihonto)[1][2] in the form of a pole weapon.Naginata were originally used by the samurai class of feudal Japan, as well as by ashigaru (foot soldiers) and s?hei (warrior monks).[3] The naginata is the iconic weapon of the onna-bugeisha-archetype, a type of female warrior belonging to the Japanese nobility.</p>
 
@@ -30836,7 +30840,7 @@ https://www.playwell.co.uk/images/v1gladius1_05.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BUTKNIFFOLD,visible,1,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/balisong1.jpg
+<p>&nbsp;</p>",BUTKNIFFOLD,visible,0,outofstock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/balisong1.jpg
 https://www.playwell.co.uk/images/balisong1_01.jpg
 https://www.playwell.co.uk/images/balisong1_02.jpg
 ",taxable,"Standard rate",simple,"Swords and Knives","Swords and Knives",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34946,7 +34950,7 @@ https://www.playwell.co.uk/images/Kihon_Male_White_Front_1024x1024_04.jpg
 https://www.playwell.co.uk/images/Kihon_Male_White_Front_1024x1024_05.jpg
 ",taxable,"Standard rate",variable,"Judo Uniforms","Judo Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,000/110cm,0|1|1,,,,,,,
 ,,publish,,,TFJUDOKIHON000,,0,outofstock,,yes,29.99,,,,,,,,,TFJUDOKIHON,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Adults Deluxe Wooden Bokken : Red Oak Wood - 40""",adults-deluxe-wooden-bokken-:-red-oak-wood---40&quot;,publish,"<p>Brand New Childrens Wooden Martial arts Bokken Made of Oak Wood. Red Oak bokken . Total length 40 Inches. Comes with Tsube &amp; Guard</p>
+"Adults Deluxe Wooden Bokken : Red Oak Wood - 40"" - PRE ORDER",adults-deluxe-wooden-bokken-:-red-oak-wood---40&quot;---pre-order,publish,"<p>Brand New Childrens Wooden Martial arts Bokken Made of Oak Wood. Red Oak bokken . Total length 40 Inches. Comes with Tsube &amp; Guard</p>
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
 
@@ -38327,7 +38331,7 @@ https://www.playwell.co.uk/images/Adidas-Students-WT-Approved-Uniform_01.jpg
 ",taxable,"Standard rate",variable,"Taekwondo Uniforms and Trousers","Taekwondo Uniforms and Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1/140cm|000/110cm|0/130cm|00/120cm|2/150cm,0|1|1,,,,,,,
 ,,publish,,,ADIWTST1,,1,instock,,yes,23.49,,,,,,,,,ADIWTST,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ADIWTST000,,0,outofstock,,yes,21.99,,,,,,,,,ADIWTST,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ADIWTST0,,2,instock,,yes,22.99,,,,,,,,,ADIWTST,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ADIWTST0,,1,instock,,yes,22.99,,,,,,,,,ADIWTST,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ADIWTST00,,2,instock,,yes,22.49,,,,,,,,,ADIWTST,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ADIWTST2,,0,outofstock,,yes,23.99,,,,,,,,,ADIWTST,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Adidas GB Stripes Kids Judo Uniform - White",adidas-gb-stripes-kids-judo-uniform---white,publish,"<p>Adidas GB Stripes Kids Judo Uniform - White</p>
@@ -45183,7 +45187,7 @@ These unimaginably strong Bats won&rsquo;t rot, crack, or splinter or even fade!
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>",COLDSBASEBATBASH,visible,0,outofstock,no,yes,29.99,,0.35,"https://www.playwell.co.uk/images/BASHER.jpg
+<div>&nbsp;</div>",COLDSBASEBATBASH,visible,1,instock,no,yes,29.99,,0.35,"https://www.playwell.co.uk/images/BASHER.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Childrens Escrima Stick Foam - 50cm",childrens-escrima-stick-foam---50cm,publish,"<p>Foam Escrima. Available in red or Blue colour, 35mm In Diameter, Shorter Escrima Sticks for Children,</p>
 
@@ -47094,7 +47098,7 @@ https://www.playwell.co.uk/images/adih25_black_new_logo_pair1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available&nbsp;they have the advantages of being virtually unbreakable and remarkably stiff and cut resistant.</p>",PPBK40,visible,9806,instock,no,yes,16.98,,1,"https://www.playwell.co.uk/images/Polypropylene-Bokken.jpg
+<p>Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available&nbsp;they have the advantages of being virtually unbreakable and remarkably stiff and cut resistant.</p>",PPBK40,visible,9805,instock,no,yes,16.98,,1,"https://www.playwell.co.uk/images/Polypropylene-Bokken.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Under Armour Playmaker Squeeze Sports Water Bottle 950ML - Yell",under-armour-playmaker-squeeze-sports-water-bottle-950ml---yell,publish,"<p>Under Armour Playmaker Squeeze Sports Water Bottle 950ML - Yell</p>
 
@@ -53634,7 +53638,7 @@ https://www.playwell.co.uk/images/raidrash1_02.jpg
 			<td>898 g</td>
 		</tr>
 	</tbody>
-</table>",CSHANDANDHALF,visible,1,instock,no,yes,44.99,,8,"https://www.playwell.co.uk/images/cold-steel-hand-and-a-half-training-sword.jpg
+</table>",CSHANDANDHALF,visible,4,instock,no,yes,44.99,,8,"https://www.playwell.co.uk/images/cold-steel-hand-and-a-half-training-sword.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tatami Mens MTP Green Camo Long Sleeve Rash Guard",tatami-mens-mtp-green-camo-long-sleeve-rash-guard,publish,"<p>HIGHLIGHTS</p>
 
@@ -65834,7 +65838,7 @@ https://www.playwell.co.uk/images/PROMENSWHITEBJJGI1_01.jpg
 https://www.playwell.co.uk/images/PROMENSWHITEBJJGI1_02.jpg
 https://www.playwell.co.uk/images/PROMENSWHITEBJJGI1_03.jpg
 ",taxable,"Standard rate",variable,"Jiu Jitsu Gi Uniforms and Equipment","Jiu Jitsu Gi Uniforms and Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A4|A3|A1|A2,0|1|1,,,,,,,
-,,publish,,,PROWHITEBJJGIA4,,3,instock,,yes,63.99,,,,,,,,,PROWHITEBJJGI,,,,,,A4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PROWHITEBJJGIA4,,10,instock,,yes,63.99,,,,,,,,,PROWHITEBJJGI,,,,,,A4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PROWHITEBJJGIA3,,9,instock,,yes,63.99,,,,,,,,,PROWHITEBJJGI,,,,,,A3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PROWHITEBJJGIA1,,5,instock,,yes,63.99,,,,,,,,,PROWHITEBJJGI,,,,,,A1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PROWHITEBJJGIA2,,10,instock,,yes,63.99,,,,,,,,,PROWHITEBJJGI,,,,,,A2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -65986,8 +65990,8 @@ https://www.playwell.co.uk/images/SLIMFITHEAVYSUITWHITE1_01.jpg
 https://www.playwell.co.uk/images/SLIMFITHEAVYSUITWHITE1_02.jpg
 ",taxable,"Standard rate",variable,"Karate Heavyweight Professional Uniforms","Karate Heavyweight Professional Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5/180cm|3/160cm|4/170cm|6/190cm,0|1|1,,,,,,,
 ,,publish,,,"	KHWWSLIMFIT5",,8,instock,,yes,64.98,,,,,,,,,KHWWSLIMFIT,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	KHWWSLIMFIT3",,3,instock,,yes,64.98,,,,,,,,,KHWWSLIMFIT,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	KHWWSLIMFIT4",,1,instock,,yes,64.98,,,,,,,,,KHWWSLIMFIT,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	KHWWSLIMFIT3",,12,instock,,yes,64.98,,,,,,,,,KHWWSLIMFIT,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	KHWWSLIMFIT4",,12,instock,,yes,64.98,,,,,,,,,KHWWSLIMFIT,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	KHWWSLIMFIT6",,7,instock,,yes,64.98,,,,,,,,,KHWWSLIMFIT,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Karate Kids Heavyweight Atheltic Cut  14oz Suit - White",karate-kids-heavyweight-atheltic-cut--14oz-suit---white,publish,"<p>Karate 14oz Heavyweight Suit White - New from Playwell heavy Weight Uniforms now available With A slimmer Athletic Cut Then our standard Model Heavy Suits which Normally Are Wider Cut, This Uniform also comes With New Modern&nbsp;Heavy 14oz Elasticated Band Waist pants,</p>
 
@@ -67820,7 +67824,7 @@ https://www.playwell.co.uk/images/8-weapons-kids-jenny-muay-thai-shin-guards-651
 https://www.playwell.co.uk/images/8-weapons-kids-jenny-muay-thai-shin-guards-6515851924c16_04.jpg
 ",taxable,"Standard rate",variable,"Muay Thai Shin Guards","Muay Thai Shin Guards",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small / Medium|Large / X Large",0|1|1,,,,,,,
 ,,publish,,,8WEAPONSKIDSJENNYSHINSMME,,2,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSJENNYSHIN,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSJENNYSHINLAXL,,5,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSJENNYSHIN,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSJENNYSHINLAXL,,4,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSJENNYSHIN,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "8 Weapons Unlimited Muay Thai Shin Guards",8-weapons-unlimited-muay-thai-shin-guards,publish,"<p>8 Weapons Unlimited Muay Thai Shin Guards</p>
 
 <p>&nbsp;</p>
@@ -74340,7 +74344,7 @@ https://www.playwell.co.uk/images/Rival-Boxing-RHG30-Mexican-Headgear-Black-Whit
 https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads_01.jpg
 https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads_02.jpg
 ",taxable,"Standard rate",variable,"Shin Protection","Shin Protection",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Adult|X - Small|Junior",0|1|1,,,,,,,
-,,publish,,,sandeecottonshinblacks,,8,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,sandeecottonshinblacks,,7,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,sandeecottonshinblackad,,-3,outofstock,,yes,29.99,,,,,,,,,sandeecottonshinblack,,,,,,Adult,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,sandeecottonshinblackxs,,10,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,sandeecottonshinblackjr,,-2,outofstock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -86717,7 +86721,7 @@ https://www.playwell.co.uk/images/JENNY1_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2 oz|4 oz|6 oz|8 oz",0|1|1,
 ,,publish,,,8WEAPONSKIDSJENNBG2,,2,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"2 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,8WEAPONSKIDSJENNBG4,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSJENNBG6,,4,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSJENNBG6,,3,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,8WEAPONSKIDSJENNBG8,,3,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "8 Weapons Kids Jenny Pink Muay Thai Shorts",8-weapons-kids-jenny-pink-muay-thai-shorts,publish,"The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination – perfect for young fighters who want to show confidence during training or sparring.
 The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions.
