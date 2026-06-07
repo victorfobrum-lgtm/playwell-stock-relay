@@ -1332,7 +1332,7 @@ Hakama,hakama,publish,"<p>Traditional Hakama for both Kendo and Aikido. Made in 
 ,,publish,,,HBU29,,8,instock,,yes,44.99,,,,,,,,,H,,,Blue,,,"29 - 190cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HBK29,,19,instock,,yes,44.99,,,,,,,,,H,,,Black,,,"29 - 190cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HBU27,,14,instock,,yes,44.99,,,,,,,,,H,,,Blue,,,"27 - 180cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,HBK27,,19,instock,,yes,44.99,,,,,,,,,H,,,Black,,,"27 - 180cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,HBK27,,18,instock,,yes,44.99,,,,,,,,,H,,,Black,,,"27 - 180cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HBU23,,8,instock,,yes,44.99,,,,,,,,,H,,,Blue,,,"23 - 160cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HBK23,,17,instock,,yes,44.99,,,,,,,,,H,,,Black,,,"23 - 160cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HBU25,,18,instock,,yes,44.99,,,,,,,,,H,,,Blue,,,"25 - 170cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6803,13 +6803,13 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 "Solid Coloured Belts",solid-coloured-belts,publish,"<p>Coloured Belts Made from 100% cotton dyed. Belts are Colour Fast. Width of belt 1.75 Inches. Available in Junior and senior sizes. Top Quality. Deluxe coloured belts.</p>","<p>Coloured Belts Made from 100% cotton dyed. Belts are Colour Fast. Width of belt 1.75 Inches. Available in Junior and senior sizes. Top Quality. Deluxe coloured belts.</p>",B,visible,,,no,,,,0.25,"https://www.playwell.co.uk/images/SOLIDCOLORBELTNEW.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,White|Red|Yellow|Green|Orange|Purple|Black|Blue|Brown,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1W,,6,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B1R,,4,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B1R,,1,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1Y,,1,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1G,,76061,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1O,,8,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1P,,4,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1BK,,19,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B1BU,,76136,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B1BU,,76132,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B1BR,,10,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"180 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34W,,19,instock,,yes,7.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34R,,13,instock,,yes,7.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6840,7 +6840,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B2BR,,76057,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4W,,133,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4R,,-12,outofstock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4Y,,9485,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4Y,,9480,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4G,,11058,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4O,,23,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4P,,74870,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6849,16 +6849,16 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B4BR,,75213,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5W,,178,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5R,,413,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5Y,,210,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5Y,,207,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5G,,897,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5O,,55,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5P,,75526,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BK,,76013,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BU,,75128,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5BR,,75545,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5BR,,75543,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6W,,76087,instock,,yes,5.85,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6R,,76054,instock,,yes,5.85,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B6Y,,75937,instock,,yes,5.85,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B6Y,,75935,instock,,yes,5.85,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6G,,76023,instock,,yes,5.85,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6O,,33,instock,,yes,5.85,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6P,,139,instock,,yes,5.85,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6899,7 +6899,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,DUPLICATE58,,1081,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Blue Belt - Brown Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5OBU,,1091,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Orange Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5GBU,,21,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Green Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5YBU,,908,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Yellow Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5YBU,,904,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Yellow Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5PBU,,1091,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Purple Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BRBU,,1091,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Brown Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5RBR,,1017,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Red Belt - Brown Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6916,7 +6916,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B5OR,,1082,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Orange Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5GDR,,1091,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Gold Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5PR,,1073,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Purple Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5BUR,,872,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Blue Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5BUR,,867,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Blue Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5GR,,1079,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Green Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5YR,,1091,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Yellow Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE46,,1063,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Brown Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6947,7 +6947,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B6OR,,1091,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Orange Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6GDR,,1091,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Gold Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6PR,,1091,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Purple Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B6BUR,,1057,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Blue Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B6BUR,,1055,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Blue Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6GR,,1091,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Green Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6YR,,1091,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Yellow Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE47,,1090,instock,,yes,5.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Brown Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7169,7 +7169,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B6WO,,3910,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WO,,3886,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2WR,,2384,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4WR,,2339,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4WR,,2335,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WR,,3670,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WR,,3854,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WR,,3886,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7184,7 +7184,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B6WG,,3912,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WG,,3909,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2WP,,3555,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4WP,,3676,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4WP,,3672,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WP,,3902,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WP,,3907,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WP,,3910,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -22233,7 +22233,7 @@ https://www.playwell.co.uk/images/budokanji1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBO60,visible,25,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/0024.jpg
+<p>&nbsp;</p>",PPBO60,visible,24,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/0024.jpg
 https://www.playwell.co.uk/images/0024_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum G-Fit Air MMA Short Sleeve Rashguard - Urban Camo",venum-g-fit-air-mma-short-sleeve-rashguard---urban-camo,publish,"<p>Venum G-Fit Air MMA Short Sleeve Rashguard Urban Camo</p>
@@ -28168,7 +28168,7 @@ https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_04.jpg
 ,,publish,,,KLWPCBK00,,22,instock,,yes,21.99,,,,,,,,,KLWPCBK,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK0,,15,instock,,yes,22.82,,,,,,,,,KLWPCBK,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK1,,6,instock,,yes,23.66,,,,,,,,,KLWPCBK,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KLWPCBK2,,30,instock,,yes,23.66,,,,,,,,,KLWPCBK,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KLWPCBK2,,29,instock,,yes,23.66,,,,,,,,,KLWPCBK,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK0000,,26,instock,,yes,21.99,,,,,,,,,KLWPCBK,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KLWPCBK00000,,0,outofstock,,yes,21.99,,,,,,,,,KLWPCBK,,,,,,00000/90cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Krav Maga Leather Sparring & Grappling Shooto Glove - 7oz",krav-maga-leather-sparring-&amp;-grappling-shooto-glove---7oz,publish,"<p>Top of the range Gloves. Excellent mould to secure the fitting of the hand. Tough mould and filling on the back of the hand. Open hand on the front. Made of Genuine Cowhide Leather. The Gloves Feature top of the range protection ARound The Knuckle Area, Offering upto 1.5 inches of padding to protect the hand. Can be used for grappling, Vale tudor, shoot fighting, full contact, sparring, MMA. An all rounder glove. Try it to appreciate the true value of this glove. Designed for quality conscious students and instructors.</p>","<p>Top of the range Gloves. Excellent mould to secure the fitting of the hand. Tough mould and filling on the back of the hand. Open hand on the front. Made of Genuine Cowhide Leather. The Gloves Feature top of the range protection ARound The Knuckle Area, Offering upto 1.5 inches of padding to protect the hand. Can be used for grappling, Vale tudor, shoot fighting, full contact, sparring, MMA. An all rounder glove. Try it to appreciate the true value of this glove. Designed for quality conscious students and instructors.</p>",KMLSHOOTOGL,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/newkravshooto1.jpg
@@ -39027,7 +39027,7 @@ https://www.playwell.co.uk/images/boblackthin1_01.jpg
 https://www.playwell.co.uk/images/boblackthin1_02.jpg
 ",taxable,"Standard rate",variable,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thick - 1.25 Inches|Thin - 1.00 Inches",0|1|1,,,,,,,
 ,,publish,,,BOBK60OAK125,,0,outofstock,,yes,21.99,,,,,,,,,BOBK60OAK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thick - 1.25 Inches",,,,,,,,,,,,,,,,,,
-,,publish,,,BOBK60OAK1,,35,instock,,yes,21.99,,,,,,,,,BOBK60OAK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thin - 1.00 Inches",,,,,,,,,,,,,,,,,,
+,,publish,,,BOBK60OAK1,,34,instock,,yes,21.99,,,,,,,,,BOBK60OAK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thin - 1.00 Inches",,,,,,,,,,,,,,,,,,
 "SAFEJAWZ Marvel Captain Marvel Mouthguard",safejawz-marvel-captain-marvel-mouthguard,publish,"<p data-mce-fragment=""1"">SAFEJAWZ Marvel Captain Marvel&nbsp;Mouthguard</p>
 
 <p data-mce-fragment=""1"">&nbsp;</p>
@@ -45997,7 +45997,7 @@ https://www.playwell.co.uk/images/ADITBRAS-WHT-02_fcf15d24-6edc-45d9-bbcd-89003f
 ,,publish,,,contestantwhite44,,0,outofstock,,yes,119.99,,,,,,,,,contestantwhite,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,contestantwhite45,,0,outofstock,,yes,119.99,,,,,,,,,contestantwhite,,,,,,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,contestantwhite48,,3,instock,,yes,119.99,,,,,,,,,contestantwhite,,,,,,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,contestantwhite40,,1,instock,,yes,119.99,,,,,,,,,contestantwhite,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,contestantwhite40,,0,outofstock,,yes,119.99,,,,,,,,,contestantwhite,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,contestantwhite46,,0,outofstock,,yes,119.99,,,,,,,,,contestantwhite,,,,,,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Classic Muay Thai Shorts  - Red",venum-classic-muay-thai-shorts----red,publish,"<p>Venum Classic Muay Thai Shorts&nbsp;are a must-have for all Thai Boxing practitioners looking for shorts with great value!</p>
 
@@ -62923,7 +62923,7 @@ https://www.playwell.co.uk/images/tusahforerarm-back-and-front_02.jpg
 https://www.playwell.co.uk/images/tusahforerarm-back-and-front_03.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large",0|1|1,,,,,,,
 ,,publish,,,tusahforearmxs,,8,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahforearms,,1,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahforearms,,0,outofstock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,tusahforearmm,,7,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,tusahforearml,,0,outofstock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tusah WT  Taekwondo Competition Approved Shin Guards",tusah-wt--taekwondo-competition-approved-shin-guards,publish,"<p>The Tusah WT Approved Taekwondo Shin in White is WT and CE approved. PU compressed sponge construction has been used to make this WT Approved Taekwondo shin guard light weight and flexibile.<br />
@@ -63056,7 +63056,7 @@ https://www.playwell.co.uk/images/tusahmalegroin1_01.jpg
 https://www.playwell.co.uk/images/tusahmalegroin1_02.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large",0|1|1,,,,,,,
 ,,publish,,,tusahmalegroinxs,,3,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahmalegroins,,3,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahmalegroins,,2,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,tusahmalegroinm,,3,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,tusahmalegroinl,,5,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tusah WT Taekwondo Competition Approved Head Guard",tusah-wt-taekwondo-competition-approved-head-guard,publish,"<p>The Tusah WT APPROVED Taekwondo Headguard is made and Approved for all WT competitions. They have the perfect amount of padding needed for WT Taekwondo sparring and kicking. It is packed full of features to help you train better and safer. The head guard also has additional padding around the ears, to stop your ears getting hurt in competition. It also features large air holes so you can hear perfectly well and provides ventilation and heat control.<br />
