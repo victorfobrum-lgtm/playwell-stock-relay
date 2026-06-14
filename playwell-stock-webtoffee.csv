@@ -7307,7 +7307,7 @@ https://www.playwell.co.uk/images/brucekemponew1_02.jpg
 ",taxable,"Standard rate",variable,"Special Embroided Belts","Special Embroided Belts",,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm|420 cm|400 cm|360 cm|340 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BEN220,,981,instock,,yes,29.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BEN250,,987,instock,,yes,29.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BEN280,,983,instock,,yes,29.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BEN280,,982,instock,,yes,29.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BEN300,,985,instock,,yes,29.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BEN320,,980,instock,,yes,29.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BEN420,,988,instock,,yes,39.99,,,,,,,,,BEN,,,,,,,,,,,,,,,,,,"420 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8095,7 +8095,7 @@ https://www.playwell.co.uk/images/W204_01.jpg
 
 <p>&nbsp;</p>",BKSROPED,visible,,,no,,,,0.75,"https://www.playwell.co.uk/images/12631-LG.jpg
 ",taxable,"Standard rate",variable,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,"Cherry Oak|Red Oak|Black Oak",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BKSROPEDCH,,35,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Cherry Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BKSROPEDCH,,34,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Cherry Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKSROPEDR,,31,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Red Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKSROPEDB,,42,instock,,yes,39.99,,,,,,,,,BKSROPED,,,"Black Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kendo Shinai: Beginners",kendo-shinai:-beginners,publish,"<p>Kendo Shinai. A split bamboo stick mostly used in kendo. Suede handle and end with tension ties. Comes with Tsube. Sizes Given In Inches. NO34 - 41&quot; Total Length NO36 - 43.5&quot; Total Length NO38 - 46&quot; Total Length</p>
@@ -9300,7 +9300,7 @@ https://www.playwell.co.uk/images/redtipsnuna_02.jpg
 ",taxable,"Standard rate",variable,"Kung Fu and Wing Chun Weapons","Kung Fu and Wing Chun Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black|Red|Blue,0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFSFBLACK,,0,outofstock,,yes,29.99,,,,,,,,,KFSF,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFSFRED,,0,outofstock,,yes,29.99,,,,,,,,,KFSF,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KFSFBLUE,,7,instock,,yes,29.99,,,,,,,,,KFSF,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KFSFBLUE,,6,instock,,yes,29.99,,,,,,,,,KFSF,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kung Fu Iron Steel Wrist Rings",kung-fu-iron-steel-wrist-rings,publish,"<p>Kung fu iron Strength Rings Available in 3 different sizes.</p>
 
 <p>Measurements given are The inner Diametre length.</p>
@@ -11693,7 +11693,7 @@ https://www.playwell.co.uk/images/woosung1_03.jpg
 https://www.playwell.co.uk/images/woosung1_04.jpg
 ",taxable,"Standard rate",variable,"Martial Arts and Taekwondo Training Shoes","Martial Arts and Taekwondo Training Shoes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40|46,0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,WOOSUNG40,,1,instock,,yes,24.99,,,,,,,,,WOOSUNG,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,WOOSUNG46,,1,instock,,yes,24.99,,,,,,,,,WOOSUNG,,,,,,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,WOOSUNG46,,0,outofstock,,yes,24.99,,,,,,,,,WOOSUNG,,,,,,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Shock Doctor Multi Sport Gum Shield  - Black",shock-doctor-multi-sport-gum-shield----black,publish,"<p>Super low profile mouthguard that only requires hot water to mould, ideal for children and adults. &nbsp; Designed to be thinner in profile, allowing athletes of all levels to benefit from breathing more easily with the ability to communicate through every phase of play, without compromising on protection.</p>
 
 <p>Bio-fit design</p>
@@ -19757,7 +19757,7 @@ https://www.playwell.co.uk/images/sandeeshorts1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",JOASHTAP,visible,32,instock,no,yes,22.98,,15,"https://www.playwell.co.uk/images/ashbotapered.jpg
+<p>&nbsp;</p>",JOASHTAP,visible,31,instock,no,yes,22.98,,15,"https://www.playwell.co.uk/images/ashbotapered.jpg
 ",taxable,"Standard rate",simple,"Jo Staffs","Jo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fairtex BGV9 Leather Mexican Style Boxing Gloves - Black",fairtex-bgv9-leather-mexican-style-boxing-gloves---black,publish,"<p>Fairtex BGV9 Leather Mexican Style Boxing Gloves&nbsp;Re-designed premium boxing gloves from Fairtex. This is the new version of the highly sought after boxers&#39; glove that rivals other top brands that are double the price of these.</p>
 
@@ -29161,7 +29161,7 @@ https://www.playwell.co.uk/images/telescopictaichibasic_02.jpg
 
 <p>&nbsp;</p>",SAIALUM,visible,,,no,,,,1,"https://www.playwell.co.uk/images/alusaiblue.jpg
 ",taxable,"Standard rate",variable,"Kama's and Sais","Kama's and Sais",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black|Blue,0|1|1,,,,,,,,,,
-,,publish,,,SAIALUMBK,,8,instock,,yes,44.99,,,,,,,,,SAIALUM,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,SAIALUMBK,,7,instock,,yes,44.99,,,,,,,,,SAIALUM,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SAIALUMBU,,9,instock,,yes,44.99,,,,,,,,,SAIALUM,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Black Tapered Both Ends",bo-staff-black-tapered-both-ends,publish,"<p>Bo staff Now Available in Black. Made of the Finest Beech Wood. Total Height 72 inches. Tapered at Both Ends. centre&nbsp;1.25&quot; Diam, Ends - 0.75&quot;</p>
 
@@ -31385,7 +31385,7 @@ https://www.playwell.co.uk/images/itftrousers1_02.jpg
 ,,publish,,,ITFTROU00,,22,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFTROU5,,10,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFTROU3,,3,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITFTROU4,,2,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITFTROU4,,1,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFTROU2,,8,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFTROU0,,9,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFTROU1,,10,instock,,yes,16.98,,,,,,,,,ITFTROU,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
