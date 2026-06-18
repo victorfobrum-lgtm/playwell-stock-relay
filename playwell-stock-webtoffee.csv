@@ -382,7 +382,7 @@ https://www.playwell.co.uk/images/SPARBARPRO6CLASSIC1_07.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Dragon Headband 04",dragon-headband-04,publish,"<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD4,visible,37,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headdragon.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Karate Headband 05",karate-headband-05,publish,"<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD5,visible,1452,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkarate.jpg
+"Karate Headband 05",karate-headband-05,publish,"<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD5,visible,1451,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/headkarate.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bonzai Headband 06",bonzai-headband-06,publish,"<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>","<p>Martial Arts Headbands. Made from comfortable Poly/Cotton blend. Pre-folded to 2.25 inches x 45 inches.</p>",HDBD6,visible,114,instock,no,yes,2.49,,0.2,"https://www.playwell.co.uk/images/5a_1.jpg
 ",taxable,"Standard rate",simple,Headbands,Headbands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5945,9 +5945,9 @@ https://www.playwell.co.uk/images/ppropedbokken_03.jpg
 <p>&nbsp;</p>",EBABBLACK,visible,,,no,,,,1,"https://www.playwell.co.uk/images/ESCRIMABLACKJACK1.jpg
 https://www.playwell.co.uk/images/ESCRIMABLACKJACK1_01.jpg
 ",taxable,"Standard rate",variable,"Chest Guards and Body Armour","Chest Guards and Body Armour",,,,,,,,,,,,,,,,,,,,"Small|Medium|X - Small|Large|X Large",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EBABBLACKS,,3,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EBABBLACKS,,1,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKM,,5,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EBABBLACKXS,,3,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EBABBLACKXS,,1,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKL,,9,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXL,,6,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Plain Satin Boxing Gown - Red",plain-satin-boxing-gown---red,publish,"<p>Full Length Boxing Gowns. Made of Satin. With White Edging. Excellent Quality. With Hood.</p>
@@ -8274,7 +8274,7 @@ https://www.playwell.co.uk/images/fightersuit1_05.jpg
 https://www.playwell.co.uk/images/fightersuit1_06.jpg
 https://www.playwell.co.uk/images/fightersuit1_07.jpg
 ",taxable,"Standard rate",variable,"ITF and Taekwondo Poomes Uniforms","ITF and Taekwondo Poomes Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,5/180cm|6/190cm|2/150cm|3/160cm|4/170cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITFFIGHTBKBELT5,,12,instock,,yes,54.99,,,,,,,,,ITFFIGHTBKBELT,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITFFIGHTBKBELT5,,11,instock,,yes,54.99,,,,,,,,,ITFFIGHTBKBELT,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFFIGHTBKBELT6,,19,instock,,yes,54.99,,,,,,,,,ITFFIGHTBKBELT,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFFIGHTBKBELT2,,9,instock,,yes,54.99,,,,,,,,,ITFFIGHTBKBELT,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFFIGHTBKBELT3,,4,instock,,yes,54.99,,,,,,,,,ITFFIGHTBKBELT,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8617,7 +8617,7 @@ https://www.playwell.co.uk/images/KUNGFUCOTTONBLACKWHITEN1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",TSDUR,visible,,,no,,,,0.65,"https://www.playwell.co.uk/images/tangredtrim.jpg
+<p>&nbsp;</p>",TSDUR,visible,,,no,,,,1,"https://www.playwell.co.uk/images/tangredtrim.jpg
 https://www.playwell.co.uk/images/tangredtrim_01.jpg
 https://www.playwell.co.uk/images/tangredtrim_02.jpg
 ",taxable,"Standard rate",variable,"Tang Soo Do Uniforms And Equipment","Tang Soo Do Uniforms And Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,00/120cm|0/130cm|2/150cm|1/140cm|3/160cm|4/170cm|5/180cm|6/190cm|000/110cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9324,7 +9324,7 @@ https://www.playwell.co.uk/images/newitfstudent1_04.jpg
 ,,publish,,,ITF00,,216,instock,,yes,30.82,,,,,,,,,ITF,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF0,,19,instock,,yes,31.66,,,,,,,,,ITF,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF1,,25,instock,,yes,31.66,,,,,,,,,ITF,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITF2,,19,instock,,yes,31.66,,,,,,,,,ITF,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITF2,,18,instock,,yes,31.66,,,,,,,,,ITF,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF00000,,0,outofstock,,yes,29.99,,,,,,,,,ITF,,,,,,00000/90cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF0000,,9,instock,,yes,29.99,,,,,,,,,ITF,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "ITF Taekwondo Black Belt Suit",itf-taekwondo-black-belt-suit,publish,"<p>65% Poly 35% Cotton. Black belt trim along the bottom of jacket. ITF &quot;tree&quot; on back and ITF on pant. Full embroidery ITF badge on front. Velcro Closure</p>
@@ -12588,7 +12588,7 @@ https://www.playwell.co.uk/images/DOUBLEBLACK1_01.jpg
 https://www.playwell.co.uk/images/DOUBLEBLACK1_02.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X Large|Large|Medium|Small",0|1|1,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DHGBKDOUBLEXL,,7,instock,,yes,29.99,,,,,,,,,DHGBKDOUBLE,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DHGBKDOUBLEL,,22,instock,,yes,29.99,,,,,,,,,DHGBKDOUBLE,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DHGBKDOUBLEL,,18,instock,,yes,29.99,,,,,,,,,DHGBKDOUBLE,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DHGBKDOUBLEM,,0,outofstock,,yes,29.99,,,,,,,,,DHGBKDOUBLE,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DHGBKDOUBLES,,39,instock,,yes,29.99,,,,,,,,,DHGBKDOUBLE,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Childrens 220cm Striped Belts",childrens-220cm-striped-belts,publish,"<p>100% cotton. Colour Fast. Width of belt 1.75 inches. If you do not see a belt which you are in need for your club grading please call on 0208 810 9449 as we have 100&#39;s of different kinds of grading belts in stock or e-mail us sales@playwell.co.uk</p>","<p>100% cotton. Colour Fast. Width of belt 1.75 inches. If you do not see a belt which you are in need for your club grading please call on 0208 810 9449 as we have 100&#39;s of different kinds of grading belts in stock or e-mail us sales@playwell.co.uk</p>",B,visible,,,no,,,,0.3,"https://www.playwell.co.uk/images/MULTISTRPEDBELTSPIC.jpg
@@ -12863,7 +12863,7 @@ https://www.playwell.co.uk/images/RPMWHITEGOLD_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",ESSINAWALI,visible,50,instock,no,yes,21.99,,0.35,"https://www.playwell.co.uk/images/Escrima-Stick-Sinawali.jpg
+<p>&nbsp;</p>",ESSINAWALI,visible,49,instock,no,yes,21.99,,0.35,"https://www.playwell.co.uk/images/Escrima-Stick-Sinawali.jpg
 ",taxable,"Standard rate",simple,"Escrima Sticks / Kali Sticks","Escrima Sticks / Kali Sticks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Style Fingerless Bag Gloves",deluxe-style-fingerless-bag-gloves,publish,"<p>New Design.... Made of Full Leather Construction With Elasticated Velcro Closure for comfortable fit. Glove has got Extra Thick Padding Around KNuckle Area ( Approx 1 inch of Padding). Available in Adult Size Only. Excellent Design and Quality.</p>
 
@@ -17917,8 +17917,8 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_01.jpg
 https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_02.jpg
 https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ",taxable,"Standard rate",variable,"Demo And Graphite Bo Staffs","Demo And Graphite Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Red/Blue|Black/Yellow,0|1|1,,,,,,,,,,
-,,publish,,,BOGTOOTH72RDBU,,39,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Red/Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOGTOOTH72BKY,,34,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Black/Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOGTOOTH72RDBU,,35,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Red/Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOGTOOTH72BKY,,30,instock,,yes,59.99,,,,,,,,,BOGTOOTH72,,,Black/Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Graphite Bo: Tapered 2 Sectional - Blue/Red",graphite-bo:-tapered-2-sectional---blue/red,publish,"<p>A new concept in Bo demonstrations. Playwell has applied the same material used for high quality golf clubs and tennis rackets to bring you the Ultimate in durability for a Bo. Will not warp. 6 inch oak core. Smooth, metallic paint finish. Light weight. Comes as a 2 Sectional staff.</p>
 
 <div>Playwell has designed this sectional Graphite Bo staff to be easy to carry around. 1.25 inch diameter center tapers to 1 inches each end. Full Length is &nbsp;72 Inches.</div>
@@ -17985,7 +17985,7 @@ Rival 100 Series Rubber Patch on the Forehead</p>",rivalrhg100headWHITE,visible,
 
 <p>&nbsp;</p>","<p>Brand New Childrens Wooden Martial Arts Bokken Made of Oak Wood. Black Oak oak bokken for Kids. Total length 33 Inches. Comes with Tsube &amp; Guard</p>
 
-<p>&nbsp;</p>",BKCBK,visible,83,instock,no,yes,21.99,,1,"https://www.playwell.co.uk/images/bokkenchildblack1.jpg
+<p>&nbsp;</p>",BKCBK,visible,82,instock,no,yes,21.99,,1,"https://www.playwell.co.uk/images/bokkenchildblack1.jpg
 https://www.playwell.co.uk/images/bokkenchildblack1_01.jpg
 https://www.playwell.co.uk/images/bokkenchildblack1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -18917,7 +18917,7 @@ https://www.playwell.co.uk/images/leagacy-white-head-gear-front_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NUNCARDRAGCORD,visible,30,instock,no,yes,22.98,,0.35,"https://www.playwell.co.uk/images/dragoncordbbchucks1.jpg
+<p>&nbsp;</p>",NUNCARDRAGCORD,visible,29,instock,no,yes,22.98,,0.35,"https://www.playwell.co.uk/images/dragoncordbbchucks1.jpg
 https://www.playwell.co.uk/images/dragoncordbbchucks1_01.jpg
 https://www.playwell.co.uk/images/dragoncordbbchucks1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden & Steel Nunchucks","Wooden & Steel Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -30980,7 +30980,7 @@ Technical features:</p>
 	<li>High Density Rubber Frame for a better shock management, and a top protection.</li>
 	<li>Delivered with its protective case for a better hygiene.</li>
 	<li>CE Certification / Norm: SATRA M33:2011</li>
-</ul>",VENGSCHALLKIDSBKW,visible,3,instock,no,yes,9.99,,0.35,"https://www.playwell.co.uk/images/venumkidsred mouth.jpg
+</ul>",VENGSCHALLKIDSBKW,visible,2,instock,no,yes,9.99,,0.35,"https://www.playwell.co.uk/images/venumkidsred mouth.jpg
 https://www.playwell.co.uk/images/venumkidsred mouth_01.jpg
 https://www.playwell.co.uk/images/venumkidsred mouth_02.jpg
 https://www.playwell.co.uk/images/venumkidsred mouth_03.jpg
@@ -41891,7 +41891,7 @@ https://www.playwell.co.uk/images/yellowbrucenew1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BORDGRADEB,visible,72,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredstraight1.jpg
+<p>&nbsp;</p>",BORDGRADEB,visible,71,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredstraight1.jpg
 https://www.playwell.co.uk/images/boredstraight1_01.jpg
 https://www.playwell.co.uk/images/boredstraight1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -55740,7 +55740,7 @@ https://www.playwell.co.uk/images/NEWPICMANDAU1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",SABERSWORD,visible,181,instock,no,yes,31.98,,1,"https://www.playwell.co.uk/images/ppnewsabersword1.jpg
+<p>&nbsp;</p>",SABERSWORD,visible,179,instock,no,yes,31.98,,1,"https://www.playwell.co.uk/images/ppnewsabersword1.jpg
 https://www.playwell.co.uk/images/ppnewsabersword1_01.jpg
 https://www.playwell.co.uk/images/ppnewsabersword1_02.jpg
 https://www.playwell.co.uk/images/ppnewsabersword1_03.jpg
