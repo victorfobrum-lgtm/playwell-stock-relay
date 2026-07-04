@@ -27,13 +27,9 @@ post_title,post_name,post_status,post_excerpt,post_content,sku,visibility,stock,
 ",taxable,"Standard rate",simple,"Karate Gifts","Karate Gifts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Judo Figure : H972",judo-figure-:-h972,publish,"High Quality Judo Figurine.","High Quality Judo Figurine.",JFH972,visible,7,instock,no,yes,12.98,,0.35,"https://www.playwell.co.uk/images/JUDONEWH972.jpg
 ",taxable,"Standard rate",simple,"Judo Figurines","Judo Figurines",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Judo Figure : H981 - PRE ORDER",judo-figure-:-h981---pre-order,publish,"<p>High Quality Judo Figurine.</p>
+"Judo Figure : H981",judo-figure-:-h981,publish,"<p>High Quality Judo Figurine.</p>
 
 <p>Total height 15.5cm</p>
-
-<p>&nbsp;</p>
-
-<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 17TH NOVEMBER 2025&nbsp;</strong></span></p>
 
 <p>&nbsp;</p>
 
@@ -44,10 +40,6 @@ post_title,post_name,post_status,post_excerpt,post_content,sku,visibility,stock,
 <p>&nbsp;</p>","<p>High Quality Judo Figurine.</p>
 
 <p>Total height 15.5cm</p>
-
-<p>&nbsp;</p>
-
-<p><span style=""color:#e74c3c;""><strong>THIS IS A PRE ORDER ITEM - PRE ORDER NOW AND WE WILL SHIP 17TH NOVEMBER 2025&nbsp;</strong></span></p>
 
 <p>&nbsp;</p>
 
@@ -6816,18 +6808,18 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B2W,,103,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2R,,41,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2Y,,0,outofstock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2G,,63,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2G,,62,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2O,,75116,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2P,,75951,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2P,,75948,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BK,,76172,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2BU,,75766,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2BU,,75765,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BR,,76045,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4W,,127,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4R,,-12,outofstock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4Y,,9347,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4G,,10971,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4Y,,9346,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4G,,10967,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4O,,-4,outofstock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4P,,74785,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4P,,74784,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BK,,76086,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BU,,74311,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BR,,75170,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7018,11 +7010,11 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,Orange|Red|Yellow|Green|Purple|Blue|white|Brown,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4OBK,,97982,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4RBK,,97834,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4YBK,,97743,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4YBK,,97742,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4GBK,,98078,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4PBK,,98168,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4BUBK,,98117,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4WBK,,98134,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4BUBK,,98116,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4WBK,,98133,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BRBK,,97798,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5OBK,,98204,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5RBK,,98104,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7050,11 +7042,11 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B7BRBK,,98235,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2OBK,,98097,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE12,,98089,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DUPLICATE13,,97896,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2GBK,,98256,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DUPLICATE13,,97891,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2GBK,,98255,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2PBK,,98248,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BUBK,,98245,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2WBK,,97937,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2WBK,,97933,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BRBK,,98217,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Belts: Black Belt with Coloured Striped",belts:-black-belt-with-coloured-striped,publish,"<p>100% cotton. Colour Fast. Width of belt 1.75 inches. If you do not see a belt which you are in need for your club grading please call on 0208 810 9449 as we have 100&#39;s of different kinds of grading belts in stock or e-mail us sales@playwell.co.uk</p>","<p>100% cotton. Colour Fast. Width of belt 1.75 inches. If you do not see a belt which you are in need for your club grading please call on 0208 810 9449 as we have 100&#39;s of different kinds of grading belts in stock or e-mail us sales@playwell.co.uk</p>",B,visible,,,no,,,,0.3,"https://www.playwell.co.uk/images/MULTISTRPEDBELTSPIC.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8233,7 +8225,7 @@ Perfect gift for Teenagers and Adults",YINYANGWALLET,visible,21,instock,no,yes,7
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",d490b5,visible,22,instock,no,yes,64.99,,2,"https://www.playwell.co.uk/images/D490-B5.jpg
+<p>&nbsp;</p>",d490b5,visible,21,instock,no,yes,64.99,,2,"https://www.playwell.co.uk/images/D490-B5.jpg
 ",taxable,"Standard rate",simple,"Tai Chi Swords","Tai Chi Swords",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Muay Thai Ankle Supports - Black/Black",venum-muay-thai-ankle-supports---black/black,publish,"<p>A superb ankle support which offers truly remarkable protection. Made from Elasticated Cotton With White Piping,&nbsp; Venum Logo ( Screen Printed ). Sold As pairs.</p>
 
@@ -9345,7 +9337,7 @@ https://www.playwell.co.uk/images/NEWITFBLACKBELT1_02.jpg
 https://www.playwell.co.uk/images/NEWITFBLACKBELT1_03.jpg
 https://www.playwell.co.uk/images/NEWITFBLACKBELT1_04.jpg
 ",taxable,"Standard rate",variable,"ITF and Taekwondo Poomes Uniforms","ITF and Taekwondo Poomes Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3/160cm|4/170cm|5/180cm|6/190cm|7/200cm|2/150cm|1/140cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITFB3,,4,instock,,yes,36.98,,,,,,,,,ITFB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITFB3,,3,instock,,yes,36.98,,,,,,,,,ITFB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFB4,,10,instock,,yes,37.84,,,,,,,,,ITFB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFB5,,15,instock,,yes,38.69,,,,,,,,,ITFB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITFB6,,27,instock,,yes,39.54,,,,,,,,,ITFB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -27088,7 +27080,7 @@ https://www.playwell.co.uk/images/Venum-Cellular-Focus-Mitts_01.jpg
 
 <p>&nbsp;</p>",3SECR,visible,0,outofstock,no,yes,38.99,,1,"https://www.playwell.co.uk/images/3-section-staff-rattan-19.jpg
 ",taxable,"Standard rate",simple,"Three Sectional Staffs","Three Sectional Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Three Sectional Staff - Black Oak",three-sectional-staff---black-oak,publish,"<p>&nbsp;Section Staff - Black Oak. Each section is 26.5&quot; Made from&nbsp;oak wood.</p>","<p>&nbsp;Section Staff - Black Oak. Each section is 26.5&quot; Made from&nbsp;oak wood.</p>",3SECBK,visible,29,instock,no,yes,34.98,,1,"https://www.playwell.co.uk/images/3SECTIONALBLACK.jpg
+"Three Sectional Staff - Black Oak",three-sectional-staff---black-oak,publish,"<p>&nbsp;Section Staff - Black Oak. Each section is 26.5&quot; Made from&nbsp;oak wood.</p>","<p>&nbsp;Section Staff - Black Oak. Each section is 26.5&quot; Made from&nbsp;oak wood.</p>",3SECBK,visible,28,instock,no,yes,34.98,,1,"https://www.playwell.co.uk/images/3SECTIONALBLACK.jpg
 ",taxable,"Standard rate",simple,"Three Sectional Staffs","Three Sectional Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Contender 1.5 XT Boxing Gloves - Black",venum-contender-1.5-xt-boxing-gloves---black,publish,"<p>Venum Contender 1.5 XT Boxing Gloves Black</p>
 
@@ -30162,7 +30154,7 @@ https://www.playwell.co.uk/images/S009_02.jpg
 
 <p>&nbsp;</p>",PPNAGI,visible,,,no,,,,20,"https://www.playwell.co.uk/images/naginatapp.jpg
 ",taxable,"Standard rate",variable,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5ft|6ft,0|1|1,,,,,,,,,,
-,,publish,,,PPNAGI5ft,,19,instock,,yes,69.99,,,,,,,,,PPNAGI,,,,,,5ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PPNAGI5ft,,18,instock,,yes,69.99,,,,,,,,,PPNAGI,,,,,,5ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PPNAGI6ft,,18,instock,,yes,69.99,,,,,,,,,PPNAGI,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Full Contact Long Pole Spear Stick - S010",black-polypropylene-full-contact-long-pole-spear-stick---s010,publish,"<p style=""margin: 0cm 0cm 10pt;"">A spear is a pole weapon consisting of a shaft, usually of wood, with a pointed head. The head may be simply the sharpened end of the shaft itself, as is the case with fire hardened spears, or it may be made of a more durable material fastened to the shaft, such as flint,obsidian, iron, steel or bronze. The most common design for hunting or combat spears since ancient times has incorporated a metal spearhead shaped like a triangle, lozenge, or leaf. The heads of fishing spears usually feature barbs or serrated edges.</p>
 
@@ -42166,7 +42158,7 @@ https://www.playwell.co.uk/images/blue8incord1_02.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Top Ten Blue Muay Thai IFMA Approved Boxing Gloves  - 10oz",top-ten-blue-muay-thai-ifma-approved-boxing-gloves----10oz,publish,"<p>With the &ldquo;Mad&rdquo; boxing gloves from the IFMA Competition Series, you&#39;re in the right place in Muay Thai competitions. The high-quality genuine leather boxing gloves have first-class padding, transitioning from the outside to the inside. The palm of the hand is also sufficiently padded. The thumb is fixed twice, and the edges of the hand are reinforced. Additional advantages: genuine leather cover competition colors red or blue IFMA approved label padded palm reinforced hand edges</p>","<p>With the &ldquo;Mad&rdquo; boxing gloves from the IFMA Competition Series, you&#39;re in the right place in Muay Thai competitions. The high-quality genuine leather boxing gloves have first-class padding, transitioning from the outside to the inside. The palm of the hand is also sufficiently padded. The thumb is fixed twice, and the edges of the hand are reinforced. Additional advantages: genuine leather cover competition colors red or blue IFMA approved label padded palm reinforced hand edges</p>",madglovesblue,visible,0,outofstock,no,yes,103.98,,0.35,"https://www.playwell.co.uk/images/bluemadgloves.jpg
 ",taxable,"Standard rate",simple,"Muay Thai Boxing Gloves","Muay Thai Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"NR-019: 8 in Foam with ball bearing chain: All Red",nr-019:-8-in-foam-with-ball-bearing-chain:-all-red,publish,"<p>Foam Nunchucks for children All Red with Dragon Design Nunchucks made of foam With Metal Ball Bearing Chain. Diameter of Handles approx 1.2 inches, Length of Handles 8inches, Length of Chain approx 5.5 inches (7 links in chain). Great For Beginners, Children, Ladies Available With Metal Chain Or Cord. Colours Subject to Availability. ....................Best Seller As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>","<p>Foam Nunchucks for children All Red with Dragon Design Nunchucks made of foam With Metal Ball Bearing Chain. Diameter of Handles approx 1.2 inches, Length of Handles 8inches, Length of Chain approx 5.5 inches (7 links in chain). Great For Beginners, Children, Ladies Available With Metal Chain Or Cord. Colours Subject to Availability. ....................Best Seller As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>",NR-019,visible,23,instock,no,yes,11.99,,0.35,"https://www.playwell.co.uk/images/redchain1.jpg
+"NR-019: 8 in Foam with ball bearing chain: All Red",nr-019:-8-in-foam-with-ball-bearing-chain:-all-red,publish,"<p>Foam Nunchucks for children All Red with Dragon Design Nunchucks made of foam With Metal Ball Bearing Chain. Diameter of Handles approx 1.2 inches, Length of Handles 8inches, Length of Chain approx 5.5 inches (7 links in chain). Great For Beginners, Children, Ladies Available With Metal Chain Or Cord. Colours Subject to Availability. ....................Best Seller As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>","<p>Foam Nunchucks for children All Red with Dragon Design Nunchucks made of foam With Metal Ball Bearing Chain. Diameter of Handles approx 1.2 inches, Length of Handles 8inches, Length of Chain approx 5.5 inches (7 links in chain). Great For Beginners, Children, Ladies Available With Metal Chain Or Cord. Colours Subject to Availability. ....................Best Seller As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>",NR-019,visible,22,instock,no,yes,11.99,,0.35,"https://www.playwell.co.uk/images/redchain1.jpg
 https://www.playwell.co.uk/images/redchain1_01.jpg
 https://www.playwell.co.uk/images/redchain1_02.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48220,7 +48212,7 @@ https://www.playwell.co.uk/images/STEELV2BAMBOO1_02.jpg
 ",taxable,"Standard rate",variable,"Karate Trousers","Karate Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7/200cm|6/190cm|4/170cm|5/180cm|3/160cm,0|1|1,,,,,,,
 ,,publish,,,KTW7,,6,instock,,yes,18.98,,,,,,,,,KTW,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTW6,,29,instock,,yes,18.98,,,,,,,,,KTW,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KTW4,,29,instock,,yes,18.98,,,,,,,,,KTW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KTW4,,28,instock,,yes,18.98,,,,,,,,,KTW,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTW5,,8,instock,,yes,18.98,,,,,,,,,KTW,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTW3,,26,instock,,yes,18.98,,,,,,,,,KTW,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Legacy MMA Fight Gloves",venum-legacy-mma-fight-gloves,publish,"<p>Venum Legacy MMA Fight Gloves The Venum MMA Legacy gloves are a compendium of Venum&#39;s proven know-how in mixed martial arts. The premium PU coating coupled with reinforced stitching ensures a long lifespan. The multi-layered foam system protects the joints with every impact. The hook-and-loop closure secures the wrist during the transition phases to the ground. Available in 3 sizes, these gloves are perfect for regular MMA practice, in combat, as well as in training. TECHNICAL FEATURES 3 sizes available Premium PU coating Reinforced seams Multi-layer foam system for optimal shock absorption Targeted reinforcements on each finger Reinforcement at the wrist Double turn hook and loop closure for maximum stability 3D logo on the wrist</p>","<p>Venum Legacy MMA Fight Gloves The Venum MMA Legacy gloves are a compendium of Venum&#39;s proven know-how in mixed martial arts. The premium PU coating coupled with reinforced stitching ensures a long lifespan. The multi-layered foam system protects the joints with every impact. The hook-and-loop closure secures the wrist during the transition phases to the ground. Available in 3 sizes, these gloves are perfect for regular MMA practice, in combat, as well as in training. TECHNICAL FEATURES 3 sizes available Premium PU coating Reinforced seams Multi-layer foam system for optimal shock absorption Targeted reinforcements on each finger Reinforcement at the wrist Double turn hook and loop closure for maximum stability 3D logo on the wrist</p>",legacymma,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/legacymma1.jpg
