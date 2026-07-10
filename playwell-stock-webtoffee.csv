@@ -607,7 +607,7 @@ https://www.playwell.co.uk/images/SHOTORED1_02.jpg
 ",taxable,"Standard rate",simple,"Instructor Patches","Instructor Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Instructor Patch 7",instructor-patch-7,publish,"<p>1inch x 4 inches.</p>","<p>1inch x 4 inches.</p>",PINST,visible,,,no,,,,0.2,"https://www.playwell.co.uk/images/INSTRUCTORGOLDPATCH.jpg
 ",taxable,"Standard rate",variable,"Instructor Patches","Instructor Patches",,,,,Black/White|Black/Yellow,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,PINSTBKW,,962,instock,,yes,2.55,,,,,,,,,PINST,,,Black/White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PINSTBKW,,961,instock,,yes,2.55,,,,,,,,,PINST,,,Black/White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PINSTBKY,,920,instock,,yes,2.55,,,,,,,,,PINST,,,Black/Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sensei Patch 21",sensei-patch-21,publish,"<p>2 inches x 4.5 inches</p>","<p>2 inches x 4.5 inches</p>",P21,visible,23,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/senseipatch.jpg
 ",taxable,"Standard rate",simple,"Instructor Patches","Instructor Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -683,7 +683,7 @@ Reward your students with these merit patches for forms. Size: 1 x 4 inches.",pa
 
 <p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P103,visible,3,instock,no,yes,2.88,,0.2,"https://www.playwell.co.uk/images/patch103.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Merit Patch: Student: Junior Leader P101",merit-patch:-student:-junior-leader-p101,publish,"<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P101,visible,88,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/1008.jpg
+"Merit Patch: Student: Junior Leader P101",merit-patch:-student:-junior-leader-p101,publish,"<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P101,visible,87,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/1008.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Merit Patch: Student: Team Leader P102",merit-patch:-student:-team-leader-p102,publish,"<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches. Size: 1 x 4 inches.</p>",P102,visible,915,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/teamleaderpatch.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2016,7 +2016,7 @@ https://www.playwell.co.uk/images/NEWPICMIXEDKARATE1_04.jpg
 ",taxable,"Standard rate",variable,"Karate Trousers","Karate Trousers",,,,,6/190cm|5/180cm|4/170cm|3/160cm|00/120cm|0/130cm|1/140cm|2/150cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTBU6,,0,outofstock,,yes,19.99,,,,,,,,,KTBU,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTBU5,,1,instock,,yes,19.99,,,,,,,,,KTBU,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KTBU4,,3,instock,,yes,18.99,,,,,,,,,KTBU,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KTBU4,,2,instock,,yes,18.99,,,,,,,,,KTBU,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTBU3,,4,instock,,yes,18.99,,,,,,,,,KTBU,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTBU00,,2,instock,,yes,16.99,,,,,,,,,KTBU,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KTBU0,,6,instock,,yes,17.50,,,,,,,,,KTBU,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2123,7 +2123,7 @@ https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_02.jpg
 https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_03.jpg
 https://www.playwell.co.uk/images/karateblackcottonstudentuniform1_04.jpg
 ",taxable,"Standard rate",variable,"Karate Uniforms","Karate Uniforms",,,,,3/160cm|4/170cm|5/180cm|6/190cm|7/200cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KMW3B,,21,instock,,yes,28.98,,,,,,,,,KMWB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KMW3B,,20,instock,,yes,28.98,,,,,,,,,KMWB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW4B,,12,instock,,yes,28.98,,,,,,,,,KMWB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW5B,,4,instock,,yes,29.98,,,,,,,,,KMWB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMW6B,,42,instock,,yes,30.99,,,,,,,,,KMWB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8103,7 +8103,7 @@ https://www.playwell.co.uk/images/W204_01.jpg
 ,,publish,,,KSHIN38,,33,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"38 - ( 46 Inches )",,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSHIN34,,44,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"34 - (41 Inches)",,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSHIN39,,43,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"39 - ( 47 Inches )",,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSHIN36,,19,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"36 - ( 42 Inches )",,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSHIN36,,18,instock,,yes,34.98,,,,,,,,,KSHIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"36 - ( 42 Inches )",,,,,,,,,,,,,,,,,,,,,,,,
 "Ninja Wooden Black Bokken - 34""",ninja-wooden-black-bokken---34&quot;,publish,"<p>Ninja Black Wooden bokken complete with square tsube. Total Length of Bokken 34 Inches. Length handles 9 inches.</p>
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
@@ -8217,7 +8217,7 @@ Perfect gift for Teenagers and Adults",YINYANGWALLET,visible,21,instock,no,yes,7
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",d490b5,visible,21,instock,no,yes,64.99,,2,"https://www.playwell.co.uk/images/D490-B5.jpg
+<p>&nbsp;</p>",d490b5,visible,20,instock,no,yes,64.99,,2,"https://www.playwell.co.uk/images/D490-B5.jpg
 ",taxable,"Standard rate",simple,"Tai Chi Swords","Tai Chi Swords",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Muay Thai Ankle Supports - Black/Black",venum-muay-thai-ankle-supports---black/black,publish,"<p>A superb ankle support which offers truly remarkable protection. Made from Elasticated Cotton With White Piping,&nbsp; Venum Logo ( Screen Printed ). Sold As pairs.</p>
 
@@ -13014,7 +13014,7 @@ https://www.playwell.co.uk/images/newpickungfuallblackuniform1_04.jpg
 ,,publish,,,,,11,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,11,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,12,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,,,12,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,,,11,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,11,instock,,yes,34.98,,,,,,,,,KFUB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Nine Section Whip Chain - 250g",nine-section-whip-chain---250g,publish,"<p>Nine Section Whip Chain Made of Lightweight Steel. Regarded by some as one of the primary weapons of China, small enough to easily conceal but deadly when unleashed. Weight of Whip is Approx 250 grams. Really Lightweight for Fast Movements Total Length is Approx 52 Inches. Comes Complete With Free Carry Case.</p>
 
@@ -16505,7 +16505,7 @@ https://www.playwell.co.uk/images/Fairtex-SP5-Shin-Guards-Black_05.jpg
 ,,publish,,,FAIRSGSP5M,,20,instock,,yes,89.98,,,,,,,,,FAIRSGSP5,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FAIRSGSP5L,,20,instock,,yes,89.98,,,,,,,,,FAIRSGSP5,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FAIRSGSP5XL,,5,instock,,yes,89.98,,,,,,,,,FAIRSGSP5,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Competition Black Ultra light Training Sword - 42""",competition-black-ultra-light-training-sword---42&quot;,publish,"<p><span id=""dnn_ctr371_ContentPane""><span class=""ProdDescription"" id=""dnn_ctr371_ItemDetail_lblProductDescription"">This polished aluminum blade has a wooden handle and scabbard with a black belting cord.</span></span></p>
+"Competition Black Ultra light Training Sword - 42"" - Ex Display",competition-black-ultra-light-training-sword---42&quot;---ex-display,publish,"<p><span id=""dnn_ctr371_ContentPane""><span class=""ProdDescription"" id=""dnn_ctr371_ItemDetail_lblProductDescription"">This polished aluminum blade has a wooden handle and scabbard with a black belting cord.</span></span></p>
 
 <p><span id=""dnn_ctr371_ContentPane""><span class=""ProdDescription"" id=""dnn_ctr371_ItemDetail_lblShortDescription"">The rectangular aluminum hand guard has a satin finish. Half tang construction. Blade is not sharpened.&nbsp;<br />
 Made from Aircraft Grade Aluminium, Sizes Listed Below is full Length of Sword</span></span></p>
@@ -16515,6 +16515,14 @@ Made from Aircraft Grade Aluminium, Sizes Listed Below is full Length of Sword</
 <p>&nbsp;</p>
 
 <p><u><strong><span style=""color:#c0392b;""><span class=""ProdDescription"">PLEASE NOTE THE SCABBARD HAS SOME DAMAGES ON IT - SWORD IS ABSOLUTELY FINE</span></span></strong></u></p>
+
+<p>&nbsp;</p>
+
+<p><span class=""ProdDescription"">Original RRP Price - &pound;114.99 Product Link Below</span></p>
+
+<p>&nbsp;</p>
+
+<p><span class=""ProdDescription""><a href=""https://www.playwell.co.uk/weapons/swords/samurai-swords-tantos/competition-ultra-light-training-sword-black-pre-order"">https://www.playwell.co.uk/weapons/swords/samurai-swords-tantos/competition-ultra-light-training-sword-black-pre-order</a></span></p>
 
 <p>&nbsp;</p>
 
@@ -16544,6 +16552,14 @@ Made from Aircraft Grade Aluminium, Sizes Listed Below is full Length of Sword</
 <p>&nbsp;</p>
 
 <p><u><strong><span style=""color:#c0392b;""><span class=""ProdDescription"">PLEASE NOTE THE SCABBARD HAS SOME DAMAGES ON IT - SWORD IS ABSOLUTELY FINE</span></span></strong></u></p>
+
+<p>&nbsp;</p>
+
+<p><span class=""ProdDescription"">Original RRP Price - &pound;114.99 Product Link Below</span></p>
+
+<p>&nbsp;</p>
+
+<p><span class=""ProdDescription""><a href=""https://www.playwell.co.uk/weapons/swords/samurai-swords-tantos/competition-ultra-light-training-sword-black-pre-order"">https://www.playwell.co.uk/weapons/swords/samurai-swords-tantos/competition-ultra-light-training-sword-black-pre-order</a></span></p>
 
 <p>&nbsp;</p>
 
@@ -22861,6 +22877,14 @@ https://www.playwell.co.uk/images/kidsbluetiger1_03.jpg
 
 <p>&nbsp;</p>
 
+<p>Original RRP Price - &pound;94.99 Product link below</p>
+
+<p>&nbsp;</p>
+
+<p><a href=""https://www.playwell.co.uk/weapons/swords/broadswords/natural-finished-teak-wood-case-broadsword"">https://www.playwell.co.uk/weapons/swords/broadswords/natural-finished-teak-wood-case-broadsword</a></p>
+
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>","<p>This sword is specially hand forged with sturdy forged steel and made from Long Quan. This sword is strong, excellent balance, lightweight and great handling. The blade is Slightly flexible but sturdy. Its great buy considering the price and is good to learn traditional style as beginner sword. Total length approx 37.5 inches</p>
@@ -22872,6 +22896,14 @@ https://www.playwell.co.uk/images/kidsbluetiger1_03.jpg
 <p>&nbsp;</p>
 
 <p><span style=""color:#c0392b;""><strong><u>PLEASE NOTE THERE IS NO SCABBARD WITH THIS SWORD</u></strong></span></p>
+
+<p>&nbsp;</p>
+
+<p>Original RRP Price - &pound;94.99 Product link below</p>
+
+<p>&nbsp;</p>
+
+<p><a href=""https://www.playwell.co.uk/weapons/swords/broadswords/natural-finished-teak-wood-case-broadsword"">https://www.playwell.co.uk/weapons/swords/broadswords/natural-finished-teak-wood-case-broadsword</a></p>
 
 <p>&nbsp;</p>
 
@@ -25167,7 +25199,7 @@ https://www.playwell.co.uk/images/floormakiwara1_04.jpg
 ,,publish,,,BSBPAUL25,,0,outofstock,,yes,4.74,,,,,,,,,BSBPAUL,,,,,,"21cm x 30cm x 2.5cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BSBPAUL12,,0,outofstock,,yes,3.38,,,,,,,,,BSBPAUL,,,,,,"21cm x 30cm 1.2cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BSBPAUL09,,341,instock,,yes,2.99,,,,,,,,,BSBPAUL,,,,,,"21cm x 30cm x 0.9cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BSBPAUL15,,93,instock,,yes,3.98,,,,,,,,,BSBPAUL,,,,,,"21cm x 30cm x 1.5cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BSBPAUL15,,0,outofstock,,yes,3.98,,,,,,,,,BSBPAUL,,,,,,"21cm x 30cm x 1.5cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Curved Thai Arm Pad W/ Shock Pads Black/Red: SINGLE",deluxe-curved-thai-arm-pad-w/-shock-pads-black/red:-single,publish,"<p>Nevatear for long lasting durability. This pad will withstand the punishment of both punches and kicks, giving you a range of training options focusing on a number of your different fighting attributes as it can be used for many different striking drills. New Design at the back feature Cushion Pads For added safety for the Person Holding Pads</p>
 
 <p><strong>FEATURES</strong></p>
@@ -27628,7 +27660,7 @@ PLEASE NOTE - you need to buy the same size BJJ belt as your BJJ Gi size.</p>
 
 <p><span style=""color:#e74c3c;""><strong>THIS IS A&nbsp; PRE ORDER ITEM -PRE ORDER NOW AND WE WILL SHIP 10TH AUGUST 2026&nbsp;</strong></span></p>
 
-<p>&nbsp;</p>",kaibo72,visible,9,instock,no,yes,59.99,,20,"https://www.playwell.co.uk/images/00261.jpg
+<p>&nbsp;</p>",kaibo72,visible,8,instock,no,yes,59.99,,20,"https://www.playwell.co.uk/images/00261.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Throwing Knife Dagger",black-polypropylene-throwing-knife-dagger,publish,"<div>Now you can practice with some of our most popular knife designs, in relative safety, with our new rubber training knives.&nbsp; Each has been carefully fashioned to look as realistic as possible so they can be effectively used in solo practice, training drills, disarm drills, and demonstrations and any other activity where you want a reasonably close approximation of realism but not the extreme danger and risk associated with an actual knife.</div>
 
@@ -27748,7 +27780,7 @@ https://www.playwell.co.uk/images/yellowbrucebb1_02.jpg
 <p>&nbsp;</p>",JGRAPDEV,visible,15,instock,no,yes,59.99,,0.35,"https://www.playwell.co.uk/images/judo-resistance-grappling-device.jpg
 https://www.playwell.co.uk/images/judo-resistance-grappling-device_01.jpg
 ",taxable,"Standard rate",simple,"Judo Uniforms","Judo Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Instructor Patch  - Black/White",instructor-patch----black/white,publish,"<p>1inch x 4 inches.</p>","<p>1inch x 4 inches.</p>",P7,visible,52,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/instructorwhitepatch.jpg
+"Instructor Patch  - Black/White",instructor-patch----black/white,publish,"<p>1inch x 4 inches.</p>","<p>1inch x 4 inches.</p>",P7,visible,51,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/instructorwhitepatch.jpg
 ",taxable,"Standard rate",simple,"Instructor Patches","Instructor Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "MMA Sparring Shooto All Leather Glove - 7oz",mma-sparring-shooto-all-leather-glove---7oz,publish,"<p>Top of the range Gloves. Excellent mould to secure the fitting of the hand. Tough mould and filling on the back of the hand. Open hand on the front. Made of Full genuine leather. The Gloves Feature top of the range protection ARound The Knuckle Area, Offering upto 1.5 inches of padding to protect the hand. Can be used for grappling, Vale tudor, shoot fighting, full contact, sparring, MMA. An all rounder glove. Try it to appreciate the true value of this glove. Designed for quality conscious students and instructors.</p>","<p>Top of the range Gloves. Excellent mould to secure the fitting of the hand. Tough mould and filling on the back of the hand. Open hand on the front. Made of Full genuine leather. The Gloves Feature top of the range protection ARound The Knuckle Area, Offering upto 1.5 inches of padding to protect the hand. Can be used for grappling, Vale tudor, shoot fighting, full contact, sparring, MMA. An all rounder glove. Try it to appreciate the true value of this glove. Designed for quality conscious students and instructors.</p>",SHOOTOALEAT,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/shootoleather1.jpg
 https://www.playwell.co.uk/images/shootoleather1_01.jpg
@@ -30827,7 +30859,7 @@ https://www.playwell.co.uk/images/kwansolidblade_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPGLADIUSV1,visible,72,instock,no,yes,32.99,,0.85,"https://www.playwell.co.uk/images/v1gladius1.jpg
+<p>&nbsp;</p>",PPGLADIUSV1,visible,71,instock,no,yes,32.99,,0.85,"https://www.playwell.co.uk/images/v1gladius1.jpg
 https://www.playwell.co.uk/images/v1gladius1_01.jpg
 https://www.playwell.co.uk/images/v1gladius1_02.jpg
 https://www.playwell.co.uk/images/v1gladius1_03.jpg
@@ -40252,7 +40284,7 @@ https://www.playwell.co.uk/images/Grappz-Finger-Tape_02.jpeg
 
 <p>Size: 1 x 4 inches.</p>","<p>Reward your students with these merit patches for forms.&nbsp; Can Be embrodiered on Uniforms trousers.</p>
 
-<p>Size: 1 x 4 inches.</p>",PSPARCHAMP,visible,75,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/championbadge.jpg
+<p>Size: 1 x 4 inches.</p>",PSPARCHAMP,visible,74,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/championbadge.jpg
 ",taxable,"Standard rate",simple,"Merit Patches","Merit Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Jujitsu Patch 68",jujitsu-patch-68,publish,"<p>Embroidered patch for Ju Jitsu</p>
 
@@ -48874,7 +48906,7 @@ https://www.playwell.co.uk/images/Venum_UFC_Authentic_Fight_Night_Walkout_Jersey
 			<td>572 g</td>
 		</tr>
 	</tbody>
-</table>",COLDSAXEGANGHATCHET,visible,8,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/Cold-Steel-Axe-Gang-Hatchet-Trainer.jpg
+</table>",COLDSAXEGANGHATCHET,visible,6,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/Cold-Steel-Axe-Gang-Hatchet-Trainer.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Embroidery Service: BJJ Black Belt With Your Name",embroidery-service:-bjj-black-belt-with-your-name,publish,"<p>Top Quality Brazillian Thick&nbsp;Ju Jitsu Colour Belts, Made from 100% Cotton. 1.75&quot; Wide.</p>
 Price Include Black Bjj Belt, With Both sides embroidery In English,  any size, 
@@ -49810,7 +49842,7 @@ https://www.playwell.co.uk/images/ufcskirt1_08.jpg
 ,,publish,,,ufcfightweekskirtm,,2,instock,,yes,84.99,,,,,,,,,ufcfightweekskirt,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ufcfightweekskirtl,,3,instock,,yes,84.99,,,,,,,,,ufcfightweekskirt,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ufcfightweekskirtxl,,2,instock,,yes,84.99,,,,,,,,,ufcfightweekskirt,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Black Polypropylene Full Contact Tanto Knife  - 14""",black-polypropylene-full-contact-tanto-knife----14&quot;,publish,"<p>Tanto Made From Polypropelene More Durable then Wooden &amp; Steel Swords Lightweight Yet Sturdy. Can be used for Light And Semi Contact Sword Sparring Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available They have the advantages of being virtually unbreakable and remarkably stiff and cut resistant. Overall Length - 14&quot; ( 35.5cm ) Weight - 170g</p>","<p>Tanto Made From Polypropelene More Durable then Wooden &amp; Steel Swords Lightweight Yet Sturdy. Can be used for Light And Semi Contact Sword Sparring Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available They have the advantages of being virtually unbreakable and remarkably stiff and cut resistant. Overall Length - 14&quot; ( 35.5cm ) Weight - 170g</p>",PPTANTO,visible,104,instock,no,yes,13.50,,0.35,"https://www.playwell.co.uk/images/pptanto.jpg
+"Black Polypropylene Full Contact Tanto Knife  - 14""",black-polypropylene-full-contact-tanto-knife----14&quot;,publish,"<p>Tanto Made From Polypropelene More Durable then Wooden &amp; Steel Swords Lightweight Yet Sturdy. Can be used for Light And Semi Contact Sword Sparring Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available They have the advantages of being virtually unbreakable and remarkably stiff and cut resistant. Overall Length - 14&quot; ( 35.5cm ) Weight - 170g</p>","<p>Tanto Made From Polypropelene More Durable then Wooden &amp; Steel Swords Lightweight Yet Sturdy. Can be used for Light And Semi Contact Sword Sparring Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available They have the advantages of being virtually unbreakable and remarkably stiff and cut resistant. Overall Length - 14&quot; ( 35.5cm ) Weight - 170g</p>",PPTANTO,visible,103,instock,no,yes,13.50,,0.35,"https://www.playwell.co.uk/images/pptanto.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Playwell Adults Ladies Pro Elite BJJ Jiu Jitsu Gi -  Purple",playwell-adults-ladies-pro-elite-bjj-jiu-jitsu-gi----purple,publish,"<p style=""padding:0px; text-align:justify; margin-bottom:10px"">Playwell Adults Ladies Pro Elite BJJ Jiu Jitsu Gi Pink</p>
 
@@ -75640,7 +75672,7 @@ https://www.playwell.co.uk/images/fmv11pads1_04.jpg
 <p>&nbsp;</p>",PPSPEARSTAFF,visible,,,no,,,,20,"https://www.playwell.co.uk/images/Polypropylene-Stick-For-Spear-Heads.jpg
 ",taxable,"Standard rate",variable,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5ft|6ft,0|1|1,
 ,,publish,,,PPSPEARSTAFF60,,99,instock,,yes,29.99,,,,,,,,,PPSPEARSTAFF,,,,,,5ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,PPSPEARSTAFF72,,98,instock,,yes,29.99,,,,,,,,,PPSPEARSTAFF,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PPSPEARSTAFF72,,97,instock,,yes,29.99,,,,,,,,,PPSPEARSTAFF,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Portable 2pc Graphite Bo staff Case (Fits 4t, or 5ft ) - 37""","portable-2pc-graphite-bo-staff-case-(fits-4t,-or-5ft-)---37&quot;",publish,"<p>Holds 1&nbsp; SET&nbsp; OF Convertable 2pc&nbsp;Graphite Bo staff In 4ft, and 5ft&nbsp;Once it has been seprated &nbsp;into two Pcs&nbsp;. Makes this case Ideal for EasyTo Travel Puposes,&nbsp;</p>
 
 <p>New and improved case. Now made of artificial Leather (PU) with felt lining inside for extra protection to the weapons. Zipped.</p>
@@ -85252,7 +85284,7 @@ https://www.playwell.co.uk/images/TANGCLUBSWORD1_04.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPS009HEAD,visible,10,instock,no,yes,34.98,,0.35,"https://www.playwell.co.uk/images/10135-s010.jpg
+<p>&nbsp;</p>",PPS009HEAD,visible,9,instock,no,yes,34.98,,0.35,"https://www.playwell.co.uk/images/10135-s010.jpg
 https://www.playwell.co.uk/images/10135-s010_01.jpg
 https://www.playwell.co.uk/images/10135-s010_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
