@@ -1851,7 +1851,7 @@ https://www.playwell.co.uk/images/NEWKARATEWHITE14OZWHITEUNIFORM1_03.jpg
 <p>&nbsp;</p>",KFUMICRO,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/kungfublackmicro1.jpg
 https://www.playwell.co.uk/images/kungfublackmicro1_01.jpg
 ",taxable,"Standard rate",variable,"Traditional Kung Fu Uniforms","Traditional Kung Fu Uniforms",,,,,0/130cm|00/120cm|1/140cm|2/150cm|000/110cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KFUMICRO0,,0,outofstock,,yes,27.99,,,,,,,,,KFUMICRO,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KFUMICRO0,,1,instock,,yes,27.99,,,,,,,,,KFUMICRO,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFUMICRO00,,196,instock,,yes,27.99,,,,,,,,,KFUMICRO,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFUMICRO1,,0,outofstock,,yes,28.82,,,,,,,,,KFUMICRO,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFUMICRO2,,0,outofstock,,yes,28.82,,,,,,,,,KFUMICRO,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6814,7 +6814,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B4P,,74768,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BK,,76081,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BU,,74300,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4BR,,75167,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4BR,,75165,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5W,,178,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5R,,374,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5Y,,152,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7001,7 +7001,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 <p>&nbsp;</p>",B,visible,,,no,,,,0.25,"https://www.playwell.co.uk/images/COLOURBLACKSTRIPEBELTSNEW.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,Orange|Red|Yellow|Green|Purple|Blue|white|Brown,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4OBK,,97978,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4RBK,,97827,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4RBK,,97826,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4YBK,,97738,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4GBK,,98076,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4PBK,,98167,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7033,7 +7033,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B7WBK,,98282,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7BRBK,,98235,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2OBK,,98092,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DUPLICATE12,,98089,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DUPLICATE12,,98088,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE13,,97891,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2GBK,,98255,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2PBK,,98248,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7048,7 +7048,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,DUPLICATE31,,645,instock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Black Belt - White Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE32,,643,instock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,"Black Belt - White Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,"Black Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4BKR,,630,instock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Black Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4BKR,,625,instock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Black Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,"Black Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,"Black Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,3.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,"Black Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7099,10 +7099,10 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,DUPLICATE34,,3106,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4OW,,2114,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4RW,,2369,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4YW,,13,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4YW,,10,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4GW,,2710,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,DUPLICATE37,,2824,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4BUW,,2833,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,DUPLICATE37,,2821,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4BUW,,2830,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4BKW,,3265,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE33,,2934,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2OW,,2692,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7238,7 +7238,7 @@ https://www.playwell.co.uk/images/SPARCOBRAVINTAGE1_07.jpg
 ,,publish,,,SASHBR,,99838,instock,,yes,6.48,,,,,,,,,SASH,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHP,,99819,instock,,yes,6.48,,,,,,,,,SASH,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHBK,,99777,instock,,yes,6.48,,,,,,,,,SASH,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,SASHY,,229,instock,,yes,6.48,,,,,,,,,SASH,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,SASHY,,225,instock,,yes,6.48,,,,,,,,,SASH,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHW,,40,instock,,yes,6.48,,,,,,,,,SASH,,,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHO,,123,instock,,yes,6.48,,,,,,,,,SASH,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHG,,109,instock,,yes,6.48,,,,,,,,,SASH,,,Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -10964,7 +10964,7 @@ https://www.playwell.co.uk/images/choifocuspads1_03.jpg
 ",taxable,"Standard rate",variable,"Choi Kwang Do Suits And equipment","Choi Kwang Do Suits And equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2GD,,-66,outofstock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4GD,,18,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B5GD,,461,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B5GD,,459,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6GD,,628,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7GD,,14,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Choi Belt: Satin Gold Belt With Black Stripe",choi-belt:-satin-gold-belt-with-black-stripe,publish,"<p>Satin Gold Belt WITH Black Stripe Running through the belt. 1.75 inch with.</p>","<p>Satin Gold Belt WITH Black Stripe Running through the belt. 1.75 inch with.</p>",B,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/goldblackstripe.jpg
@@ -17780,7 +17780,7 @@ https://www.playwell.co.uk/images/NEWPICDAITO1_02.jpg
 
 <p>They are crafted from 100% leather and top-quality, heavy foam padding/. Sold As Pairs.&nbsp;</p>
 
-<p>Size In Inches: 12.75&quot; x 8&quot; 2.75</p>",FMJUMHYBR,visible,19,instock,no,yes,69.98,,0.95,"https://www.playwell.co.uk/images/thaifocus1.jpg
+<p>Size In Inches: 12.75&quot; x 8&quot; 2.75</p>",FMJUMHYBR,visible,18,instock,no,yes,69.98,,0.95,"https://www.playwell.co.uk/images/thaifocus1.jpg
 https://www.playwell.co.uk/images/thaifocus1_01.jpg
 https://www.playwell.co.uk/images/thaifocus1_02.jpg
 https://www.playwell.co.uk/images/thaifocus1_03.jpg
@@ -19529,7 +19529,7 @@ https://www.playwell.co.uk/images/2.5blackblack1_01.jpg
 https://www.playwell.co.uk/images/2.5blackblack1_02.jpg
 https://www.playwell.co.uk/images/2.5blackblack1_03.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16 oz|14 oz|10 oz|12 oz",0|1|1,,,,,,,,,,
-,,publish,,,"	VENUMBLACKBLACKC2.5GLOVES16",,2,instock,,yes,59.99,,,,,,,,,VENUMBLACKBLACKC2.5GLOVES,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	VENUMBLACKBLACKC2.5GLOVES16",,1,instock,,yes,59.99,,,,,,,,,VENUMBLACKBLACKC2.5GLOVES,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	VENUMBLACKBLACKC2.5GLOVES14",,3,instock,,yes,59.99,,,,,,,,,VENUMBLACKBLACKC2.5GLOVES,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	VENUMBLACKBLACKC2.5GLOVES10",,0,outofstock,,yes,59.99,,,,,,,,,VENUMBLACKBLACKC2.5GLOVES,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	VENUMBLACKBLACKC2.5GLOVES12",,2,instock,,yes,59.99,,,,,,,,,VENUMBLACKBLACKC2.5GLOVES,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -19869,7 +19869,7 @@ https://www.playwell.co.uk/images/sandeeshorts1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",JOASHTAP,visible,31,instock,no,yes,22.98,,15,"https://www.playwell.co.uk/images/ashbotapered.jpg
+<p>&nbsp;</p>",JOASHTAP,visible,30,instock,no,yes,22.98,,15,"https://www.playwell.co.uk/images/ashbotapered.jpg
 ",taxable,"Standard rate",simple,"Jo Staffs","Jo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fairtex BGV9 Leather Mexican Style Boxing Gloves - Black",fairtex-bgv9-leather-mexican-style-boxing-gloves---black,publish,"<p>Fairtex BGV9 Leather Mexican Style Boxing Gloves&nbsp;Re-designed premium boxing gloves from Fairtex. This is the new version of the highly sought after boxers&#39; glove that rivals other top brands that are double the price of these.</p>
 
@@ -22074,7 +22074,7 @@ Suitable For Krav Maga,</p>
 ",taxable,"Standard rate",variable,"Krav Maga Offical Equipment & Clothing","Krav Maga Offical Equipment & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|X Large|Large",0|1|1,,,,,,,,,,
 ,,publish,,,KMMDGS,,24,instock,,yes,14.98,,,,,,,,,KMMDG,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMMDGM,,23,instock,,yes,14.98,,,,,,,,,KMMDG,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KMMDGXL,,32,instock,,yes,14.98,,,,,,,,,KMMDG,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KMMDGXL,,31,instock,,yes,14.98,,,,,,,,,KMMDG,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KMMDGL,,8,instock,,yes,14.98,,,,,,,,,KMMDG,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Opro UFC Adults Silver Self Fit Mouth Guard - Red",opro-ufc-adults-silver-self-fit-mouth-guard---red,publish,"<p>Opro UFC Adults Silver Self Fit Mouth Guard Red</p>
 
@@ -26912,7 +26912,7 @@ https://www.playwell.co.uk/images/adidas-hybrid-150-head-guard-black-white_01.jp
 https://www.playwell.co.uk/images/adidas-hybrid-150-head-guard-black-white_02.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X Large|Large|Medium",0|1|1,,,,,,,,,,
 ,,publish,,,ADIHGHYB150XL,,0,outofstock,,yes,49.98,,,,,,,,,ADIHGHYB150,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ADIHGHYB150L,,1,instock,,yes,49.98,,,,,,,,,ADIHGHYB150,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ADIHGHYB150L,,0,outofstock,,yes,49.98,,,,,,,,,ADIHGHYB150,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ADIHGHYB150M,,0,outofstock,,yes,49.98,,,,,,,,,ADIHGHYB150,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Dragon Tai Chi Sword - (D490-B4)",dragon-tai-chi-sword---(d490-b4),publish,"<p>Tai sword Made of Stainless Steel. Tip of the Blade Does have a bit of flex in it, . Comes With&nbsp;Dragon Carved Into&nbsp;Scabbard as shown in picture.&nbsp; Total Length approx&nbsp;40 inches</p>
 
@@ -29544,7 +29544,7 @@ https://www.playwell.co.uk/images/ppbspear1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",NUNSPIRJING,visible,134,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/spiraljingle1.jpg
+<p>&nbsp;</p>",NUNSPIRJING,visible,133,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/spiraljingle1.jpg
 https://www.playwell.co.uk/images/spiraljingle1_01.jpg
 https://www.playwell.co.uk/images/spiraljingle1_02.jpg
 https://www.playwell.co.uk/images/spiraljingle1_03.jpg
@@ -32944,7 +32944,7 @@ https://www.playwell.co.uk/images/newpinksemiboot1_03.jpg
 ,,publish,,,NLWBKXS,,0,outofstock,,yes,16.98,,,,,,,,,NLWBK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,NLWBKS,,79,instock,,yes,16.98,,,,,,,,,NLWBK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,NLWBKM,,0,outofstock,,yes,16.98,,,,,,,,,NLWBK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,NLWBKL,,11,instock,,yes,16.98,,,,,,,,,NLWBK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,NLWBKL,,10,instock,,yes,16.98,,,,,,,,,NLWBK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,NLWBKXL,,8,instock,,yes,16.98,,,,,,,,,NLWBK,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Karate 16oz Gold Brand Heavyweight Suit - Black",karate-16oz-gold-brand-heavyweight-suit---black,publish,"<p>Karate 16oz Heavyweight Suit Black</p>
 
@@ -43302,7 +43302,7 @@ Extra padding on the palm</p>",fmv13,visible,3,instock,no,yes,149.99,,1,"https:/
 
 <p>&nbsp;</p>",SHOTGUNV2,visible,2,instock,no,yes,129.99,,1,"https://www.playwell.co.uk/images/e460shot.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"NR-036W: Nunchaku Octagonal with Cord: White Oak",nr-036w:-nunchaku-octagonal-with-cord:-white-oak,publish,"<p>Nunchaku White Oak Wood. octagonal with nylon cord. 12 inches In Length. Length of cord approx: 5 inches. Diameter of handles approx: 1.2 inches. As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>","<p>Nunchaku White Oak Wood. octagonal with nylon cord. 12 inches In Length. Length of cord approx: 5 inches. Diameter of handles approx: 1.2 inches. As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>",NR-036W,visible,52,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/WHITEOCTCORD.jpg
+"NR-036W: Nunchaku Octagonal with Cord: White Oak",nr-036w:-nunchaku-octagonal-with-cord:-white-oak,publish,"<p>Nunchaku White Oak Wood. octagonal with nylon cord. 12 inches In Length. Length of cord approx: 5 inches. Diameter of handles approx: 1.2 inches. As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>","<p>Nunchaku White Oak Wood. octagonal with nylon cord. 12 inches In Length. Length of cord approx: 5 inches. Diameter of handles approx: 1.2 inches. As a Measure of safety and law why not store your Nunchaku in our deluxe nunchaku cases...................</p>",NR-036W,visible,51,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/WHITEOCTCORD.jpg
 ",taxable,"Standard rate",simple,"Wooden & Steel Nunchucks","Wooden & Steel Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Cold Steel Polypropylene Brooklyn ""Whopper"" Baseball Bat - 38""",cold-steel-polypropylene-brooklyn-&quot;whopper&quot;-baseball-bat---38&quot;,publish,"<div>Ever since their release back in 2006, our Brooklyn Series of Baseball Bats have been consistent fan favorites! Precision injection molded out of the heaviest-grade high-impact polypropylene that we can find, they are not only stronger than most traditional bats, but they are more durable too!<br />
 <br />
@@ -47545,7 +47545,7 @@ https://www.playwell.co.uk/images/ADITBRAS-NOR-02_05df201b-dd6f-4894-a2ad-e9e5d9
 https://www.playwell.co.uk/images/ADITBRAS-NOR-02_05df201b-dd6f-4894-a2ad-e9e5d909346c_04.jpg
 ",taxable,"Standard rate",variable,"Martial Arts and Taekwondo Training Shoes","Martial Arts and Taekwondo Training Shoes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43|39,0|1|1,,,,,,,
 ,,publish,,,contestantorange43,,1,instock,,yes,119.99,,,,,,,,,contestantorange,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,contestantorange39,,0,outofstock,,yes,119.99,,,,,,,,,contestantorange,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,contestantorange39,,1,instock,,yes,119.99,,,,,,,,,contestantorange,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fila Player Martial Arts Training Shoes - Black",fila-player-martial-arts-training-shoes---black,publish,"<p>Fila Player Martial Arts Training Shoes Black</p>
 
 <p>&nbsp;</p>
@@ -56289,7 +56289,7 @@ https://www.playwell.co.uk/images/comp11foam1_02.jpg
 
 <p>Diameter - 0.75 Inches</p>
 
-<p>Weight: 130 Grams&nbsp;</p>",speedchucksfoam9,visible,84,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/comp9foam1.jpg
+<p>Weight: 130 Grams&nbsp;</p>",speedchucksfoam9,visible,83,instock,no,yes,14.99,,0.35,"https://www.playwell.co.uk/images/comp9foam1.jpg
 https://www.playwell.co.uk/images/comp9foam1_01.jpg
 https://www.playwell.co.uk/images/comp9foam1_02.jpg
 ",taxable,"Standard rate",simple,"Foam Nunchucks","Foam Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -76532,7 +76532,7 @@ https://www.playwell.co.uk/images/wolfteethspear1_02.jpg
 </ul>",VENCONBG15XTBURG,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/Venum-Contender-1.5-XT-Boxing-Gloves-Burgundy.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12 oz|14 oz|16 oz",0|1|1,
 ,,publish,,,VENCONBG15XTBURG12,,0,outofstock,,yes,44.99,,,,,,,,,VENCONBG15XTBURG,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENCONBG15XTBURG14,,1,instock,,yes,44.99,,,,,,,,,VENCONBG15XTBURG,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,VENCONBG15XTBURG14,,0,outofstock,,yes,44.99,,,,,,,,,VENCONBG15XTBURG,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENCONBG15XTBURG16,,2,instock,,yes,44.99,,,,,,,,,VENCONBG15XTBURG,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Adrenaline Boxing Gloves - Black/Red",venum-adrenaline-boxing-gloves---black/red,publish,"<p>Venum Adrenaline Boxing Gloves Black/Red</p>
 
