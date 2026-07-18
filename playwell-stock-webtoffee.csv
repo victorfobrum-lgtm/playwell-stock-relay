@@ -5830,9 +5830,9 @@ https://www.playwell.co.uk/images/ppropedbokken_03.jpg
 https://www.playwell.co.uk/images/ESCRIMABLACKJACK1_01.jpg
 ",taxable,"Standard rate",variable,"Chest Guards and Body Armour","Chest Guards and Body Armour",,,,,,,,,,,,,,,,,,,,"Small|Medium|X - Small|Large|X Large",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKS,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EBABBLACKM,,2,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EBABBLACKM,,1,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXS,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EBABBLACKL,,7,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EBABBLACKL,,6,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXL,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Plain Satin Boxing Gown - Red",plain-satin-boxing-gown---red,publish,"<p>Full Length Boxing Gowns. Made of Satin. With White Edging. Excellent Quality. With Hood.</p>
 
@@ -6125,7 +6125,7 @@ https://www.playwell.co.uk/images/joashtooth1_02.jpg
 https://www.playwell.co.uk/images/LOTKAMSU1_01.jpg
 https://www.playwell.co.uk/images/LOTKAMSU1_02.jpg
 ",taxable,"Standard rate",simple,"Kama's and Sais","Kama's and Sais",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Three Sectional Staff - Red Oak",three-sectional-staff---red-oak,publish,"<p>&nbsp;Section Staff - Red Oak. Each section is 26.5&quot; Made from red oak wood.</p>","<p>&nbsp;Section Staff - Red Oak. Each section is 26.5&quot; Made from red oak wood.</p>",3SECRD,visible,34,instock,no,yes,34.98,,1,"https://www.playwell.co.uk/images/3secttionalwooden.jpg
+"Three Sectional Staff - Red Oak",three-sectional-staff---red-oak,publish,"<p>&nbsp;Section Staff - Red Oak. Each section is 26.5&quot; Made from red oak wood.</p>","<p>&nbsp;Section Staff - Red Oak. Each section is 26.5&quot; Made from red oak wood.</p>",3SECRD,visible,33,instock,no,yes,34.98,,1,"https://www.playwell.co.uk/images/3secttionalwooden.jpg
 ",taxable,"Standard rate",simple,"Three Sectional Staffs","Three Sectional Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Three Section Staff",wushu-three-section-staff,publish,"<p>Lightweight, this three-section staff is fabricated from wax wood and ball bearing fittings, and is excellent for modern wushu and competitions. length is a competition length is appx 21 inches each section</p>
 
@@ -7370,7 +7370,7 @@ https://www.playwell.co.uk/images/canvasstaffcase1_04.jpg
 
 <p>Sold as singles&nbsp;</p>
 
-<p>&nbsp;</p>",BOCCAN72,visible,0,outofstock,no,yes,15.99,,0.35,"https://www.playwell.co.uk/images/canvasstaffcase1.jpg
+<p>&nbsp;</p>",BOCCAN72,visible,16,instock,no,yes,15.99,,0.35,"https://www.playwell.co.uk/images/canvasstaffcase1.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_01.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_02.jpg
 https://www.playwell.co.uk/images/canvasstaffcase1_03.jpg
@@ -16530,7 +16530,7 @@ https://www.playwell.co.uk/images/fullescrima1_03.jpg
 https://www.playwell.co.uk/images/fullescrima1_04.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|Medium|Small|X - Large",0|1|1,,,,,,,,,,
 ,,publish,,,EHL,,0,outofstock,,yes,64.98,,,,,,,,,EH,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EHM,,13,instock,,yes,64.98,,,,,,,,,EH,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EHM,,12,instock,,yes,64.98,,,,,,,,,EH,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHS,,8,instock,,yes,64.98,,,,,,,,,EH,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHXL,,6,instock,,yes,64.98,,,,,,,,,EH,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sting Competition Approved Boxing Gloves 2:0 - Red",sting-competition-approved-boxing-gloves-2:0---red,publish,"<p><b>STING Competition Leather Boxing Gloves:&nbsp;</b>Elevate Your Ring Performance</p>
@@ -22508,7 +22508,7 @@ https://www.playwell.co.uk/images/greencase1_01.jpg
 ,,publish,,,BOCF50,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"50 Inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BOCF72,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"75 inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BOCF60,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"65 inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Realistic TP Rubber  Training Hand Gun - M006",realistic-tp-rubber--training-hand-gun---m006,publish,"<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is subject to Black</p>","<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is subject to Black</p>",RGM006,visible,78,instock,no,yes,17.98,,0.35,"https://www.playwell.co.uk/images/m0061.jpg
+"Realistic TP Rubber  Training Hand Gun - M006",realistic-tp-rubber--training-hand-gun---m006,publish,"<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is subject to Black</p>","<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is subject to Black</p>",RGM006,visible,77,instock,no,yes,17.98,,0.35,"https://www.playwell.co.uk/images/m0061.jpg
 https://www.playwell.co.uk/images/m0061_01.jpg
 https://www.playwell.co.uk/images/m0061_02.jpg
 https://www.playwell.co.uk/images/m0061_03.jpg
@@ -23643,7 +23643,7 @@ https://www.playwell.co.uk/images/V2ESCRIMAGLOVES1_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BORDGRADEB60,visible,44,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredstraight1.jpg
+<p>&nbsp;</p>",BORDGRADEB60,visible,43,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredstraight1.jpg
 https://www.playwell.co.uk/images/boredstraight1_01.jpg
 https://www.playwell.co.uk/images/boredstraight1_02.jpg
 ",taxable,"Standard rate",simple,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -30667,7 +30667,7 @@ https://www.playwell.co.uk/images/balisong1_02.jpg
 
 <p>Total Weight of Sword is&nbsp; - 1.49 KG&nbsp;</p>
 
-<p>&nbsp;</p>",KG3,visible,6,instock,no,yes,179.99,,1,"https://www.playwell.co.uk/images/kg3part1.jpg
+<p>&nbsp;</p>",KG3,visible,5,instock,no,yes,179.99,,1,"https://www.playwell.co.uk/images/kg3part1.jpg
 https://www.playwell.co.uk/images/kg3part1_01.jpg
 https://www.playwell.co.uk/images/kg3part1_02.jpg
 https://www.playwell.co.uk/images/kg3part1_03.jpg
@@ -33083,7 +33083,7 @@ https://www.playwell.co.uk/images/deluxekung1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",KG2,visible,9,instock,no,yes,179.99,,1,"https://www.playwell.co.uk/images/kg2part1.jpg
+<p>&nbsp;</p>",KG2,visible,8,instock,no,yes,179.99,,1,"https://www.playwell.co.uk/images/kg2part1.jpg
 https://www.playwell.co.uk/images/kg2part1_01.jpg
 https://www.playwell.co.uk/images/kg2part1_02.jpg
 https://www.playwell.co.uk/images/kg2part1_03.jpg
@@ -53688,7 +53688,7 @@ https://www.playwell.co.uk/images/kbshort1_02.jpg
 https://www.playwell.co.uk/images/silverpants0_01.jpg
 https://www.playwell.co.uk/images/silverpants0_02.jpg
 ",taxable,"Standard rate",variable,"Karate Trousers","Karate Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4/170cm|7/200cm|3/160cm|5/180cm|6/190cm|2/150cm,0|1|1,,,,,,,
-,,publish,,,"	silverpants4",,7,instock,,yes,22.98,,,,,,,,,silverpants,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	silverpants4",,6,instock,,yes,22.98,,,,,,,,,silverpants,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,silverpants7,,2,instock,,yes,22.98,,,,,,,,,silverpants,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	silverpants3",,7,instock,,yes,22.98,,,,,,,,,silverpants,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	silverpants5",,12,instock,,yes,22.98,,,,,,,,,silverpants,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -70689,7 +70689,7 @@ https://www.playwell.co.uk/images/MUARBG1_04.jpg
 
 <p>Total Length&nbsp; - 12&nbsp;Inches&nbsp;</p>
 
-<p>&nbsp;</p>",rattannunchucksdragonblue,visible,28,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/rattanblue1.jpg
+<p>&nbsp;</p>",rattannunchucksdragonblue,visible,27,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/rattanblue1.jpg
 https://www.playwell.co.uk/images/rattanblue1_01.jpg
 https://www.playwell.co.uk/images/rattanblue1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden & Steel Nunchucks","Wooden & Steel Nunchucks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -82003,7 +82003,7 @@ https://www.playwell.co.uk/images/iceshooto1_04.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPWINGCHUNDRAGON,visible,56,instock,no,yes,33.99,,0.35,"https://www.playwell.co.uk/images/NEWSIZEPPDRAGONKNIFE1.jpg
+<p>&nbsp;</p>",PPWINGCHUNDRAGON,visible,55,instock,no,yes,33.99,,0.35,"https://www.playwell.co.uk/images/NEWSIZEPPDRAGONKNIFE1.jpg
 https://www.playwell.co.uk/images/NEWSIZEPPDRAGONKNIFE1_01.jpg
 https://www.playwell.co.uk/images/NEWSIZEPPDRAGONKNIFE1_02.jpg
 https://www.playwell.co.uk/images/NEWSIZEPPDRAGONKNIFE1_03.jpg
