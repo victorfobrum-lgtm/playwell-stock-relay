@@ -8059,7 +8059,7 @@ https://www.playwell.co.uk/images/W204_01.jpg
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>",BK,visible,,,no,,,,0.9,"https://www.playwell.co.uk/images/WOODENBOKKEN.jpg
 ",taxable,"Standard rate",variable,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Black Oak|White Oak|Red Oak",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BKBK,,0,outofstock,,yes,22.84,,,,,,,,,BK,,,"Black Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BKBK,,14,instock,,yes,22.84,,,,,,,,,BK,,,"Black Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKW,,67,instock,,yes,25.98,,,,,,,,,BK,,,"White Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BKR,,194,instock,,yes,21.99,,,,,,,,,BK,,,"Red Oak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Martial Arts Yin Yang Wallet",martial-arts-yin-yang-wallet,publish,"This stylish 5"" wide x 3.5"" tall wallet is perfect for martial arts students and instructors. It features a velcro closure to help keep your money from falling out. Makes a great Christmas gift!
@@ -9723,8 +9723,6 @@ https://www.playwell.co.uk/images/headgear_standup_elite_neo_matte_black_hd_01_0
 "Tang Soo Do HeavyWeight 14oz Uniform",tang-soo-do-heavyweight-14oz-uniform,publish,"<p>The finest woven cotton fabric makes this uniform from Playwell the master&#39;s choice. Made of heavyweight 14 oz. 100% brushed cotton canvas. Top Quality. Jacket is trimmed in either blue or black. Cuffs and Hems Feature 10 Rows of Stitching. Set includes jacket and pants featuring a traditional drawstring waist. (Belt not included.) Made Accordingley to Tang Soo do Specifications.</p>","<p>The finest woven cotton fabric makes this uniform from Playwell the master&#39;s choice. Made of heavyweight 14 oz. 100% brushed cotton canvas. Top Quality. Jacket is trimmed in either blue or black. Cuffs and Hems Feature 10 Rows of Stitching. Set includes jacket and pants featuring a traditional drawstring waist. (Belt not included.) Made Accordingley to Tang Soo do Specifications.</p>",TSD,visible,,,no,,,,0.5,"https://www.playwell.co.uk/images/tangbluetrim.jpg
 https://www.playwell.co.uk/images/tangbluetrim_01.jpg
 ",taxable,"Standard rate",variable,"Tang Soo Do Uniforms And Equipment","Tang Soo Do Uniforms And Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"White with Blue Trim|White with Black Trim",0|1|1,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TSDUBU2,,565,instock,,yes,64.98,,,,,,,,,TSD,,,"White with Blue Trim",,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TSDUBK2,,0,outofstock,,yes,64.98,,,,,,,,,TSD,,,"White with Black Trim",,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDBU3,,539,instock,,yes,64.98,,,,,,,,,TSD,,,"White with Blue Trim",,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK3,,8,instock,,yes,64.98,,,,,,,,,TSD,,,"White with Black Trim",,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBU4,,10,instock,,yes,65.68,,,,,,,,,TSD,,,"White with Blue Trim",,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9735,8 +9733,6 @@ https://www.playwell.co.uk/images/tangbluetrim_01.jpg
 ,,publish,,,TSDUBK6,,12,instock,,yes,67.53,,,,,,,,,TSD,,,"White with Black Trim",,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBU7,,0,outofstock,,yes,68.38,,,,,,,,,TSD,,,"White with Blue Trim",,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK7,,570,instock,,yes,68.38,,,,,,,,,TSD,,,"White with Black Trim",,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TSDUBU1,,569,instock,,yes,64.98,,,,,,,,,TSD,,,"White with Blue Trim",,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TSDUBK1,,0,outofstock,,yes,64.98,,,,,,,,,TSD,,,"White with Black Trim",,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Competition / Demo Kamas - Silver/black",competition-/-demo-kamas---silver/black,publish,"<p>Competiton Kamas Made of Lotus wood. Kamas Are Ultra&nbsp;lightweight. Blades are made of Aluminium With&nbsp;5 Peirced Holes for increased aerodynamic efficiency and speed control. comes with Holographic prism Design on Handles of Kamas to make you stand out from the Crowd During Demo&#39;s or Competitons.&nbsp;</p>
 
 <p>Made According to Competition Specs</p>
@@ -10911,36 +10907,6 @@ https://www.playwell.co.uk/images/newbluesilver1_02.jpg
 ,,publish,,,"	semisetredm",,99,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	semisetredl",,0,outofstock,,yes,49.98,,,,,,,,,semisetred,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	semisetredxl",,98,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"KickBoxing Sparring Kit 1: Gloves & Boots Set",kickboxing-sparring-kit-1:-gloves-&amp;-boots-set,publish,"<p>KickBoxing Sparring Kit Includes. Semi Contact Boots, And Semi Contact Sparring Gloves. Both Gloves and boots are made from high quality Vinyl. High Grade Competition Quality<br />
-<br />
-<span style=""color:rgb(0, 0, 0)"">If you Would Like an Alternative size in any of the items in the package please do mentions this in the special Shipping Instructions Through Checkout.</span></p>","<p>KickBoxing Sparring Kit Includes. Semi Contact Boots, And Semi Contact Sparring Gloves. Both Gloves and boots are made from high quality Vinyl. High Grade Competition Quality<br />
-<br />
-<span style=""color:rgb(0, 0, 0)"">If you Would Like an Alternative size in any of the items in the package please do mentions this in the special Shipping Instructions Through Checkout.</span></p>",KBOXKIT,visible,,,no,,,,2,"https://www.playwell.co.uk/images/semiboots.jpg
-https://www.playwell.co.uk/images/semiboots_01.jpg
-https://www.playwell.co.uk/images/semiboots_02.jpg
-https://www.playwell.co.uk/images/semiboots_03.jpg
-",taxable,"Standard rate",variable,"Sparring Sets / Deals","Sparring Sets / Deals",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large|X - Large|XX - Small|XX - Large",0|1|1,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKXS,,3,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKS,,20,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKM,,19,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKL,,19,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKXL,,40,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKXXS,,0,outofstock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,"XX - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBKXXL,,0,outofstock,,yes,49.98,,,,,,,,,KBOXKIT,,,Black,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUXS,,38,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUS,,32,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUM,,1,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUL,,33,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUXL,,41,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUXXS,,0,outofstock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,"XX - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITBUXXL,,0,outofstock,,yes,49.98,,,,,,,,,KBOXKIT,,,Blue,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDXS,,40,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDS,,27,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDM,,1,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDL,,34,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDXL,,42,instock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDXXS,,0,outofstock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,"XX - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KBOXKITREDXXL,,0,outofstock,,yes,49.98,,,,,,,,,KBOXKIT,,,Red,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Semi Contact Sparring Gloves & Boots Set  - Purple",semi-contact-sparring-gloves-&amp;-boots-set----purple,publish,"<p>Semi Contact Sparring Gloves and Boots Special Set Offer</p>
 
 <p>Gloves - Excellent moulded Gloves. Made of High Quality Syntec Leather, with round elastic fastening. Very easy to slip on and off the hand. Made With High Absorbant MFS Foam Padding, New Moisture Absorbing Inner Lining, Excellent High Quality Tournament Gloves. Boots - High Quality Semi Contact Boots. Made of Sytnec Leather. For sparring in tournaments &amp; Competitions. Made from Highly Absorbant &quot;MFS&quot; Foam Padding Semi contact boots are suitable for Taekwondo, Kickkboxing, Karate......... Superior High Quality Sparring Boots</p>
@@ -11118,7 +11084,7 @@ https://www.playwell.co.uk/images/KARATESILVERBRAND1_03.jpg
 ,,publish,,,KSB4,,25,instock,,yes,37.98,,,,,,,,,KSB,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB3,,19,instock,,yes,36.98,,,,,,,,,KSB,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KSB6,,8,instock,,yes,37.98,,,,,,,,,KSB,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KSB5,,0,outofstock,,yes,37.98,,,,,,,,,KSB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KSB5,,3,instock,,yes,37.98,,,,,,,,,KSB,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Panther Knife - 17.5"" E442",black-polypropylene-panther-knife---17.5&quot;-e442,publish,"<p>Black Panther Knife&nbsp;made from Polypropylene Material &nbsp;Much stronger &amp; Durable&nbsp;&nbsp;then Metal Knives, Lightweight Yet Sturdy. &nbsp;</p>
 
 <p>Total Length of&nbsp; Sai&nbsp;&nbsp;is 17.5&quot;.</p>
@@ -14729,7 +14695,7 @@ https://www.playwell.co.uk/images/33broadswordin1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RUBBERGLOCK,visible,136,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
+<p>&nbsp;</p>",RUBBERGLOCK,visible,135,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
 https://www.playwell.co.uk/images/newglock1_01.jpg
 https://www.playwell.co.uk/images/newglock1_02.jpg
 https://www.playwell.co.uk/images/newglock1_03.jpg
@@ -20762,10 +20728,9 @@ This regular fit cotton T-shirt pairs perfectly with the joggers from the same c
 https://www.playwell.co.uk/images/creestshirt1_01.jpg
 https://www.playwell.co.uk/images/creestshirt1_02.jpg
 https://www.playwell.co.uk/images/creestshirt1_03.jpg
-",taxable,"Standard rate",variable,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|X - Large|Large|Medium",0|1|1,,,,,,,,,,
+",taxable,"Standard rate",variable,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|X - Large|Medium",0|1|1,,,,,,,,,,
 ,,publish,,,creedtshirts,,2,instock,,yes,39.99,,,,,,,,,creedtshirt,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,creedtshirtxl,,1,instock,,yes,39.99,,,,,,,,,creedtshirt,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,creedtshirtl,,0,outofstock,,yes,39.99,,,,,,,,,creedtshirt,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,creedtshirtm,,1,instock,,yes,39.99,,,,,,,,,creedtshirt,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tori Gate Wall Mounted Sword Display - 2 tier",tori-gate-wall-mounted-sword-display---2-tier,publish,"<p>New tori Gate 2 Tier Wall mountable sword Stand Display, Made from Oak Wood,</p>
 
@@ -25443,8 +25408,7 @@ https://www.playwell.co.uk/images/Venum-Challenger-4.0-Boxing-Gloves-Black-White
 https://www.playwell.co.uk/images/Venum-Challenger-4.0-Boxing-Gloves-Black-White_04.jpg
 https://www.playwell.co.uk/images/Venum-Challenger-4.0-Boxing-Gloves-Black-White_05.jpg
 https://www.playwell.co.uk/images/Venum-Challenger-4.0-Boxing-Gloves-Black-White_06.jpg
-",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|16 oz",0|1|1,,,,,,,,,,
-,,publish,,,VENUMBGCHALLENG4BKWH14,,0,outofstock,,yes,54.99,,,,,,,,,VENUMBGCHALLENG4BKWH,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16 oz",0|1|1,,,,,,,,,,
 ,,publish,,,VENUMBGCHALLENG4BKWH16,,2,instock,,yes,54.99,,,,,,,,,VENUMBGCHALLENG4BKWH,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff Plain Rattan - 60 Inches",bo-staff-plain-rattan---60-inches,publish,"<p>Bo staff made of plain Rattan. Total Length 60 inches, diameter length approx: 1.2 inches. Slightly Flexible.</p>
 
@@ -31261,7 +31225,7 @@ https://www.playwell.co.uk/images/judodouble1_01.jpg
 ,,publish,,,JTWH7,,0,outofstock,,yes,24.69,,,,,,,,,JTWH,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,JTWH6,,24,instock,,yes,24.69,,,,,,,,,JTWH,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,JTWH5,,18,instock,,yes,23.86,,,,,,,,,JTWH,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,JTWH3,,13,instock,,yes,22.98,,,,,,,,,JTWH,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,JTWH3,,12,instock,,yes,22.98,,,,,,,,,JTWH,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,JTWH2,,10,instock,,yes,22.98,,,,,,,,,JTWH,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Competition Vinyl Karate Mitts",deluxe-competition-vinyl-karate-mitts,publish,"<p>Karate protective gloves, made of PU. Inside palm of strong cotton, filled with latex with round elastic velcro closing. Available in Blue and Red.</p>
 
@@ -32457,13 +32421,13 @@ https://www.playwell.co.uk/images/Kung-Fu-Microfibre-Suit-Black-White_02.jpg
 ",taxable,"Standard rate",variable,"Kung Fu Trousers","Kung Fu Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Normal|Straight,0|1|1,,,,,,,,,,
 ,,publish,,,KFTMICROBK4,,4,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,4/170cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROSTRBK4,,10,instock,,yes,24.48,,,,,,,,,KFTMICRO,,,,,,4/170cm,,,,,,Straight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KFTMICROBK3,,0,outofstock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,3/160cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KFTMICROBK3,,20,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,3/160cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROSTRBK3,,9,instock,,yes,24.48,,,,,,,,,KFTMICRO,,,,,,3/160cm,,,,,,Straight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROBK2,,3,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,2/150cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROSTRBK2,,6,instock,,yes,24.48,,,,,,,,,KFTMICRO,,,,,,2/150cm,,,,,,Straight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROBK5,,5,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,5/180cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROSTR5,,8,instock,,yes,24.48,,,,,,,,,KFTMICRO,,,,,,5/180cm,,,,,,Straight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KFTMICROBK6,,3,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,6/190cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KFTMICROBK6,,1,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,6/190cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROSTRBK6,,9,instock,,yes,24.48,,,,,,,,,KFTMICRO,,,,,,6/190cm,,,,,,Straight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KFTMICROBK7,,1,instock,,yes,22.98,,,,,,,,,KFTMICRO,,,,,,7/200cm,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,24.48,,,,,,,,,KFTMICRO,,,,,,7/200cm,,,,,,Straight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34178,8 +34142,7 @@ https://www.playwell.co.uk/images/Venum-Challenge-4.0-Boxing-Gloves-Black-Black_
 https://www.playwell.co.uk/images/Venum-Challenge-4.0-Boxing-Gloves-Black-Black_04.jpg
 https://www.playwell.co.uk/images/Venum-Challenge-4.0-Boxing-Gloves-Black-Black_05.jpg
 https://www.playwell.co.uk/images/Venum-Challenge-4.0-Boxing-Gloves-Black-Black_06.jpg
-",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|16 oz",0|1|1,,,,,,,
-,,publish,,,VENUMBGCHALLENG4BKBK14,,0,outofstock,,yes,54.99,,,,,,,,,VENUMBGCHALLENG4BKBK,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16 oz",0|1|1,,,,,,,
 ,,publish,,,VENUMBGCHALLENG4BKBK16,,1,instock,,yes,54.99,,,,,,,,,VENUMBGCHALLENG4BKBK,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Baby Infant Jiu Jitsu Gi - Blue",baby-infant-jiu-jitsu-gi---blue,publish,"<p>Baby Jiu Jitsu Gi -&nbsp; Blue</p>
 
@@ -36779,7 +36742,7 @@ https://www.playwell.co.uk/images/jowhitestraight1_02.jpg
 
 <p>Blade Length - 84cm</p>
 
-<p>Weight - 855g</p>",PPEXCALI45.7,visible,276,instock,no,yes,44.99,,3,"https://www.playwell.co.uk/images/EXCALIBUR1.jpg
+<p>Weight - 855g</p>",PPEXCALI45.7,visible,274,instock,no,yes,44.99,,3,"https://www.playwell.co.uk/images/EXCALIBUR1.jpg
 https://www.playwell.co.uk/images/EXCALIBUR1_01.jpg
 https://www.playwell.co.uk/images/EXCALIBUR1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47603,7 +47566,7 @@ Specs:
 Capacity: 500ml
 Sport cap for a fast opening/closing
 Easy grip shape
-Detachable storage compartment to keep your small goods close to you",BADWATERBOTTLE,visible,58,instock,no,yes,6.99,,0.2,"https://www.playwell.co.uk/images/badwaterbottle.jpg
+Detachable storage compartment to keep your small goods close to you",BADWATERBOTTLE,visible,57,instock,no,yes,6.99,,0.2,"https://www.playwell.co.uk/images/badwaterbottle.jpg
 ",taxable,"Standard rate",simple,"Bad Boy MMA Clothing","Bad Boy MMA Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Playwell ""Maroon Series"" Leather Muay Thai Shin Instep Guards  -",playwell-&quot;maroon-series&quot;-leather-muay-thai-shin-instep-guards---,publish,"<p>The new Thai shin guard from Playwell uses the usual highest grade engineered leather available throughout their construction,&nbsp; to sure lasting quality and striking durability. Foam padding for increased protection and strike confidence, helping prevent unwanted injury and ultimate comfort. Made with sturdy, dual Velcro support straps at the rear, the&nbsp; Thai shin guard remains firmly positioned whilst allowing easy removal after training sessions.</p>
 
@@ -49803,7 +49766,7 @@ https://www.playwell.co.uk/images/rnfl100-black-01_03.png
 <p>&nbsp;</p>",UKCMIXED,visible,,,no,,,,1,"https://www.playwell.co.uk/images/choimixed1.jpg
 https://www.playwell.co.uk/images/choimixed1_01.jpg
 ",taxable,"Standard rate",variable,"Choi Kwang Do Suits And equipment","Choi Kwang Do Suits And equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3/160cm|4/170cm|5/180cm|6/190cm|7/200cm,0|1|1,,,,,,,
-,,publish,,,UKCMIXED3,,0,outofstock,,yes,41.13,,,,,,,,,UKCMIXED,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,UKCMIXED3,,45,instock,,yes,41.13,,,,,,,,,UKCMIXED,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,UKCMIXED4,,4,instock,,yes,41.13,,,,,,,,,UKCMIXED,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,UKCMIXED5,,14,instock,,yes,41.37,,,,,,,,,UKCMIXED,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,UKCMIXED6,,16,instock,,yes,41.37,,,,,,,,,UKCMIXED,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -51945,7 +51908,7 @@ https://www.playwell.co.uk/images/gelproglovesnew1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBO6ftTAP,visible,41,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/taperedppbo.jpg
+<p>&nbsp;</p>",PPBO6ftTAP,visible,40,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/taperedppbo.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Full Contact  Tapered Jo Staff (4FT)",black-polypropylene-full-contact--tapered-jo-staff-(4ft),publish,"<p>New&nbsp; Exclusive Black Polypropylene Full Contact Jo Staff now in Tapered Version,</p>
 
@@ -53099,7 +53062,7 @@ https://www.playwell.co.uk/images/silverpants0_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPVIKINGSHIELD,visible,4,instock,no,yes,134.99,,7,"https://www.playwell.co.uk/images/VIKINGSHIELD.jpg
+<p>&nbsp;</p>",PPVIKINGSHIELD,visible,0,outofstock,no,yes,134.99,,7,"https://www.playwell.co.uk/images/VIKINGSHIELD.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Tempest MMA Grappling Spats",venum-tempest-mma-grappling-spats,publish,"The Venum Tempest 2.0 compression pants are ultra durable and offer optimal support thanks to the muscle compression provided elasticated fabric. These compression pants are suitable for a strength and conditioning sessions or a hard boxing sparring. The mesh inserts will keep you dry, quickly wicking away perspiration.
 
@@ -74046,10 +74009,8 @@ https://www.playwell.co.uk/images/Venum-Adrenaline-Sleeveless-Rashguard-Red_03.j
 https://www.playwell.co.uk/images/Venum-Adrenaline-Sleeveless-Rashguard-Red_04.jpg
 https://www.playwell.co.uk/images/Venum-Adrenaline-Sleeveless-Rashguard-Red_05.jpg
 https://www.playwell.co.uk/images/Venum-Adrenaline-Sleeveless-Rashguard-Red_06.jpg
-",taxable,"Standard rate",variable,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medium|Large|X Large|XX - Large",0|1|1,
-,,publish,,,VENRGSLEEVELESSADRENRDM,,0,outofstock,,yes,44.99,,,,,,,,,VENRGSLEEVELESSADRENRD,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",taxable,"Standard rate",variable,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|XX - Large",0|1|1,
 ,,publish,,,VENRGSLEEVELESSADRENRDL,,1,instock,,yes,44.99,,,,,,,,,VENRGSLEEVELESSADRENRD,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENRGSLEEVELESSADRENRDXL,,2,instock,,yes,44.99,,,,,,,,,VENRGSLEEVELESSADRENRD,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENRGSLEEVELESSADRENRDXXL,,1,instock,,yes,44.99,,,,,,,,,VENRGSLEEVELESSADRENRD,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Vinyl  Black Curved Shield - Large",deluxe-vinyl--black-curved-shield---large,publish,"<p>Curved Shield, Kick Shield Made from High Quality Vinyl. High quality Foam Filled. Comes complete with 4 Holding Straps at the back. Sold as singles Measurements In Inches: 29&quot; x 14&quot; x 5.9&quot; Colours Available - Black</p>
 
@@ -80415,10 +80376,8 @@ Designed for men and women of all levels, the Venum Elite Boxing Gloves are idea
 https://www.playwell.co.uk/images/Venum-Elite-Boxing-Gloves-Green_01.jpg
 https://www.playwell.co.uk/images/Venum-Elite-Boxing-Gloves-Green_02.jpg
 https://www.playwell.co.uk/images/Venum-Elite-Boxing-Gloves-Green_03.jpg
-",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12 oz|14 oz|16 oz",0|1|1,
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12 oz",0|1|1,
 ,,publish,,,VENBGELITEGREEN12,,2,instock,,yes,89.99,,,,,,,,,VENBGELITEGREEN,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENBGELITEGREEN14,,0,outofstock,,yes,89.99,,,,,,,,,VENBGELITEGREEN,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENBGELITEGREEN16,,0,outofstock,,yes,89.99,,,,,,,,,VENBGELITEGREEN,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Muay Thai Stand Up Elite Shin Guards - Camel - Clearance",venum-muay-thai-stand-up-elite-shin-guards---camel---clearance,publish,"<p>Elevated Performance: The Venum Elite range of fight gear includes bestselling boxing gloves, footwear, headgear and more. Each piece delivers an elite fighting experience at unmatched value.</p>
 
 <p><br />
@@ -80868,10 +80827,9 @@ https://www.playwell.co.uk/images/Venum-Tactical-XT-Boxing-Gloves-Burgundy1_03.j
 https://www.playwell.co.uk/images/Venum-Tactical-XT-MMA-Sparring-Gloves-Burgundy1_01.jpg
 https://www.playwell.co.uk/images/Venum-Tactical-XT-MMA-Sparring-Gloves-Burgundy1_02.jpg
 https://www.playwell.co.uk/images/Venum-Tactical-XT-MMA-Sparring-Gloves-Burgundy1_03.jpg
-",taxable,"Standard rate",variable,"Mixed Martial Arts And Grappling Gloves","Mixed Martial Arts And Grappling Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|Large / XLarge",0|1|1,
+",taxable,"Standard rate",variable,"Mixed Martial Arts And Grappling Gloves","Mixed Martial Arts And Grappling Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small|Medium,0|1|1,
 ,,publish,,,VENUM-05536-139S,,2,instock,,yes,54.99,,,,,,,,,VENUM-05536-139,,,,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,VENUM-05536-139M,,1,instock,,yes,54.99,,,,,,,,,VENUM-05536-139,,,,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,VENUM-05536-139L,,0,outofstock,,yes,54.99,,,,,,,,,VENUM-05536-139,,,,,,,,,"Large / XLarge",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Tactical XT Shinguards - Black/Fire Red",venum-tactical-xt-shinguards---black/fire-red,publish,"<p>Introducing Tactical XT &ndash; a full range of combat sports equipment and fightwear engineered for those who train with precision and relentless intensity.<br />
 <br />
 The Venum Tactical XT Shinguards are a lightweight yet hardwearing shinguard designed for Muay Thai, kickboxing and MMA athletes. They offer reliable protection during sparring for all levels of athlete. The PU casing provides a durable sweat-proof cover, while the multiple interior layers of foam absorb and disperse shock waves, strike after strike.<br />
@@ -81927,7 +81885,7 @@ Perfect for commercial gyms or boxing training centres, this platform offers rel
 
     Speedball sold separately
 
-Perfect for commercial gyms or boxing training centres, this platform offers reliable performance for intense workouts.",stingplatformcommerci,visible,28,instock,no,yes,349.98,,40,"https://www.playwell.co.uk/images/speedcommerc1.jpg
+Perfect for commercial gyms or boxing training centres, this platform offers reliable performance for intense workouts.",stingplatformcommerci,visible,26,instock,no,yes,349.98,,40,"https://www.playwell.co.uk/images/speedcommerc1.jpg
 https://www.playwell.co.uk/images/speedcommerc1_01.jpg
 https://www.playwell.co.uk/images/speedcommerc1_02.jpg
 https://www.playwell.co.uk/images/speedcommerc1_03.jpg
@@ -82609,9 +82567,8 @@ https://www.playwell.co.uk/images/TYSONLACE1_03.jpg
 https://www.playwell.co.uk/images/TYSONLACE1_04.jpg
 https://www.playwell.co.uk/images/TYSONLACE1_05.jpg
 https://www.playwell.co.uk/images/TYSONLACE1_06.jpg
-",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz|16 oz",0|1|1,
+",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14 oz",0|1|1,
 ,,publish,,,"	TYSONPROLACEGLOVES14",,1,instock,,yes,249.98,,,,,,,,,TYSONPROLACEGLOVES,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	TYSONPROLACEGLOVES16",,0,outofstock,,yes,249.98,,,,,,,,,TYSONPROLACEGLOVES,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Giant 2.0 Mike Tyson Pro Boxing Gloves with Velcro",venum-giant-2.0-mike-tyson-pro-boxing-gloves-with-velcro,publish,"<p>In the wild, only the fiercest endure. In the ring, Mike Tyson did not just survive - he reigned supreme. A living embodiment of instinct, explosiveness, and raw intensity, Tyson moved like a predator with one purpose. His symbol? The tiger, powerful, precise, and impossible to ignore. Introducing Venum x Mike Tyson a collaborative range of boxing gear and apparel built for those who understand that greatness isn&rsquo;t given - it is taken. The Venum x Mike TysonBoxing Glove is based on the exact model of glove worn by Tyson in his last fight, with a hook-an-loop closure. These handcrafted professional boxing gloves are made with a top grade, full grain Argentinian Nappa leather that is both durable and pliable. Multiple layers of protective foams form a glove that delivers a natural grip and excellent comfort. The design draws on Tyson&rsquo;s iconic tattoo to surround the Venum snakehead for a hard-hitting combination. Use these professional gloves for training, sparring and fights.</p>","<p>In the wild, only the fiercest endure. In the ring, Mike Tyson did not just survive - he reigned supreme. A living embodiment of instinct, explosiveness, and raw intensity, Tyson moved like a predator with one purpose. His symbol? The tiger, powerful, precise, and impossible to ignore. Introducing Venum x Mike Tyson a collaborative range of boxing gear and apparel built for those who understand that greatness isn&rsquo;t given - it is taken. The Venum x Mike TysonBoxing Glove is based on the exact model of glove worn by Tyson in his last fight, with a hook-an-loop closure. These handcrafted professional boxing gloves are made with a top grade, full grain Argentinian Nappa leather that is both durable and pliable. Multiple layers of protective foams form a glove that delivers a natural grip and excellent comfort. The design draws on Tyson&rsquo;s iconic tattoo to surround the Venum snakehead for a hard-hitting combination. Use these professional gloves for training, sparring and fights.</p>",TYSONPROVELCROGLOVES,visible,,,no,,,,1,"https://www.playwell.co.uk/images/TYSONVELCRO1.jpg
 https://www.playwell.co.uk/images/TYSONVELCRO1_01.jpg
 https://www.playwell.co.uk/images/TYSONVELCRO1_02.jpg
@@ -83579,8 +83536,7 @@ https://www.playwell.co.uk/images/Venum-X-Tekken-8-Kazuya-MMA-Sparring-Gloves-Re
 https://www.playwell.co.uk/images/Venum-X-Tekken-8-Kazuya-MMA-Sparring-Gloves-Red-7oz_02.jpg
 https://www.playwell.co.uk/images/Venum-X-Tekken-8-Kazuya-MMA-Sparring-Gloves-Red-7oz_03.jpg
 https://www.playwell.co.uk/images/Venum-X-Tekken-8-Kazuya-MMA-Sparring-Gloves-Red-7oz_04.jpg
-",taxable,"Standard rate",variable,"Mixed Martial Arts And Grappling Gloves","Mixed Martial Arts And Grappling Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|Large / X Large",0|1|1,
-,,publish,,,"	KAZUYAMMAGLOVESS",,0,outofstock,,yes,69.99,,,,,,,,,KAZUYAMMAGLOVES,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",taxable,"Standard rate",variable,"Mixed Martial Arts And Grappling Gloves","Mixed Martial Arts And Grappling Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medium|Large / X Large",0|1|1,
 ,,publish,,,"	KAZUYAMMAGLOVESM",,1,instock,,yes,69.99,,,,,,,,,KAZUYAMMAGLOVES,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	KAZUYAMMAGLOVESL",,2,instock,,yes,69.99,,,,,,,,,KAZUYAMMAGLOVES,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fight Knight Human Form Striking Partner",fight-knight-human-form-striking-partner,publish,"<p>Human form Soft material Ideal even without gloves. Easy adjustment of combat stance (left &ndash; right guard) Wall and floor mount. Placement at the height of your choice. Certification of durability of material for sports use. One (1) year warranty.</p>
