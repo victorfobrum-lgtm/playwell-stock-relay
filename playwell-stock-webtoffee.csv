@@ -5824,7 +5824,7 @@ https://www.playwell.co.uk/images/ESCRIMABLACKJACK1_01.jpg
 ,,publish,,,EBABBLACKS,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKM,,1,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXS,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EBABBLACKL,,6,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EBABBLACKL,,4,instock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EBABBLACKXL,,0,outofstock,,yes,54.99,,,,,,,,,EBABBLACK,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Plain Satin Boxing Gown - Red",plain-satin-boxing-gown---red,publish,"<p>Full Length Boxing Gowns. Made of Satin. With White Edging. Excellent Quality. With Hood.</p>
 
@@ -6155,7 +6155,7 @@ https://www.playwell.co.uk/images/LOTKAMSU1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",WK1,visible,184,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/Wooden-Knife-1.jpg
+<p>&nbsp;</p>",WK1,visible,183,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/Wooden-Knife-1.jpg
 ",taxable,"Standard rate",simple,"Wooden Training Knives And Guns","Wooden Training Knives And Guns",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Elite Premium Wrestling Shoes - Black/Black",venum-elite-premium-wrestling-shoes---black/black,publish,"<p>Venum Elite Premium Wrestling Shoes&nbsp;Black/Black</p>
 
@@ -6600,7 +6600,7 @@ https://www.playwell.co.uk/images/BLACKHANDWRAPS4M_01.jpg
 <p>&nbsp;</p>",BOR60,visible,,,no,,,,18,"https://www.playwell.co.uk/images/boredstaff.jpg
 https://www.playwell.co.uk/images/boredstaff_01.jpg
 ",taxable,"Standard rate",variable,"Bo Staffs - 60 Inches ( 5ft )","Bo Staffs - 60 Inches ( 5ft )",,,,,,,,,,,,,,,,,,,,"1""|1.25""",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOR601,,0,outofstock,,yes,23.99,,,,,,,,,BOR60,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOR601,,30,instock,,yes,23.99,,,,,,,,,BOR60,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BOR60125,,31,instock,,yes,23.99,,,,,,,,,BOR60,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Bo Staff White Tapered 60 Inches",bo-staff-white-tapered-60-inches,publish,"<p>Made of The Finest &nbsp;Grade A Quality Made From Beech Wood. Hardwood. Total Length 60 inches&nbsp;&nbsp; OR 5ft . Diameter Length Varies. Tapered On Both Ends Of Staff</p>
 
@@ -7300,10 +7300,11 @@ https://www.playwell.co.uk/images/brucekemponew1_02.jpg
 ,,publish,,,BETKE280,,995,instock,,yes,34.98,,,,,,,,,BETKE,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BETKE300,,994,instock,,yes,34.98,,,,,,,,,BETKE,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BETKE320,,995,instock,,yes,34.98,,,,,,,,,BETKE,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Break/Smash Board - Adults",break/smash-board---adults,publish,"<p>Excellent quality hard plastic re-breakable smash boards. Manufactured from a special plastic. They easily slide back into position when broken. Please note colours of break boards may vary from Description. Our adult break boards measure 28cm x 28cm x 2cm These measurements are appx and to the nearest</p>","<p>Excellent quality hard plastic re-breakable smash boards. Manufactured from a special plastic. They easily slide back into position when broken. Please note colours of break boards may vary from Description. Our adult break boards measure 28cm x 28cm x 2cm These measurements are appx and to the nearest</p>",BSBA,visible,,,no,,,,1,"https://www.playwell.co.uk/images/breakboardbeige.jpg
+"Break/Smash Board - Adults",break/smash-board---adults,publish,"<p>Excellent quality hard plastic re-breakable smash boards. Manufactured from a special plastic. They easily slide back into position when broken. Please note colours of break boards may vary from Description. Our adult break boards measure 28cm x 28cm x 2cm These measurements are appx and to the nearest</p>","<p>Excellent quality hard plastic re-breakable smash boards. Manufactured from a special plastic. They easily slide back into position when broken. Please note colours of break boards may vary from Description. Our adult break boards measure 28cm x 28cm x 2cm These measurements are appx and to the nearest</p>",BSBA,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Adults-white-board.jpg
+https://www.playwell.co.uk/images/Adults-white-board_01.jpg
 ",taxable,"Standard rate",variable,"Break Smash Boards","Break Smash Boards",,,,,,,,,,,,,,,,,,,,,,,"White - Easy|Black - Hard",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BSBAW,,3,instock,,yes,44.98,,,,,,,,,BSBA,,,"White - Easy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BSBABK,,2,instock,,yes,51.37,,,,,,,,,BSBA,,,"Black - Hard",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BSBAW,,0,outofstock,,yes,44.98,,,,,,,,,BSBA,,,"White - Easy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BSBABK,,1,instock,,yes,51.37,,,,,,,,,BSBA,,,"Black - Hard",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Carved Dragon Nunchaku Chain - Red Oak",deluxe-carved-dragon-nunchaku-chain---red-oak,publish,"<p>Deluxe Carved Dragon Nunchaku Chain Red Oak</p>
 
 <p>Wooden Nunchaku Made from Red Beech Wood With Carved Dragon, .Features a beautiful Deep&nbsp;Carved dragon Design. Look Great for Display, and Great to train with&nbsp;</p>
@@ -7919,7 +7920,7 @@ https://www.playwell.co.uk/images/10215-boredstraight1_02.jpg
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>",BOWTAP72,visible,41,instock,no,yes,26.99,,20,"https://www.playwell.co.uk/images/bowhitetapered1.jpg
+<div>&nbsp;</div>",BOWTAP72,visible,39,instock,no,yes,26.99,,20,"https://www.playwell.co.uk/images/bowhitetapered1.jpg
 https://www.playwell.co.uk/images/bowhitetapered1_01.jpg
 https://www.playwell.co.uk/images/bowhitetapered1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -10235,7 +10236,7 @@ https://www.playwell.co.uk/images/Venum-Elite-Boxing-Iron-Head-Gear-Black-Red_04
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BOCD60,visible,75,instock,no,yes,39.99,,18,"https://www.playwell.co.uk/images/CARVEDDRAGONRED1.jpg
+<p>&nbsp;</p>",BOCD60,visible,74,instock,no,yes,39.99,,18,"https://www.playwell.co.uk/images/CARVEDDRAGONRED1.jpg
 https://www.playwell.co.uk/images/CARVEDDRAGONRED1_01.jpg
 https://www.playwell.co.uk/images/CARVEDDRAGONRED1_02.jpg
 https://www.playwell.co.uk/images/CARVEDDRAGONRED1_03.jpg
@@ -10905,7 +10906,7 @@ https://www.playwell.co.uk/images/newbluesilver1_02.jpg
 ,,publish,,,"	semisetredxs",,100,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	semisetreds",,98,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	semisetredm",,99,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	semisetredl",,0,outofstock,,yes,49.98,,,,,,,,,semisetred,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	semisetredl",,10,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	semisetredxl",,98,instock,,yes,49.98,,,,,,,,,semisetred,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Semi Contact Sparring Gloves & Boots Set  - Purple",semi-contact-sparring-gloves-&amp;-boots-set----purple,publish,"<p>Semi Contact Sparring Gloves and Boots Special Set Offer</p>
 
@@ -14733,7 +14734,7 @@ https://www.playwell.co.uk/images/idfvest1_03.jpg
 
 <p>12cm&nbsp;</p>","<p>Black rubber TPR Realistic Hand Training Greande, Great for Self Defence Scenarios. Realistic weight to greande,&nbsp;</p>
 
-<p>12cm&nbsp;</p>",RTGREN12,visible,34,instock,no,yes,20.99,,0.35,"https://www.playwell.co.uk/images/tprgrenade.jpg
+<p>12cm&nbsp;</p>",RTGREN12,visible,33,instock,no,yes,20.99,,0.35,"https://www.playwell.co.uk/images/tprgrenade.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Full Contact Sparring Chanbara Sword - 91cm",full-contact-sparring-chanbara-sword---91cm,publish,"<p>Made of soft&nbsp;Foam. There is nothing like the versatile Chanbara&nbsp;sword. From the beginner to the master, &nbsp;sword offers the combatant speed and agility. The length of the blade also offers the combatant a strong defence as well as a good offense. This very reliable and forgiving medium range one handed sword offers 91cm of striking area with 6 inches of handle. The Chanbara is called the &quot;sword of preference&quot;, when it comes to beginner and intermediate combatants who practice and match wits in the &quot;Ultimate Physical Game of Chess&quot;.&nbsp;</p>
 
@@ -16466,7 +16467,7 @@ https://www.playwell.co.uk/images/fullescrima1_04.jpg
 ,,publish,,,EHL,,0,outofstock,,yes,64.98,,,,,,,,,EH,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHM,,11,instock,,yes,64.98,,,,,,,,,EH,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHS,,8,instock,,yes,64.98,,,,,,,,,EH,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,EHXL,,6,instock,,yes,64.98,,,,,,,,,EH,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EHXL,,4,instock,,yes,64.98,,,,,,,,,EH,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sting Competition Approved Boxing Gloves 2:0 - Red",sting-competition-approved-boxing-gloves-2:0---red,publish,"<p><b>STING Competition Leather Boxing Gloves:&nbsp;</b>Elevate Your Ring Performance</p>
 
 <p>&nbsp;</p>
@@ -17349,7 +17350,7 @@ https://www.playwell.co.uk/images/Fairtex-SP5-Shin-Pads-Red_04.jpg
 
 <p style=""margin: 0px;"">&nbsp;</p>
 
-<p>&nbsp;</p>",PPELECSAI,visible,41,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/NEWPICELECTRA1.jpg
+<p>&nbsp;</p>",PPELECSAI,visible,40,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/NEWPICELECTRA1.jpg
 https://www.playwell.co.uk/images/NEWPICELECTRA1_01.jpg
 https://www.playwell.co.uk/images/NEWPICELECTRA1_02.jpg
 https://www.playwell.co.uk/images/NEWPICELECTRA1_03.jpg
@@ -20162,7 +20163,7 @@ https://www.playwell.co.uk/images/redtips1_02.jpg
 
 <p>Total Length is 40 Inches</p>
 
-<p>&nbsp;</p>",JORUB40,visible,63,instock,no,yes,17.99,,5,"https://www.playwell.co.uk/images/rubberstaff.jpg
+<p>&nbsp;</p>",JORUB40,visible,61,instock,no,yes,17.99,,5,"https://www.playwell.co.uk/images/rubberstaff.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum x Roger Gracie Academy BJJ Gi - Black",venum-x-roger-gracie-academy-bjj-gi---black,publish,"<p>Venum x Roger Gracie Academy BJJ Gi was developed in collaboration with Roger Gracie. The fit of this Jiu-Jitsu gi has been optimized for comfort and freedom of movement. Reinforcements at all stratgeic tension points help extend the life of this kimono. The Gi&#39;s jacket is made with a 380 gsm cotton and the pants are 280 gsm Ripstock fabric, making it suitable for IBJJF competition.</p>","<p>Venum x Roger Gracie Academy BJJ Gi was developed in collaboration with Roger Gracie. The fit of this Jiu-Jitsu gi has been optimized for comfort and freedom of movement. Reinforcements at all stratgeic tension points help extend the life of this kimono. The Gi&#39;s jacket is made with a 380 gsm cotton and the pants are 280 gsm Ripstock fabric, making it suitable for IBJJF competition.</p>",VENUMROGERACADBLACK,visible,,,no,,,,1,"https://www.playwell.co.uk/images/Venum-Roger-Gracie-Academy-Jiu-Jitsu-Gi-Black.jpg
 https://www.playwell.co.uk/images/Venum-Roger-Gracie-Academy-Jiu-Jitsu-Gi-Black_01.jpg
@@ -20318,11 +20319,11 @@ https://www.playwell.co.uk/images/0024_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>","<p>Competition Grade Kamas, made from&nbsp;Natural&nbsp;&nbsp;Purple Heart&nbsp;Wood, Total&nbsp; Handle Length is 12&quot;&nbsp; Features Polished Steel Blade, And Hand Grip Design on handles,</p>
+<p><u><strong>IMPORTANT NOTE - The batch of kamas we have received this time round, the stripes on the kamas are very faint and not as dark as pictured</strong></u></p>","<p>Competition Grade Kamas, made from&nbsp;Natural&nbsp;&nbsp;Purple Heart&nbsp;Wood, Total&nbsp; Handle Length is 12&quot;&nbsp; Features Polished Steel Blade, And Hand Grip Design on handles,</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",KCOMPSTEELBAMBOO12,visible,31,instock,no,yes,29.99,,0.45,"https://www.playwell.co.uk/images/BAMBOOSTRIPEDKAMA.jpg
+<p><u><strong>IMPORTANT NOTE - The batch of kamas we have received this time round, the stripes on the kamas are very faint and not as dark as pictured</strong></u></p>",KCOMPSTEELBAMBOO12,visible,31,instock,no,yes,29.99,,0.45,"https://www.playwell.co.uk/images/BAMBOOSTRIPEDKAMA.jpg
 ",taxable,"Standard rate",simple,"Kama's and Sais","Kama's and Sais",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Competition Steel Ash Wood Kama - 12""",competition-steel-ash-wood-kama---12&quot;,publish,"<p>Competition Grade Kamas, made from&nbsp;Natural&nbsp;&nbsp;Ash &nbsp;Wood, Total&nbsp; Handle Length is 12&quot;&nbsp; Features Polished Steel Blade, And Hand Grip Design on handles,</p>
 
@@ -22151,7 +22152,7 @@ https://www.playwell.co.uk/images/MMAKNEEBLACK1_03.jpg
 <p>&nbsp;</p>
 </div>
 
-<div>&nbsp;</div>",PPTKCLASSIC,visible,77,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/CLASSICKNIFENEW.jpg
+<div>&nbsp;</div>",PPTKCLASSIC,visible,76,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/CLASSICKNIFENEW.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "TPR Rubber ""Rifle"" Training Knife",tpr-rubber-&quot;rifle&quot;-training-knife,publish,"<div>Now you can practice with some of our most popular knife designs, in relative safety, with our new rubber training knives. I, Each has been carefully fashioned to look as realistic as possible so they can be effectively used in solo practice, training drills, disarm drills, and demonstrations and any other activity where you want a reasonably close approximation of realism but not the extreme danger and risk associated with an actual knife.</div>
 
@@ -22388,13 +22389,6 @@ https://www.playwell.co.uk/images/compmuay1_01.jpg
 ,,publish,,,,,0,outofstock,,yes,15.99,,,,,,,,,MTSCOMBKRD,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,MTSCOMBKRDS,,10,instock,,yes,15.99,,,,,,,,,MTSCOMBKRD,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,MTSCOMBKRDXL,,0,outofstock,,yes,15.99,,,,,,,,,MTSCOMBKRD,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Bo Green Fabric Case",bo-green-fabric-case,publish,"<p>Cloth Fabric Bo Case. Made of 100% Cotton. Very Lightweight. Reinforced Sticthing a the bottom of the case.&nbsp;</p>","<p>Cloth Fabric Bo Case. Made of 100% Cotton. Very Lightweight. Reinforced Sticthing a the bottom of the case.&nbsp;</p>",BOCF,visible,,,no,,,,0.3,"https://www.playwell.co.uk/images/greencase1.jpg
-https://www.playwell.co.uk/images/greencase1_01.jpg
-",taxable,"Standard rate",variable,"Weapons Cases and Accessories","Weapons Cases and Accessories",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"40""|50 Inches|75 inches|65 inches",0|1|1,,,,,,,,,,
-,,publish,,,BOCF40,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"40""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOCF50,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"50 Inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOCF72,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"75 inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOCF60,,0,outofstock,,yes,5.98,,,,,,,,,BOCF,,,,,,"65 inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Realistic TP Rubber  Training Hand Gun - M006",realistic-tp-rubber--training-hand-gun---m006,publish,"<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is subject to Black</p>","<p>Black rubber hand gun replica with mock trigger. Realistic design by Playwell for use and training in method of non-deadly force. Measures: 7.5 inches in length and 5 inches width. Weighs 1 pound. Colour of the gun is subject to Black</p>",RGM006,visible,73,instock,no,yes,17.98,,0.35,"https://www.playwell.co.uk/images/m0061.jpg
 https://www.playwell.co.uk/images/m0061_01.jpg
 https://www.playwell.co.uk/images/m0061_02.jpg
@@ -30716,7 +30710,7 @@ https://www.playwell.co.uk/images/kravleathergloves_01.jpg
 ,,publish,,,KHTELASWH4,,7,instock,,yes,29.84,,,,,,,,,KHTELASWH,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHTELASWH5,,15,instock,,yes,30.69,,,,,,,,,KHTELASWH,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHTELASWH6,,16,instock,,yes,31.54,,,,,,,,,KHTELASWH,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,KHTELASWH7,,0,outofstock,,yes,32.38,,,,,,,,,KHTELASWH,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,KHTELASWH7,,4,instock,,yes,32.38,,,,,,,,,KHTELASWH,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,KHTELASWH2,,0,outofstock,,yes,28.98,,,,,,,,,KHTELASWH,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Top Ten WAKO Approved Pointfighter Glossy Gloves  - Red",top-ten-wako-approved-pointfighter-glossy-gloves----red,publish,"<p>Top Ten WAKO Approved Pointfighter Glossy Gloves Red&nbsp;These gloves are our brand new style added to the&nbsp;<strong>Top Ten&nbsp;</strong>open glove collection. These are definitely a glove you might want to look into. The new construction makes the gloves unique.&nbsp;</p>
 
@@ -32506,7 +32500,7 @@ https://www.playwell.co.uk/images/SEMIREDHEAD1_02.jpg
 https://www.playwell.co.uk/images/SEMIREDHEAD1_03.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium|Large|Small,0|1|1,,,,,,,,,,
 ,,publish,,,HGULTCOMREDM,,5,instock,,yes,32.99,,,,,,,,,HGULTCOMRED,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,HGULTCOMREDL,,0,outofstock,,yes,32.99,,,,,,,,,HGULTCOMRED,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,HGULTCOMREDL,,6,instock,,yes,32.99,,,,,,,,,HGULTCOMRED,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,HGULTCOMREDS,,3,instock,,yes,32.99,,,,,,,,,HGULTCOMRED,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Semi Contact Competition Head Guard -  Black",semi-contact-competition-head-guard----black,publish,"<p>New Semi Contact Headguard Made From Split Leather, Open face Design with provides Excellent Vision,&nbsp; Inner Is Lined With Sweat Absrobant Material ,&amp; Offers Top And Back of the Head Protection. Velcro Strap Underneath The chin,</p>","<p>New Semi Contact Headguard Made From Split Leather, Open face Design with provides Excellent Vision,&nbsp; Inner Is Lined With Sweat Absrobant Material ,&amp; Offers Top And Back of the Head Protection. Velcro Strap Underneath The chin,</p>",HGULTCOMBLACK,visible,,,no,,,,0.5,"https://www.playwell.co.uk/images/SEMIBLACKHEAD1.jpg
 https://www.playwell.co.uk/images/SEMIBLACKHEAD1_01.jpg
@@ -33187,15 +33181,11 @@ https://www.playwell.co.uk/images/WTFWHITEFIGHTERSUIT_05.jpg
 <p>&nbsp;</p>","<p>Feiyue Wushu Training Shoes The No 1 shoe choice for Shaolin monks and masters! Feiyue Martial Arts shoes have a simple, durable canvas lace-up top and a padded yet light sole. The tread is perfect for all styles, providing maximum traction for ultimate performance. All with a affordable price</p>
 
 <p>&nbsp;</p>",FSTOWH,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/whiteonetop.jpg
-",taxable,"Standard rate",variable,"Traditional Footwear","Traditional Footwear",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31|33|34|40|43|44|32|39,0|1|1,,,,,,,
-,,publish,,,FSTOWH31,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",taxable,"Standard rate",variable,"Traditional Footwear","Traditional Footwear",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31|33|34|32,0|1|1,,,,,,,
+,,publish,,,,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOWH33,,5,instock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOWH34,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,FSTOWH40,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,FSTOWH43,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,FSTOWH44,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSTOWH32,,3,instock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,FSTOWH39,,0,outofstock,,yes,21.99,,,,,,,,,FSTOWH,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Kudo Black Headguard: Full Mask",kudo-black-headguard:-full-mask,publish,"<p>For total facial protection, use this new&nbsp;Kudo Headguard with a full face cover A Unique Product On the market, made of tough Acrylic. Has ventilation, and the Mask comes at least 1.5 inches away from the face, this aids in a breathing and also helps prevent the face mask steaming up. Ears on the headguard are well padded, with an adjustable Velcro strap at the back of the headguard. Made of Vinyl: Face Mask is not removable.</p>
 
 <p>&nbsp;</p>
@@ -41087,7 +41077,7 @@ https://www.playwell.co.uk/images/yellowbrucenew1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BORDGRADEB,visible,48,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredstraight1.jpg
+<p>&nbsp;</p>",BORDGRADEB,visible,47,instock,no,yes,25.98,,20,"https://www.playwell.co.uk/images/boredstraight1.jpg
 https://www.playwell.co.uk/images/boredstraight1_01.jpg
 https://www.playwell.co.uk/images/boredstraight1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42376,7 +42366,7 @@ https://www.playwell.co.uk/images/abskatananew_01.jpg
 https://www.playwell.co.uk/images/abskatananew_02.jpg
 https://www.playwell.co.uk/images/abskatananew_03.jpg
 ",taxable,"Standard rate",variable,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black|Blue|Red|White,0|1|1,,,,,,,
-,,publish,,,ABSSAMKATSCABBLACK,,9,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ABSSAMKATSCABBLACK,,8,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ABSSAMKATSCABBLUE,,7,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ABSSAMKATSCABRED,,7,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ABSSAMKATSCABWHITE,,7,instock,,yes,54.99,,,,,,,,,ABSSAMKATSCAB,,,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -45182,7 +45172,7 @@ https://www.playwell.co.uk/images/Venum-Impact-Evo-Sparring-MMA-Gloves-Black_08.
 
 <p>Made of&nbsp; High Grade ( A) Quality Wood ( Which is similar to Japanese Wooden weapons at less third of the price )</p>
 
-<p>&nbsp;</p>",BORWDGRADEB,visible,77,instock,no,yes,22.98,,20,"https://www.playwell.co.uk/images/jowhitestraight1.jpg
+<p>&nbsp;</p>",BORWDGRADEB,visible,76,instock,no,yes,22.98,,20,"https://www.playwell.co.uk/images/jowhitestraight1.jpg
 https://www.playwell.co.uk/images/jowhitestraight1_01.jpg
 https://www.playwell.co.uk/images/jowhitestraight1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49454,7 +49444,7 @@ https://www.playwell.co.uk/images/Tatami_WorldFamous_Shorts-4_03.jpg
 
 <div>Available in Black,</div>","<p>For professional and advanced boxing these handwraps are mandatory to protect your hands. 4 meters Length, Sold as Pairs</p>
 
-<div>Available in Black,</div>",VBHBR,visible,6,instock,no,yes,8.98,,0.35,"https://www.playwell.co.uk/images/boxing_handwraps_4m__black_1500_01__11015.1528379491.jpg
+<div>Available in Black,</div>",VBHBR,visible,5,instock,no,yes,8.98,,0.35,"https://www.playwell.co.uk/images/boxing_handwraps_4m__black_1500_01__11015.1528379491.jpg
 ",taxable,"Standard rate",simple,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Adidas Speed 50 Boxing Gloves 2026  - Black",adidas-speed-50-boxing-gloves-2026----black,publish,"Made from durable PU
 Designed to optimise speed and performance
@@ -49878,7 +49868,7 @@ https://www.playwell.co.uk/images/PRESS1_02.jpg
 
 <p>&nbsp;</p>","<p>Tonfas made from Polypropylene Material Much stronger &amp; Durable then Steel Sais, Lightweight Yet Sturdy. Total Length of Tonfa is 20 Inches on the blade Sold As pairs Can be used for Light And Semi Contact Sparring. Polypropylene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available , they have the advantages of being virtually unbreakable and remarkably stiff and cut resistant. SOLD AS PAIRS</p>
 
-<p>&nbsp;</p>",pptonfapair,visible,54,instock,no,yes,21.99,,1,"https://www.playwell.co.uk/images/pptonfapair.jpg
+<p>&nbsp;</p>",pptonfapair,visible,53,instock,no,yes,21.99,,1,"https://www.playwell.co.uk/images/pptonfapair.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Ultimate Martial Arts  Knee Pads - White",deluxe-ultimate-martial-arts--knee-pads---white,publish,"<p>Premium Grade Quality Knee Pads, Moulded Polyurethane foam is covered with felt to provide excellent padding. One-piece contour construction provides comfort and better fit. Thick Foam Padding, Provides the best possible Protection. Machine washable. These Knee Pads Protect the sides of the Knees aswell, Sold As Pairs</p>
 
@@ -61412,9 +61402,9 @@ https://www.playwell.co.uk/images/tusahforerarm-back-and-front_02.jpg
 https://www.playwell.co.uk/images/tusahforerarm-back-and-front_03.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large",0|1|1,,,,,,,
 ,,publish,,,tusahforearmxs,,8,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahforearms,,0,outofstock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahforearms,,8,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,tusahforearmm,,6,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahforearml,,0,outofstock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahforearml,,8,instock,,yes,20.49,,,,,,,,,tusahforearm,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tusah WT  Taekwondo Competition Approved Shin Guards",tusah-wt--taekwondo-competition-approved-shin-guards,publish,"<p>The Tusah WT Approved Taekwondo Shin in White is WT and CE approved. PU compressed sponge construction has been used to make this WT Approved Taekwondo shin guard light weight and flexibile.<br />
 <br />
 It provides the wearer with full shin protection, while also ensuring a full range of movement, Two adjustable velcro straps have been attached to the shin guard to ensure maximum comfort and a tight fit.<br />
@@ -61453,8 +61443,8 @@ https://www.playwell.co.uk/images/tusahshin1_02.jpg
 https://www.playwell.co.uk/images/tusahshin1_03.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large",0|1|1,,,,,,,
 ,,publish,,,tusahshinxs,,7,instock,,yes,21.99,,,,,,,,,tusahshin,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahshins,,2,instock,,yes,21.99,,,,,,,,,tusahshin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahshinm,,0,outofstock,,yes,21.99,,,,,,,,,tusahshin,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahshins,,4,instock,,yes,21.99,,,,,,,,,tusahshin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahshinm,,7,instock,,yes,21.99,,,,,,,,,tusahshin,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,tusahshinl,,3,instock,,yes,21.99,,,,,,,,,tusahshin,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tusah WT Taekwondo Competition Approved Sparring Gloves",tusah-wt-taekwondo-competition-approved-sparring-gloves,publish,"<p>The Tusah WT approved Taekwondo Gloves are made and approved for all WT competitions. They have the perfect amount of padding needed for WT Taekwodno sparring and are super lightweight and non-restrictive in movement. Made from an outer material of PU Polyurethane vinyl, which is quick drying and well ventilated you hands stay cool and dry. On the palm area is a mesh that also allows your hands to breath, also helping with the ventilation.<br />
 <br />
@@ -61544,10 +61534,10 @@ This male groin guard comes in the colour white and has an elasticated waistband
 https://www.playwell.co.uk/images/tusahmalegroin1_01.jpg
 https://www.playwell.co.uk/images/tusahmalegroin1_02.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large",0|1|1,,,,,,,
-,,publish,,,tusahmalegroinxs,,0,outofstock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahmalegroins,,2,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahmalegroinm,,2,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,tusahmalegroinl,,1,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahmalegroinxs,,6,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahmalegroins,,3,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahmalegroinm,,4,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,tusahmalegroinl,,4,instock,,yes,15.98,,,,,,,,,tusahmalegroin,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Tusah WT Taekwondo Competition Approved Head Guard",tusah-wt-taekwondo-competition-approved-head-guard,publish,"<p>The Tusah WT APPROVED Taekwondo Headguard is made and Approved for all WT competitions. They have the perfect amount of padding needed for WT Taekwondo sparring and kicking. It is packed full of features to help you train better and safer. The head guard also has additional padding around the ears, to stop your ears getting hurt in competition. It also features large air holes so you can hear perfectly well and provides ventilation and heat control.<br />
 <br />
 A double elastic and velcro chin strap offers a superior fit and feel, keeping the head guard in the same place even while suffering blows from an opponent. They are quick fastening and comfortable. Also in the head guard is a sweat band on the inside forehead, which helps keep the sweat out of your eyes when sparring.<br />
@@ -71573,7 +71563,7 @@ https://www.playwell.co.uk/images/Sandee-Cotton-Shin-Instep-pads_02.jpg
 ,,publish,,,,,44,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,40,instock,,yes,29.99,,,,,,,,,sandeecottonshinblack,,,,,,Adult,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,43,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,,,38,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,,,37,instock,,yes,27.99,,,,,,,,,sandeecottonshinblack,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sandee Competition Muay Thai Cotton Shin Pads - Red",sandee-competition-muay-thai-cotton-shin-pads---red,publish,"<p>Sandee Competition Muay Thai Cotton Shin Pads Red</p>
 
 <p>&nbsp;</p>
@@ -75084,7 +75074,7 @@ https://www.playwell.co.uk/images/Venum-x-llia-topuria-Boxing-Gloves_06.jpg
 <p>&nbsp;</p>
 </div>
 
-<div>&nbsp;</div>",RKE447TPR,visible,49,instock,no,yes,7.99,,0.35,"https://www.playwell.co.uk/images/E447.jpg
+<div>&nbsp;</div>",RKE447TPR,visible,48,instock,no,yes,7.99,,0.35,"https://www.playwell.co.uk/images/E447.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fairtex SP9 Ultra Ergo Muay Thai Shin Pads  - Black",fairtex-sp9-ultra-ergo-muay-thai-shin-pads----black,publish,"<h4>Signature Open System:</h4>
 
@@ -78218,7 +78208,7 @@ https://www.playwell.co.uk/images/TWINSDELUXEGLOVESBG1_01.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12 oz|14 oz|16 oz",0|1|1,
 ,,publish,,,"	yakthaigloves12",,1,instock,,yes,139.98,,,,,,,,,yakthaigloves,,,,,,,,,"12 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	yakthaigloves14",,2,instock,,yes,139.98,,,,,,,,,yakthaigloves,,,,,,,,,"14 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	yakthaigloves16",,2,instock,,yes,139.98,,,,,,,,,yakthaigloves,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	yakthaigloves16",,0,outofstock,,yes,139.98,,,,,,,,,yakthaigloves,,,,,,,,,"16 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Twins Comic Boxing Gloves White",twins-comic-boxing-gloves-white,publish,"<p>Twins signature design gloves for those that want to stand out down the gym. Innovative artistic designs from Twins designed in Thailand.</p>
 
 <p>Made in the BGVL4 model style, the improved version of the classic BGVL3 with the same great shape and fit but with a redefined padding on the back of the glove. The result is a streamlined glove that performs better during clinching, has less excess bulk but with the same level of protection that has made Twins gloves a staple of the boxing and Muaythai worlds for over 30 years.</p>
@@ -80022,7 +80012,7 @@ https://www.playwell.co.uk/images/blacktrim10oz1_03.jpg
 https://www.playwell.co.uk/images/blacktrim10oz1_04.jpg
 ",taxable,"Standard rate",variable,"Tang Soo Do Uniforms And Equipment","Tang Soo Do Uniforms And Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3/160cm|4/170cm|5/180cm|2/150cm|6/190cm,0|1|1,
 ,,publish,,,"	tangsilveradultblacktrim3",,0,outofstock,,yes,49.98,,,,,,,,,tangsilveradultblacktrim,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	tangsilveradultblacktrim4",,0,outofstock,,yes,49.98,,,,,,,,,tangsilveradultblacktrim,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	tangsilveradultblacktrim4",,2,instock,,yes,49.98,,,,,,,,,tangsilveradultblacktrim,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	tangsilveradultblacktrim5",,4,instock,,yes,49.98,,,,,,,,,tangsilveradultblacktrim,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	tangsilveradultblacktrim2",,9,instock,,yes,49.98,,,,,,,,,tangsilveradultblacktrim,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	tangsilveradultblacktrim6",,9,instock,,yes,49.98,,,,,,,,,tangsilveradultblacktrim,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
