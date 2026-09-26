@@ -569,7 +569,7 @@ https://www.playwell.co.uk/images/SHOTORED1_02.jpg
 ",taxable,"Standard rate",simple,Flags,Flags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Japanese Flag Patch 48",japanese-flag-patch-48,publish,"<p>2 inches x 3 inches.</p>","<p>2 inches x 3 inches.</p>",P48,visible,48,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/0312.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Korean Flag Patch 49",korean-flag-patch-49,publish,"<p>2 inches x 3 inches.</p>","<p>2 inches x 3 inches.</p>",P49,visible,183,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/koreanpatch.jpg
+"Korean Flag Patch 49",korean-flag-patch-49,publish,"<p>2 inches x 3 inches.</p>","<p>2 inches x 3 inches.</p>",P49,visible,173,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/koreanpatch.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Saint George's Cross Patch 70",saint-george's-cross-patch-70,publish,"<p>White background and outer border in white. 2 inches x 3 inches</p>","<p>White background and outer border in white. 2 inches x 3 inches</p>",P70,visible,73,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/stcorsspatch.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1151,7 +1151,7 @@ https://www.playwell.co.uk/images/funkmaster1_01.jpg
 https://www.playwell.co.uk/images/boblackthin1_01.jpg
 https://www.playwell.co.uk/images/boblackthin1_02.jpg
 ",taxable,"Standard rate",variable,"Wooden Oak Bo Staffs","Wooden Oak Bo Staffs",,,,,"1.25""|1""",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BOBK721.2,,95,instock,,yes,25.98,,,,,,,,,BOBK72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BOBK721.2,,94,instock,,yes,25.98,,,,,,,,,BOBK72,,,,,,"1.25""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BOBK721,,0,outofstock,,yes,25.98,,,,,,,,,BOBK72,,,,,,"1""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Leg/Wrist Weights 3lb",leg/wrist-weights-3lb,publish,"<p>Made of cool, comfortable neoprene, these weights are ideal for adding a little extra weight to your workout. Fits easily around wrists or ankles. Velcro fastening. Sold in pairs. Versatile enough to use anytime including aerobics, walking, jogging or other forms of athletic workouts. Great For Building Srength and Speed in arms and legs. Increases Power In punches and Kicks</p>","<p>Made of cool, comfortable neoprene, these weights are ideal for adding a little extra weight to your workout. Fits easily around wrists or ankles. Velcro fastening. Sold in pairs. Versatile enough to use anytime including aerobics, walking, jogging or other forms of athletic workouts. Great For Building Srength and Speed in arms and legs. Increases Power In punches and Kicks</p>",LW3,visible,9,instock,no,yes,13.98,,0.35,"https://www.playwell.co.uk/images/CAF23AXK.jpg
 ",taxable,"Standard rate",simple,"Strength Training Equipment","Strength Training Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3133,7 +3133,7 @@ https://www.playwell.co.uk/images/NEWPICYELLOWBRUCE1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",SS8WALL,visible,37,instock,no,yes,34.98,,3,"https://www.playwell.co.uk/images/8tierwallmounted.jpg
+<p>&nbsp;</p>",SS8WALL,visible,36,instock,no,yes,34.98,,10,"https://www.playwell.co.uk/images/8tierwallmounted.jpg
 ",taxable,"Standard rate",simple,"Sword and Weapon Stands","Sword and Weapon Stands",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Aluminium Broadsword - Shorter Sword ( 30"" ) - PRE ORDER",aluminium-broadsword---shorter-sword-(-30&quot;-)---pre-order,publish,"<p>Broadsword made of Aluminium. Stylishly crafted of aluminum. Features an etched blood groove in the blade. An excellent training weapon. Wrapped handle. Sashes included, color may vary. Scabbard not included. This Size Is More Suitable for Ladies.</p>
 
@@ -4753,7 +4753,7 @@ https://www.playwell.co.uk/images/blackbelt_01.jpg
 https://www.playwell.co.uk/images/blackbelt_02.jpg
 https://www.playwell.co.uk/images/blackbelt_03.jpg
 ",taxable,"Standard rate",variable,"Black Belts","Black Belts",,,,,,,,,,,,,,,,,"170 cm|110 cm|120 cm|130 cm|140 cm|150cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,BBS170,,8,instock,,yes,1.17,,,,,,,,,BBS,,,,,,,,,,,,,,,,,,"170 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,BBS170,,-16,outofstock,,yes,1.17,,,,,,,,,BBS,,,,,,,,,,,,,,,,,,"170 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BBS110,,5,instock,,yes,1.17,,,,,,,,,BBS,,,,,,,,,,,,,,,,,,"110 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BBS120,,1,instock,,yes,1.17,,,,,,,,,BBS,,,,,,,,,,,,,,,,,,"120 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,BBS130,,1,instock,,yes,1.17,,,,,,,,,BBS,,,,,,,,,,,,,,,,,,"130 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4768,7 +4768,7 @@ https://www.playwell.co.uk/images/japanesesilk1_01.jpg
 ",taxable,"Standard rate",variable,"Black Belts","Black Belts",,,,,,,,,,,,,,,,,"280 cm|300 cm|320 cm|340 cm|360 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5BKJS,,0,outofstock,,yes,18.98,,,,,,,,,BBKJS,,,,,,,,,,,,,,,,,,"280 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6BKJS,,860,instock,,yes,18.98,,,,,,,,,BBKJS,,,,,,,,,,,,,,,,,,"300 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B7BKJS,,848,instock,,yes,18.98,,,,,,,,,BBKJS,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B7BKJS,,847,instock,,yes,18.98,,,,,,,,,BBKJS,,,,,,,,,,,,,,,,,,"320 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B34BKJS,,1,instock,,yes,18.98,,,,,,,,,BBKJS,,,,,,,,,,,,,,,,,,"340 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B36BKJS,,0,outofstock,,yes,18.98,,,,,,,,,BBKJS,,,,,,,,,,,,,,,,,,"360 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Taekwondo High Kick Figure - Red",taekwondo-high-kick-figure---red,publish,"High Quality Taekwondo Figure. Height 12.5 cm.","High Quality Taekwondo Figure. Height 12.5 cm.",TFHIGHKICKRD,visible,6,instock,no,yes,14.98,,0.35,"https://www.playwell.co.uk/images/reddolltkd.jpg
@@ -6443,14 +6443,14 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,B2R,,153,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2Y,,0,outofstock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2G,,36,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2O,,75091,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2O,,75090,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2P,,75941,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BK,,76172,instock,,yes,4.98,,,,,,,,,B,,,Black,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BU,,75744,instock,,yes,4.98,,,,,,,,,B,,,Blue,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2BR,,76037,instock,,yes,4.98,,,,,,,,,B,,,Brown,,,,,,,,,,,,,,,"220 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4W,,116,instock,,yes,4.98,,,,,,,,,B,,,White,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4R,,290,instock,,yes,4.98,,,,,,,,,B,,,Red,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4Y,,9248,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4Y,,9247,instock,,yes,4.98,,,,,,,,,B,,,Yellow,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4G,,10874,instock,,yes,4.98,,,,,,,,,B,,,Green,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4O,,228,instock,,yes,4.98,,,,,,,,,B,,,Orange,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4P,,74747,instock,,yes,4.98,,,,,,,,,B,,,Purple,,,,,,,,,,,,,,,"250 cm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6625,7 +6625,7 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 ,,publish,,,DUPLICATE45,,30,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Brown Belt - Red Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4RY,,18,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Red Belt - Yellow Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B4OY,,988,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Orange Belt - Yellow Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4GY,,1089,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Green Belt - Yellow Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4GY,,1088,instock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Green Belt - Yellow Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,,,0,outofstock,,yes,4.98,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,"Red Belt - Orange Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Grade Belt: Coloured with Black Stripe",grade-belt:-coloured-with-black-stripe,publish,"<p>100% cotton. Coloured Belts with Black Stripe in the Middle. 250cm. Width of belt 1.75 inches. Colour fast.</p>
@@ -6774,12 +6774,12 @@ https://www.playwell.co.uk/images/BOGRAPHITE2PCTOOTHBLACKYELLOW1_03.jpg
 <p>&nbsp;</p>",B,visible,,,no,,,,0.25,"https://www.playwell.co.uk/images/WHITEBELTCOLOUREDSTRIPENEW.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,"220 cm|250 cm|280 cm|300 cm|320 cm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,DUPLICATE83,,2813,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4WO,,3286,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4WO,,3285,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WO,,3864,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WO,,3910,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WO,,3886,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2WR,,2300,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"220 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B4WR,,2247,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B4WR,,2237,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"250 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B5WR,,3670,instock,,yes,5.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,"280 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B6WR,,3854,instock,,yes,6.19,,,,,,,,,B,,,,,,,,,,,,,,,,,,"300 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B7WR,,3885,instock,,yes,6.33,,,,,,,,,B,,,,,,,,,,,,,,,,,,"320 cm",,,,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6870,7 +6870,7 @@ https://www.playwell.co.uk/images/SPARCOBRAVINTAGE1_07.jpg
 ",taxable,"Standard rate",variable,"Coloured Belts","Coloured Belts",,,,,,,,,,,,,,,,,,,,,,,Blue|Brown|Purple|Black|Yellow|White|Orange|Green|Red,0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHBU,,49,instock,,yes,6.48,,,,,,,,,SASH,,,Blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHBR,,99829,instock,,yes,6.48,,,,,,,,,SASH,,,Brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,SASHP,,99818,instock,,yes,6.48,,,,,,,,,SASH,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,SASHP,,99816,instock,,yes,6.48,,,,,,,,,SASH,,,Purple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHBK,,99775,instock,,yes,6.48,,,,,,,,,SASH,,,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHY,,218,instock,,yes,6.48,,,,,,,,,SASH,,,Yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,SASHW,,28,instock,,yes,6.48,,,,,,,,,SASH,,,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8944,13 +8944,13 @@ https://www.playwell.co.uk/images/newitfstudent1_02.jpg
 https://www.playwell.co.uk/images/newitfstudent1_03.jpg
 https://www.playwell.co.uk/images/newitfstudent1_04.jpg
 ",taxable,"Standard rate",variable,"ITF and Taekwondo Poomes Uniforms","ITF and Taekwondo Poomes Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,000/110cm|00/120cm|0/130cm|1/140cm|2/150cm|00000/90cm|0000/100cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITF000,,6,instock,,yes,29.99,,,,,,,,,ITF,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITF000,,5,instock,,yes,29.99,,,,,,,,,ITF,,,,,,000/110cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF00,,209,instock,,yes,30.82,,,,,,,,,ITF,,,,,,00/120cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITF0,,8,instock,,yes,31.66,,,,,,,,,ITF,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITF1,,24,instock,,yes,31.66,,,,,,,,,ITF,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITF0,,6,instock,,yes,31.66,,,,,,,,,ITF,,,,,,0/130cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITF1,,22,instock,,yes,31.66,,,,,,,,,ITF,,,,,,1/140cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF2,,17,instock,,yes,31.66,,,,,,,,,ITF,,,,,,2/150cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,ITF00000,,0,outofstock,,yes,29.99,,,,,,,,,ITF,,,,,,00000/90cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,ITF0000,,9,instock,,yes,29.99,,,,,,,,,ITF,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,ITF0000,,8,instock,,yes,29.99,,,,,,,,,ITF,,,,,,0000/100cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "ITF Taekwondo Black Belt Suit",itf-taekwondo-black-belt-suit,publish,"<p>65% Poly 35% Cotton. Black belt trim along the bottom of jacket. ITF &quot;tree&quot; on back and ITF on pant. Full embroidery ITF badge on front. Velcro Closure</p>
 
 <p>&nbsp;</p>
@@ -9175,7 +9175,7 @@ https://www.playwell.co.uk/images/dobbykorean1_02.jpg
 https://www.playwell.co.uk/images/dobbykorean1_03.jpg
 ",taxable,"Standard rate",variable,"Taekwondo Uniforms and Trousers","Taekwondo Uniforms and Trousers",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3/160cm|4/170cm|5/180cm|6/190cm|7/200cm|8/210cm,0|1|1,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TP3,,652,instock,,yes,22.98,,,,,,,,,TP,,,,,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TP4,,650,instock,,yes,23.84,,,,,,,,,TP,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TP4,,649,instock,,yes,23.84,,,,,,,,,TP,,,,,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TP5,,0,outofstock,,yes,24.04,,,,,,,,,TP,,,,,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TP6,,49,instock,,yes,25.54,,,,,,,,,TP,,,,,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TP7,,0,outofstock,,yes,25.54,,,,,,,,,TP,,,,,,7/200cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9528,7 +9528,7 @@ https://www.playwell.co.uk/images/tangbluetrim_01.jpg
 ,,publish,,,TSDUBK3,,8,instock,,yes,64.98,,,,,,,,,TSD,,,"White with Black Trim",,,3/160cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBU4,,9,instock,,yes,65.68,,,,,,,,,TSD,,,"White with Blue Trim",,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK4,,516,instock,,yes,65.68,,,,,,,,,TSD,,,"White with Black Trim",,,4/170cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,TSDUBU5,,525,instock,,yes,66.69,,,,,,,,,TSD,,,"White with Blue Trim",,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,TSDUBU5,,524,instock,,yes,66.69,,,,,,,,,TSD,,,"White with Blue Trim",,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK5,,523,instock,,yes,66.69,,,,,,,,,TSD,,,"White with Black Trim",,,5/180cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBU6,,558,instock,,yes,67.53,,,,,,,,,TSD,,,"White with Blue Trim",,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,TSDUBK6,,12,instock,,yes,67.53,,,,,,,,,TSD,,,"White with Black Trim",,,6/190cm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11415,7 +11415,7 @@ https://www.playwell.co.uk/images/backpackessent1_03.jpg
 https://www.playwell.co.uk/images/backpackessent1_04.jpg
 https://www.playwell.co.uk/images/backpackessent1_05.jpg
 ",taxable,"Standard rate",simple,"Sport Gym Bags & BackPacks","Sport Gym Bags & BackPacks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Bokken Plastic Saya:Saya Only",bokken-plastic-saya:saya-only,publish,"<p>Plastic Saya For Bokkens to fit Standard Bokkens with a total Length of 40&quot;. Will only fit Standard bokkens not Thick Bokkens</p>","<p>Plastic Saya For Bokkens to fit Standard Bokkens with a total Length of 40&quot;. Will only fit Standard bokkens not Thick Bokkens</p>",SAYA,visible,654,instock,no,yes,7.99,,0.3,"https://www.playwell.co.uk/images/SAYA.jpg
+"Bokken Plastic Saya:Saya Only",bokken-plastic-saya:saya-only,publish,"<p>Plastic Saya For Bokkens to fit Standard Bokkens with a total Length of 40&quot;. Will only fit Standard bokkens not Thick Bokkens</p>","<p>Plastic Saya For Bokkens to fit Standard Bokkens with a total Length of 40&quot;. Will only fit Standard bokkens not Thick Bokkens</p>",SAYA,visible,651,instock,no,yes,7.99,,0.3,"https://www.playwell.co.uk/images/SAYA.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum Classic Muay Thai Shorts - Dark Camo",venum-classic-muay-thai-shorts---dark-camo,publish,"<p>Venum Classic Muay Thai Shorts Dark Camo</p>
 
@@ -11953,7 +11953,7 @@ https://www.playwell.co.uk/images/DOUBLEBLACK1_02.jpg
 ,,publish,,,B2YBK,,8787,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Black Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2RBK,,8834,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Red Belt - Black Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2WO,,8842,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"White Belt - Orange Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,B2OBU,,8887,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Orange Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,B2OBU,,8886,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Orange Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2YBR,,8887,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Brown Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2YBU,,8508,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Yellow Belt - Blue Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,B2RG,,8840,instock,,yes,4.99,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,"Red Belt - Green Stripes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -13810,7 +13810,7 @@ https://www.playwell.co.uk/images/sparblackvenum1_03.jpg
 <p>&nbsp;</p>",PPNAGI,visible,,,no,,,,20,"https://www.playwell.co.uk/images/PP-NAGINATA-BLACK1.JPG
 https://www.playwell.co.uk/images/PP-NAGINATA-BLACK1_01.JPG
 ",taxable,"Standard rate",variable,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6ft|5ft,0|1|1,,,,,,,,,,
-,,publish,,,PPNAGI72,,46,instock,,yes,69.99,,,,,,,,,PPNAGI,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,PPNAGI72,,45,instock,,yes,69.99,,,,,,,,,PPNAGI,,,,,,6ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,PPNAGI60,,47,instock,,yes,69.99,,,,,,,,,PPNAGI,,,,,,5ft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Rival Boxing Power Precision Paddles - Red",rival-boxing-power-precision-paddles---red,publish,"<p>Complete your set of trainer&rsquo;s tools with the Rival Power Paddles. These mid-sized target paddles offer a high-density punching surface, perfectly designed to combine speed, power and accuracy. Constructed of ultra-resistant materials both inside and out, the Rival Power Paddles can withstand the toughest of workouts!</p>
 
@@ -14299,7 +14299,7 @@ https://www.playwell.co.uk/images/33broadswordin1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",RUBBERGLOCK,visible,88,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
+<p>&nbsp;</p>",RUBBERGLOCK,visible,87,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/newglock1.jpg
 https://www.playwell.co.uk/images/newglock1_01.jpg
 https://www.playwell.co.uk/images/newglock1_02.jpg
 https://www.playwell.co.uk/images/newglock1_03.jpg
@@ -15372,7 +15372,7 @@ https://www.playwell.co.uk/images/DOUBLEBLUE1_02.jpg
 
 4.5 inches.","Martial Arts Embroidered Badges, can be sewn onto suits, trousers. bags and other accessories as you wish,
 
-4.5 inches.",patch52,visible,13,instock,no,yes,3.50,,0.2,"https://www.playwell.co.uk/images/patch52.jpg
+4.5 inches.",patch52,visible,11,instock,no,yes,3.50,,0.2,"https://www.playwell.co.uk/images/patch52.jpg
 ",taxable,"Standard rate",simple,"Other Embroided Patches","Other Embroided Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Senior  Instructor Patch:  P124",senior--instructor-patch:--p124,publish,"Size: 1 x 4 inches.","Size: 1 x 4 inches.",P124,visible,1,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/SENIOR INSTRUCTOR.jpg
 ",taxable,"Standard rate",simple,"Instructor Patches","Instructor Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -17988,7 +17988,7 @@ https://www.playwell.co.uk/images/badprogloves1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",BKCRD,visible,94,instock,no,yes,20.99,,5,"https://www.playwell.co.uk/images/bokkenchildred1.jpg
+<p>&nbsp;</p>",BKCRD,visible,93,instock,no,yes,20.99,,5,"https://www.playwell.co.uk/images/bokkenchildred1.jpg
 https://www.playwell.co.uk/images/bokkenchildred1_01.jpg
 https://www.playwell.co.uk/images/bokkenchildred1_02.jpg
 ",taxable,"Standard rate",simple,"Wooden Swords, Tantos, Shotos","Wooden Swords, Tantos, Shotos",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -18228,7 +18228,7 @@ https://www.playwell.co.uk/images/NEWKUNAIPIC1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPSAI,visible,55,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/ppnewmodelsai.jpg
+<p>&nbsp;</p>",PPSAI,visible,54,instock,no,yes,17.99,,0.35,"https://www.playwell.co.uk/images/ppnewmodelsai.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Long Metal Training Knife : ( D326 )",long-metal-training-knife-:-(-d326-),publish,"<p>Blunt Machete knife measuring 24.5cm length.&nbsp;&nbsp;Made of Galavinsed Aluminium, and anodised for a smooth finish. Blade is totally blunt with very smooth finish.</p>
 
@@ -19763,7 +19763,7 @@ Sold as a pair",SANDBHBLUEK2.5M,visible,6,instock,no,yes,9.98,,0.3,"https://www.
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPJO,visible,50,instock,no,yes,24.99,,18,"https://www.playwell.co.uk/images/0024.jpg
+<p>&nbsp;</p>",PPJO,visible,49,instock,no,yes,24.99,,18,"https://www.playwell.co.uk/images/0024.jpg
 https://www.playwell.co.uk/images/0024_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Competition Steel Bamboo Striped Kama - 12""",competition-steel-bamboo-striped-kama---12&quot;,publish,"<p>Competition Grade Kamas, made from&nbsp;Natural&nbsp;&nbsp;Purple Heart&nbsp;Wood, Total&nbsp; Handle Length is 12&quot;&nbsp; Features Polished Steel Blade, And Hand Grip Design on handles,</p>
@@ -21298,7 +21298,7 @@ https://www.playwell.co.uk/images/budokanji1_03.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBO60,visible,46,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/0024.jpg
+<p>&nbsp;</p>",PPBO60,visible,45,instock,no,yes,27.99,,18,"https://www.playwell.co.uk/images/0024.jpg
 https://www.playwell.co.uk/images/0024_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Venum G-Fit Air MMA Short Sleeve Rashguard - Urban Camo",venum-g-fit-air-mma-short-sleeve-rashguard---urban-camo,publish,"<p>Venum G-Fit Air MMA Short Sleeve Rashguard Urban Camo</p>
@@ -21563,7 +21563,7 @@ https://www.playwell.co.uk/images/MMAKNEEBLACK1_03.jpg
 <p>&nbsp;</p>
 </div>
 
-<div>&nbsp;</div>",PPTKCLASSIC,visible,70,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/CLASSICKNIFENEW.jpg
+<div>&nbsp;</div>",PPTKCLASSIC,visible,69,instock,no,yes,9.98,,0.35,"https://www.playwell.co.uk/images/CLASSICKNIFENEW.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "TPR Rubber ""Rifle"" Training Knife",tpr-rubber-&quot;rifle&quot;-training-knife,publish,"<div>Now you can practice with some of our most popular knife designs, in relative safety, with our new rubber training knives. I, Each has been carefully fashioned to look as realistic as possible so they can be effectively used in solo practice, training drills, disarm drills, and demonstrations and any other activity where you want a reasonably close approximation of realism but not the extreme danger and risk associated with an actual knife.</div>
 
@@ -23502,7 +23502,7 @@ Cold Steel&#39;s solution to these dilemmas was to design a synthetic substitute
 
 <div>&nbsp;</div>",KARUNIPF,visible,42,instock,no,yes,12.99,,0.35,"https://www.playwell.co.uk/images/KARATEUNIFRAME.jpg
 ",taxable,"Standard rate",simple,"Martial Arts Gifts","Martial Arts Gifts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"UK Flag Patch 47",uk-flag-patch-47,publish,"<p>2 inches x 3 inches.</p>","<p>2 inches x 3 inches.</p>",P47,visible,139,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/ukflagpatch.jpg
+"UK Flag Patch 47",uk-flag-patch-47,publish,"<p>2 inches x 3 inches.</p>","<p>2 inches x 3 inches.</p>",P47,visible,129,instock,no,yes,2.55,,0.2,"https://www.playwell.co.uk/images/ukflagpatch.jpg
 ",taxable,"Standard rate",simple,"Country Flag Patches","Country Flag Patches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Official Adults  Choi Kwang Do All White Students Uniform",official-adults--choi-kwang-do-all-white-students-uniform,publish,"<p>Students White Choi Kwang Do Uniform. Made from Polycotton. 65% Poly, 35% Cotton.</p>
 
@@ -26819,7 +26819,7 @@ The Spear Head Trainer has been carefully fashioned to look as realistic as poss
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>",PPSPEARHEAD,visible,60,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/TPR-Spear-head-Trainer.jpg
+<div>&nbsp;</div>",PPSPEARHEAD,visible,59,instock,no,yes,19.98,,0.35,"https://www.playwell.co.uk/images/TPR-Spear-head-Trainer.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "British Cannabis - 100% Pure Cannabis CBD Oil - 500mg",british-cannabis---100%-pure-cannabis-cbd-oil---500mg,publish,"<p>CBD by BRITISH CANNABIS&trade; Cannabis CBD Oil is our best tasting and best-selling CBD oil supplement, its highly refined formula meets the exacting standards required by pharmacists and healthcare professionals. Perfect for all users.<br />
 <br />
@@ -27223,7 +27223,7 @@ https://www.playwell.co.uk/images/silverpantsblack1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBKS,visible,893,instock,no,yes,22.98,,1,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
+<p>&nbsp;</p>",PPBKS,visible,892,instock,no,yes,22.98,,1,"https://www.playwell.co.uk/images/bokkenscabbardnew1.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_01.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_02.jpg
 https://www.playwell.co.uk/images/bokkenscabbardnew1_03.jpg
@@ -28080,7 +28080,7 @@ https://www.playwell.co.uk/images/boblack_01.gif
 
 <p>&nbsp;</p>
 
-<p style=""margin: 0px;"">&nbsp;</p>",PPGLADIUSV2,visible,86,instock,no,yes,32.99,,0.85,"https://www.playwell.co.uk/images/v2glasdiusnew1.jpg
+<p style=""margin: 0px;"">&nbsp;</p>",PPGLADIUSV2,visible,85,instock,no,yes,32.99,,0.85,"https://www.playwell.co.uk/images/v2glasdiusnew1.jpg
 https://www.playwell.co.uk/images/v2glasdiusnew1_01.jpg
 https://www.playwell.co.uk/images/v2glasdiusnew1_02.jpg
 https://www.playwell.co.uk/images/v2glasdiusnew1_03.jpg
@@ -29536,7 +29536,7 @@ https://www.playwell.co.uk/images/kwansolidblade_01.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPGLADIUSV1,visible,66,instock,no,yes,32.99,,0.85,"https://www.playwell.co.uk/images/v1gladius1.jpg
+<p>&nbsp;</p>",PPGLADIUSV1,visible,65,instock,no,yes,32.99,,0.85,"https://www.playwell.co.uk/images/v1gladius1.jpg
 https://www.playwell.co.uk/images/v1gladius1_01.jpg
 https://www.playwell.co.uk/images/v1gladius1_02.jpg
 https://www.playwell.co.uk/images/v1gladius1_03.jpg
@@ -33416,7 +33416,7 @@ https://www.playwell.co.uk/images/Venum-Challenge-4.0-Boxing-Gloves-Black-Black_
 <p>&nbsp;</p>",IUJUDO,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/babyjudogi.jpg
 ",taxable,"Standard rate",variable,"Judo Uniforms","Judo Uniforms",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1 - 2 Years|6 - 12 Months",0|1|1,,,,,,,
 ,,publish,,,IUJUDO12,,0,outofstock,,yes,17.99,,,,,,,,,IUJUDO,,,,,,"1 - 2 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,IUJUDO612,,33,instock,,yes,17.99,,,,,,,,,IUJUDO,,,,,,"6 - 12 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,IUJUDO612,,32,instock,,yes,17.99,,,,,,,,,IUJUDO,,,,,,"6 - 12 Months",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Spear Tassell",wushu-spear-tassell,publish,"<p>This synthetic fur / tassel is for tying to training weapons, e.g. spear. Red in colour.</p>","<p>This synthetic fur / tassel is for tying to training weapons, e.g. spear. Red in colour.</p>",WUSHUTASS,visible,0,outofstock,no,yes,3.50,,0.35,"https://www.playwell.co.uk/images/Spear-Tassel.jpg
 ",taxable,"Standard rate",simple,"Wu Shu Weapons","Wu Shu Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Tai Chi Sword Tassell  - Red",deluxe-tai-chi-sword-tassell----red,publish,"<p>It is a great gift with Chinese characteristic. If you like Chinese Tai Chi or Kung Fu, this would be a good decoration. It can be used for Tai Chi or Kung Fu Sword, gentle and beautiful. High materials and exquisite craft make the tassels more elegant. It is excellent in quality and reasonable in price absolutely. It must be your best choice, and what are you waiting for? FEATURES The perfect tassels ornament for the Tai Chi sword and durable in use Make your sword out of the ordinary with this tassels ornament You can take this designer tassels ornament as a unique decoration or a special gift Featuring a special silk and fashionable design Tassels designed ornament features faultless detail and wonderful workmanship Specifications Material Iced Wires Total Length 50CM / 33CM Color Red Knot Diameter 3cm</p>","<p>It is a great gift with Chinese characteristic. If you like Chinese Tai Chi or Kung Fu, this would be a good decoration. It can be used for Tai Chi or Kung Fu Sword, gentle and beautiful. High materials and exquisite craft make the tassels more elegant. It is excellent in quality and reasonable in price absolutely. It must be your best choice, and what are you waiting for? FEATURES The perfect tassels ornament for the Tai Chi sword and durable in use Make your sword out of the ordinary with this tassels ornament You can take this designer tassels ornament as a unique decoration or a special gift Featuring a special silk and fashionable design Tassels designed ornament features faultless detail and wonderful workmanship Specifications Material Iced Wires Total Length 50CM / 33CM Color Red Knot Diameter 3cm</p>",TCTASS,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/50cm-Tassels-for-Tai-Chi-or-Kung-Fu-Sword-Red_600x600.jpg
@@ -33671,8 +33671,8 @@ https://www.playwell.co.uk/images/vinylbokkencase1_03.jpg
 <strong>Sold as Singles </strong></p>",OPROSNAPFITBK,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/oprosnapblack1.jpg
 https://www.playwell.co.uk/images/oprosnapblack1_01.jpg
 ",taxable,"Standard rate",variable,"Boxing Wraps & MouthGuards","Boxing Wraps & MouthGuards",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Junior|Senior,0|1|1,,,,,,,
-,,publish,,,OPROSNAPFITBKJR,,18,instock,,yes,4.99,,,,,,,,,OPROSNAPFITBK,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,OPROSNAPFITBKSR,,83,instock,,yes,4.99,,,,,,,,,OPROSNAPFITBK,,,,,,Senior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,OPROSNAPFITBKJR,,16,instock,,yes,4.99,,,,,,,,,OPROSNAPFITBK,,,,,,Junior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,OPROSNAPFITBKSR,,81,instock,,yes,4.99,,,,,,,,,OPROSNAPFITBK,,,,,,Senior,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Childrens Boxing Full Face Head Guard -  Black/Red - XXS",childrens-boxing-full-face-head-guard----black/red---xxs,publish,"<p>Junior kids headguard in size&nbsp; XXS</p>
 
 <p>&nbsp;</p>
@@ -34805,7 +34805,7 @@ Colour: Black</p>
 ,,publish,,,FSDAFUW33,,0,outofstock,,yes,22.98,,,,,,,,,FSDAFUW,,,,,,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSDAFUW38,,19,instock,,yes,22.98,,,,,,,,,FSDAFUW,,,,,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,FSDAFUW41,,14,instock,,yes,22.98,,,,,,,,,FSDAFUW,,,,,,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,FSDAFUW42,,35,instock,,yes,22.98,,,,,,,,,FSDAFUW,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,FSDAFUW42,,31,instock,,yes,22.98,,,,,,,,,FSDAFUW,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Large Weapons Bokken / Swords Carrying Bag - 45 inches - PRE ORD",large-weapons-bokken-/-swords-carrying-bag---45-inches---pre-ord,publish,"<p>Designed for the martial artist who needs to carry bokkens, shinais, &amp;&nbsp;broadsword etc. Plus a side pocket for training knives. Made from an ultra thick &amp; very strong Material that will not tear. Other features include a strong adjustable carrying strap, reinforced bag base &amp; your own identity card inserted into a clear plastic pocket. Velcro Closure. Available in 3 sizes. Please note that sizes sated are weapons sizes cases will be 4 inches longer width of the case: appx 18cm Depth: 5 cm</p>
 
 <div>&nbsp;</div>
@@ -36767,7 +36767,7 @@ https://www.playwell.co.uk/images/redcamobag1_02.jpg
 			<td>35 cm</td>
 		</tr>
 	</tbody>
-</table>",FAIRTEXBAGBLACK,visible,1,instock,no,yes,79.99,,1,"https://www.playwell.co.uk/images/fairtexbagblack1.jpg
+</table>",FAIRTEXBAGBLACK,visible,0,outofstock,no,yes,79.99,,1,"https://www.playwell.co.uk/images/fairtexbagblack1.jpg
 https://www.playwell.co.uk/images/fairtexbagblack1_01.jpg
 https://www.playwell.co.uk/images/fairtexbagblack1_02.jpg
 https://www.playwell.co.uk/images/fairtexbagblack1_03.jpg
@@ -37314,7 +37314,7 @@ https://www.playwell.co.uk/images/kravboxhead1_01.jpg
 <p>&nbsp;</p>",BGPMAKIDSEV,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/KIDSNEWELITEGLOVES1.jpg
 https://www.playwell.co.uk/images/KIDSNEWELITEGLOVES1_01.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4 oz",0|1|1,,,,,,,
-,,publish,,,"	BGPMAKIDSEV4",,20,instock,,yes,14.99,,,,,,,,,BGPMAKIDSEV,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	BGPMAKIDSEV4",,19,instock,,yes,14.99,,,,,,,,,BGPMAKIDSEV,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Elite Leather Classic Camo Boxing Gloves",elite-leather-classic-camo-boxing-gloves,publish,"<p>velcro boxing gloves are designed for maximum hand and wrist protection during training sessions. Great all-round use gloves ideal for use on pads, bags and for sparring.</p>
 
 <p>Attached thumb design for safety and to protect from injuries.</p>
@@ -38068,7 +38068,7 @@ https://www.playwell.co.uk/images/venumeliteredshoes1_05.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",PPBARONG,visible,50,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/BARONGSWORD.jpg
+<p>&nbsp;</p>",PPBARONG,visible,46,instock,no,yes,18.98,,0.35,"https://www.playwell.co.uk/images/BARONGSWORD.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fairtex BGV1 Red Universal Leather Boxing Gloves",fairtex-bgv1-red-universal-leather-boxing-gloves,publish,"<p>Ergonomically engineered with a unique contoured and tight-fit hand compartment design to provide a secure and snug fit.</p>
 
@@ -40302,7 +40302,7 @@ https://www.playwell.co.uk/images/elitebag1_02.jpg
 
 <p>Weight&nbsp; - 370g</p>
 
-<p>&nbsp;</p>",celticsword,visible,83,instock,no,yes,22.98,,1,"https://www.playwell.co.uk/images/newceltic1.jpg
+<p>&nbsp;</p>",celticsword,visible,82,instock,no,yes,22.98,,1,"https://www.playwell.co.uk/images/newceltic1.jpg
 https://www.playwell.co.uk/images/newceltic1_01.jpg
 https://www.playwell.co.uk/images/newceltic1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42041,7 +42041,7 @@ https://www.playwell.co.uk/images/balicki_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",GUNM013,visible,23,instock,no,yes,16.98,,0.35,"https://www.playwell.co.uk/images/newrevolver1.jpg
+<p>&nbsp;</p>",GUNM013,visible,22,instock,no,yes,16.98,,0.35,"https://www.playwell.co.uk/images/newrevolver1.jpg
 https://www.playwell.co.uk/images/newrevolver1_01.jpg
 https://www.playwell.co.uk/images/newrevolver1_02.jpg
 https://www.playwell.co.uk/images/newrevolver1_03.jpg
@@ -48738,7 +48738,7 @@ https://www.playwell.co.uk/images/Tatami_WorldFamous_Shorts-4_03.jpg
 
 <div>Available in Black,</div>","<p>For professional and advanced boxing these handwraps are mandatory to protect your hands. 4 meters Length, Sold as Pairs</p>
 
-<div>Available in Black,</div>",VBHBR,visible,4,instock,no,yes,8.98,,0.35,"https://www.playwell.co.uk/images/boxing_handwraps_4m__black_1500_01__11015.1528379491.jpg
+<div>Available in Black,</div>",VBHBR,visible,0,outofstock,no,yes,8.98,,0.35,"https://www.playwell.co.uk/images/boxing_handwraps_4m__black_1500_01__11015.1528379491.jpg
 ",taxable,"Standard rate",simple,"Venum MMA Shorts & Clothing","Venum MMA Shorts & Clothing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Adidas Speed 50 Boxing Gloves 2026  - Black",adidas-speed-50-boxing-gloves-2026----black,publish,"Made from durable PU
 Designed to optimise speed and performance
@@ -49101,7 +49101,7 @@ https://www.playwell.co.uk/images/kidsmuayshorts1_01.jpg
 https://www.playwell.co.uk/images/kidsmuayshorts1_02.jpg
 ",taxable,"Standard rate",variable,"Kickboxing & Muay Thai Shorts","Kickboxing & Muay Thai Shorts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small|Medium|Large,0|1|1,,,,,,,
 ,,publish,,,kidsmuaythaishortss,,0,outofstock,,yes,17.99,,,,,,,,,kidsmuaythaishorts,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,kidsmuaythaishortsm,,11,instock,,yes,17.99,,,,,,,,,kidsmuaythaishorts,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,kidsmuaythaishortsm,,10,instock,,yes,17.99,,,,,,,,,kidsmuaythaishorts,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,kidsmuaythaishortsl,,13,instock,,yes,17.99,,,,,,,,,kidsmuaythaishorts,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Sandee Blue Traditional Ankle Supports",sandee-blue-traditional-ankle-supports,publish,"<p>A pair of authentic, professional SANDEE ankle supports for protection &amp; comfort and a &lsquo;must have&rsquo; item for every combat sports athlete.</p>
 
@@ -49160,7 +49160,7 @@ https://www.playwell.co.uk/images/PRESS1_02.jpg
 
 <p>&nbsp;</p>","<p>Tonfas made from Polypropylene Material Much stronger &amp; Durable then Steel Sais, Lightweight Yet Sturdy. Total Length of Tonfa is 20 Inches on the blade Sold As pairs Can be used for Light And Semi Contact Sparring. Polypropylene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available , they have the advantages of being virtually unbreakable and remarkably stiff and cut resistant. SOLD AS PAIRS</p>
 
-<p>&nbsp;</p>",pptonfapair,visible,46,instock,no,yes,21.99,,1,"https://www.playwell.co.uk/images/pptonfapair.jpg
+<p>&nbsp;</p>",pptonfapair,visible,45,instock,no,yes,21.99,,1,"https://www.playwell.co.uk/images/pptonfapair.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Deluxe Ultimate Martial Arts  Knee Pads - White",deluxe-ultimate-martial-arts--knee-pads---white,publish,"<p>Premium Grade Quality Knee Pads, Moulded Polyurethane foam is covered with felt to provide excellent padding. One-piece contour construction provides comfort and better fit. Thick Foam Padding, Provides the best possible Protection. Machine washable. These Knee Pads Protect the sides of the Knees aswell, Sold As Pairs</p>
 
@@ -60583,7 +60583,7 @@ Most competitions now require you to be protected and safe so having a good qual
 This female groin guard comes in the colour white and has an elasticated waistband with a PU cover.</p>",tusahfemalegroin,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/tusahladiesgroin1.jpg
 https://www.playwell.co.uk/images/tusahladiesgroin1_01.jpg
 ",taxable,"Standard rate",variable,"WT Approved Taekwondo Protective Equipment","WT Approved Taekwondo Protective Equipment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"X - Small|Small|Medium|Large",0|1|1,,,,,,,
-,,publish,,,"	tusahfemalegroinxs",,5,instock,,yes,13.98,,,,,,,,,tusahfemalegroin,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	tusahfemalegroinxs",,4,instock,,yes,13.98,,,,,,,,,tusahfemalegroin,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	tusahfemalegroins",,1,instock,,yes,13.98,,,,,,,,,tusahfemalegroin,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	tusahfemalegroinm",,1,instock,,yes,13.98,,,,,,,,,tusahfemalegroin,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	tusahfemalegroinl",,4,instock,,yes,13.98,,,,,,,,,tusahfemalegroin,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -60884,7 +60884,7 @@ https://www.playwell.co.uk/images/NEWLIGHTESCRIMA1_01.jpg
 https://www.playwell.co.uk/images/NEWLIGHTESCRIMA1_02.jpg
 https://www.playwell.co.uk/images/NEWLIGHTESCRIMA1_03.jpg
 ",taxable,"Standard rate",variable,Headguards,Headguards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Large|X - Large|Small|Medium",0|1|1,,,,,,,
-,,publish,,,EHGLIGHTNEWL,,10,instock,,yes,54.99,,,,,,,,,EHGLIGHTNEW,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,EHGLIGHTNEWL,,5,instock,,yes,54.99,,,,,,,,,EHGLIGHTNEW,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHGLIGHTNEWXL,,10,instock,,yes,54.99,,,,,,,,,EHGLIGHTNEW,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHGLIGHTNEWS,,0,outofstock,,yes,54.99,,,,,,,,,EHGLIGHTNEW,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,EHGLIGHTNEWM,,10,instock,,yes,54.99,,,,,,,,,EHGLIGHTNEW,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -64445,7 +64445,7 @@ These unimaginably strong Bats wont rot, crack, or splinter or even fade! You ne
 
 <p>Total Length: 9.8 Inches&nbsp;</p>
 
-<p>Weight: 98g</p>",ppdartnew,visible,45,instock,no,yes,10.78,,0.35,"https://www.playwell.co.uk/images/ppropedart1.jpg
+<p>Weight: 98g</p>",ppdartnew,visible,44,instock,no,yes,10.78,,0.35,"https://www.playwell.co.uk/images/ppropedart1.jpg
 https://www.playwell.co.uk/images/ppropedart1_01.jpg
 https://www.playwell.co.uk/images/ppropedart1_02.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -64666,7 +64666,7 @@ https://www.playwell.co.uk/images/Scramble-Kintsugi-Short-Sleeve-Rashguard-Blue_
 
 <p>Head - 34cmx20cm;13.4&quot;x7.9&quot;</p>
 
-<p>Weight&nbsp; - 200g&nbsp;</p>",PPS036,visible,8,instock,no,yes,34.98,,0.35,"https://www.playwell.co.uk/images/Japanese-Cross-Spear.jpg
+<p>Weight&nbsp; - 200g&nbsp;</p>",PPS036,visible,7,instock,no,yes,34.98,,0.35,"https://www.playwell.co.uk/images/Japanese-Cross-Spear.jpg
 https://www.playwell.co.uk/images/Japanese-Cross-Spear_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Full Contact Japanese Cross Head With Stick",black-polypropylene-full-contact-japanese-cross-head-with-stick,publish,"<p>Playwell is happy to Introduce exclusivley the&nbsp;Latest Lines of 2&nbsp;In 1 Long Pole &nbsp;Polypropylene Weapons&nbsp; in Europe.</p>
@@ -65234,10 +65234,10 @@ https://www.playwell.co.uk/images/WOLFB1_02.jpg
 https://www.playwell.co.uk/images/WOLFB1_03.jpg
 https://www.playwell.co.uk/images/WOLFB1_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"8 oz|6 oz|10 oz|4 oz",0|1|1,,,,,,,
-,,publish,,,8WEAPONSKIDSWOLFBG8,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSWOLFBG6,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSWOLFBG10,,1,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSWOLFBG4,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFBG8,,6,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFBG6,,6,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFBG10,,6,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFBG4,,5,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSWOLFBG,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "8 Weapons Kids Muay Thai Boxing Gloves  - Bestial Panther",8-weapons-kids-muay-thai-boxing-gloves----bestial-panther,publish,"<p>8 Weapons Kids Muay Thai Boxing Gloves</p>
 
 <p>The 8 Weapons Kids Muay Thai gloves are available in 4oz and 6oz sizes specifically designed for children aged between 4-10 years old.</p>
@@ -65272,9 +65272,9 @@ https://www.playwell.co.uk/images/PANTHER1_02.jpg
 https://www.playwell.co.uk/images/PANTHER1_03.jpg
 https://www.playwell.co.uk/images/PANTHER1_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"6 oz|8 oz|10 oz|4 oz",0|1|1,,,,,,,
-,,publish,,,8WEAPONSKIDSPANTHERBG6,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSPANTHERBG8,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSPANTHERBG10,,1,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSPANTHERBG6,,6,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSPANTHERBG8,,5,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSPANTHERBG10,,6,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"10 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,8WEAPONSKIDSPANTHERBG4,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSPANTHERBG,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "8 Weapons Strike Muay Thai Shorts - Black",8-weapons-strike-muay-thai-shorts---black,publish,"<p>8 Weapons Strike Muay Thai Shorts Black</p>
 
@@ -73130,7 +73130,7 @@ https://www.playwell.co.uk/images/newthorhammer1_02.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>",deathspearhead,visible,33,instock,no,yes,49.98,,6,"https://www.playwell.co.uk/images/newkamasicklestick1.jpg
+<p>&nbsp;</p>",deathspearhead,visible,32,instock,no,yes,49.98,,15,"https://www.playwell.co.uk/images/newkamasicklestick1.jpg
 https://www.playwell.co.uk/images/newkamasicklestick1_01.jpg
 ",taxable,"Standard rate",simple,"Rubber/Foam/Plastic Weapons","Rubber/Foam/Plastic Weapons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Black Polypropylene Orcrist Sword",black-polypropylene-orcrist-sword,publish,"<p>Orcrist was an Elven sword, the mate of Glamdring. It had a decorated scabbard and a jewelled hilt. Like Glamdring and Sting, the blade could detect the presence of Orcs and warn its bearer by glowing blue. High Quality Replica Sword Made From Polypropylene, Polypropelene Is virtually A unbreakable Material Which Makes These Training Weapons The Best Available</p>
@@ -75787,7 +75787,7 @@ https://www.playwell.co.uk/images/PLAINBLACKTIGERSHORTS1_03.jpg
 ,,publish,,,twintigershortsblackxs,,2,instock,,yes,24.99,,,,,,,,,twintigershortsblack,,,,,,"X - Small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigershortsblacks,,0,outofstock,,yes,24.99,,,,,,,,,twintigershortsblack,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigershortsblackm,,0,outofstock,,yes,24.99,,,,,,,,,twintigershortsblack,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,twintigershortsblackl,,1,instock,,yes,24.99,,,,,,,,,twintigershortsblack,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,twintigershortsblackl,,0,outofstock,,yes,24.99,,,,,,,,,twintigershortsblack,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigershortsblackxl,,0,outofstock,,yes,24.99,,,,,,,,,twintigershortsblack,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Twin Tiger Satin Muay Thai Competition Fight Shorts  - White",twin-tiger-satin-muay-thai-competition-fight-shorts----white,publish,"<p>New Twin Tiger Muay Thai Shorts, Suitable for Both Competition and Training, Made from Premium Quality Satin Materials,</p>
 
@@ -75798,7 +75798,7 @@ https://www.playwell.co.uk/images/PLAINWHITETIGERSHORTS1_01.jpg
 https://www.playwell.co.uk/images/PLAINWHITETIGERSHORTS1_02.jpg
 https://www.playwell.co.uk/images/PLAINWHITETIGERSHORTS1_03.jpg
 ",taxable,"Standard rate",variable,"Kickboxing & Muay Thai Shorts","Kickboxing & Muay Thai Shorts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small|Medium|Large|X - Large",0|1|1,
-,,publish,,,twintigershortswhites,,48,instock,,yes,24.99,,,,,,,,,twintigershortswhite,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,twintigershortswhites,,47,instock,,yes,24.99,,,,,,,,,twintigershortswhite,,,,,,Small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigershortswhitem,,50,instock,,yes,24.99,,,,,,,,,twintigershortswhite,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigershortswhitel,,49,instock,,yes,24.99,,,,,,,,,twintigershortswhite,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,twintigershortswhitexl,,50,instock,,yes,24.99,,,,,,,,,twintigershortswhite,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -82263,10 +82263,10 @@ https://www.playwell.co.uk/images/JENNY1_02.jpg
 https://www.playwell.co.uk/images/JENNY1_03.jpg
 https://www.playwell.co.uk/images/JENNY1_04.jpg
 ",taxable,"Standard rate",variable,"Boxing Gloves","Boxing Gloves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2 oz|4 oz|6 oz|8 oz",0|1|1,
-,,publish,,,8WEAPONSKIDSJENNBG2,,2,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"2 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSJENNBG4,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSJENNBG6,,0,outofstock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSJENNBG8,,2,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSJENNBG2,,4,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"2 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSJENNBG4,,3,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"4 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSJENNBG6,,4,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"6 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSJENNBG8,,6,instock,,yes,29.99,,,,,,,,,8WEAPONSKIDSJENNBG,,,,,,,,,"8 oz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "8 Weapons Kids Jenny Pink Muay Thai Shorts",8-weapons-kids-jenny-pink-muay-thai-shorts,publish,"The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination – perfect for young fighters who want to show confidence during training or sparring.
 The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions.
 
@@ -82307,82 +82307,18 @@ https://www.playwell.co.uk/images/JENNYSHORTS1_03.jpg
 ,,publish,,,"	kidsjennyshorts3",,2,instock,,yes,34.98,,,,,,,,,kidsjennyshorts,,,,,,"3-4 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	kidsjennyshorts4",,2,instock,,yes,34.98,,,,,,,,,kidsjennyshorts,,,,,,"4-6 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	kidsjennyshorts6",,0,outofstock,,yes,34.98,,,,,,,,,kidsjennyshorts,,,,,,"6-8 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"8 Weapons Kids Bestial Wolf Muay Thai Shorts - Black/Red",8-weapons-kids-bestial-wolf-muay-thai-shorts---black/red,publish,"The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination – perfect for young fighters who want to show confidence during training or sparring.
-The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions.
-
-Product Features:
-Specifically developed for kids
-Eye-catching Beastial design (Panther / Viper / Wolf)
-Lightweight, durable material
-Wide elastic waistband for a secure fit
-Side slits for maximum freedom of movement when kicking
-Ideal for Muay Thai, kickboxing and training
-
-
-Material & Care Instructions:
-Material compostion: 100% polyester
-Machine wash up to 30°C
-Do not tumble dry
-Wash inside out to protect the print","The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination – perfect for young fighters who want to show confidence during training or sparring.
-The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions.
-
-Product Features:
-Specifically developed for kids
-Eye-catching Beastial design (Panther / Viper / Wolf)
-Lightweight, durable material
-Wide elastic waistband for a secure fit
-Side slits for maximum freedom of movement when kicking
-Ideal for Muay Thai, kickboxing and training
-
-
-Material & Care Instructions:
-Material compostion: 100% polyester
-Machine wash up to 30°C
-Do not tumble dry
-Wash inside out to protect the print",kidswolfshorts,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/wolfshorts1.jpg
+"8 Weapons Kids Bestial Wolf Muay Thai Shorts - Black/Red",8-weapons-kids-bestial-wolf-muay-thai-shorts---black/red,publish,"<p>The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination &ndash; perfect for young fighters who want to show confidence during training or sparring. The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions. Product Features: Specifically developed for kids Eye-catching Beastial design (Panther / Viper / Wolf) Lightweight, durable material Wide elastic waistband for a secure fit Side slits for maximum freedom of movement when kicking Ideal for Muay Thai, kickboxing and training Material &amp; Care Instructions: Material compostion: 100% polyester Machine wash up to 30&deg;C Do not tumble dry Wash inside out to protect the print</p>","<p>The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination &ndash; perfect for young fighters who want to show confidence during training or sparring. The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions. Product Features: Specifically developed for kids Eye-catching Beastial design (Panther / Viper / Wolf) Lightweight, durable material Wide elastic waistband for a secure fit Side slits for maximum freedom of movement when kicking Ideal for Muay Thai, kickboxing and training Material &amp; Care Instructions: Material compostion: 100% polyester Machine wash up to 30&deg;C Do not tumble dry Wash inside out to protect the print</p>",kidswolfshorts,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/wolfshorts1.jpg
 ",taxable,"Standard rate",variable,"Kickboxing & Muay Thai Shorts","Kickboxing & Muay Thai Shorts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4-6 Years|6-8 Years|8-10 Years|10 - 12 Years|12- 14 years",0|1|1,
-,,publish,,,"	kidswolfshorts4",,0,outofstock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"4-6 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	kidswolfshorts6",,0,outofstock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"6-8 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	kidswolfshorts8",,0,outofstock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"8-10 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	kidswolfshorts4",,3,instock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"4-6 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	kidswolfshorts6",,5,instock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"6-8 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	kidswolfshorts8",,5,instock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"8-10 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	kidswolfshorts10",,7,instock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"10 - 12 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	kidswolfshorts12",,0,outofstock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"12- 14 years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"8 Weapons Kids Bestial Panther Muay Thai Shorts - Black/Purple",8-weapons-kids-bestial-panther-muay-thai-shorts---black/purple,publish,"The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination – perfect for young fighters who want to show confidence during training or sparring.
-The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions.
-
-Product Features:
-Specifically developed for kids
-Eye-catching Beastial design (Panther / Viper / Wolf)
-Lightweight, durable material
-Wide elastic waistband for a secure fit
-Side slits for maximum freedom of movement when kicking
-Ideal for Muay Thai, kickboxing and training
-
-
-Material & Care Instructions:
-Material compostion: 100% polyester
-Machine wash up to 30°C
-Do not tumble dry
-Wash inside out to protect the print","The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination – perfect for young fighters who want to show confidence during training or sparring.
-The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions.
-
-Product Features:
-Specifically developed for kids
-Eye-catching Beastial design (Panther / Viper / Wolf)
-Lightweight, durable material
-Wide elastic waistband for a secure fit
-Side slits for maximum freedom of movement when kicking
-Ideal for Muay Thai, kickboxing and training
-
-
-Material & Care Instructions:
-Material compostion: 100% polyester
-Machine wash up to 30°C
-Do not tumble dry
-Wash inside out to protect the print",kidspanthershorts,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/panthershorts.jpg
+,,publish,,,"	kidswolfshorts12",,1,instock,,yes,34.99,,,,,,,,,kidswolfshorts,,,,,,"12- 14 years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"8 Weapons Kids Bestial Panther Muay Thai Shorts - Black/Purple",8-weapons-kids-bestial-panther-muay-thai-shorts---black/purple,publish,"<p>The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination &ndash; perfect for young fighters who want to show confidence during training or sparring. The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions. Product Features: Specifically developed for kids Eye-catching Beastial design (Panther / Viper / Wolf) Lightweight, durable material Wide elastic waistband for a secure fit Side slits for maximum freedom of movement when kicking Ideal for Muay Thai, kickboxing and training Material &amp; Care Instructions: Material compostion: 100% polyester Machine wash up to 30&deg;C Do not tumble dry Wash inside out to protect the print</p>","<p>The 8 WEAPONS Beastial Muay Thai Shorts for kids are inspired by the powerful animal designs Panther, Viper and Wolf. They stand for strength, speed and determination &ndash; perfect for young fighters who want to show confidence during training or sparring. The shorts were specifically designed for Muay Thai and kickboxing and offer maximum freedom of movement for kicks, knees and fast combinations. The lightweight, durable material ensures high wearing comfort and withstands even intense training sessions. Product Features: Specifically developed for kids Eye-catching Beastial design (Panther / Viper / Wolf) Lightweight, durable material Wide elastic waistband for a secure fit Side slits for maximum freedom of movement when kicking Ideal for Muay Thai, kickboxing and training Material &amp; Care Instructions: Material compostion: 100% polyester Machine wash up to 30&deg;C Do not tumble dry Wash inside out to protect the print</p>",kidspanthershorts,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/panthershorts.jpg
 ",taxable,"Standard rate",variable,"Kickboxing & Muay Thai Shorts","Kickboxing & Muay Thai Shorts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4-6 Years|6-8 Years|8-10 Years|10 - 12 Years|12- 14 years",0|1|1,
-,,publish,,,kidspanthershorts4,,0,outofstock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"4-6 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,kidspanthershorts4,,3,instock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"4-6 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,kidspanthershorts6,,1,instock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"6-8 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,kidspanthershorts8,,0,outofstock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"8-10 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,kidspanthershorts8,,4,instock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"8-10 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,kidspanthershorts10,,1,instock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"10 - 12 Years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,kidspanthershorts12,,2,instock,,yes,34.99,,,,,,,,,kidspanthershorts,,,,,,"12- 14 years",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Fairtex FGV15 MMA Leather 7oz Sparring Gloves -  Red",fairtex-fgv15-mma-leather-7oz-sparring-gloves----red,publish,"<p>Engineered with extra-thick pre-curved high impact latex foam core for the ultimate impact absorption and to protect against training injuries. Made of premium leather with open palm design and double wrist wrap hook &amp; loop closure for added wrist support and secure fit.</p>
@@ -82405,6 +82341,30 @@ https://www.playwell.co.uk/images/fgv15blue1_01.jpg
 ,,publish,,,"	fgv15bluel",,8,instock,,yes,74.99,,,,,,,,,fgv15blue,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	fgv15bluem",,0,outofstock,,yes,74.99,,,,,,,,,fgv15blue,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	fgv15bluexl",,0,outofstock,,yes,74.99,,,,,,,,,fgv15blue,,,,,,"X - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"8 Weapons Mongol Muay Thai Shorts - Black",8-weapons-mongol-muay-thai-shorts---black,publish,"<p>8 Weapons Strike Muay Thai Shorts Black</p>
+
+<p>&nbsp;</p>
+
+<p>The 8 WEAPONS Strike Shorts are high-quality and minimalistic fight shorts. The Strike Shorts are made out of high-quality Satin and are hold together by very reliable seams, long lasting is guaranteed. The high cut on the side gives you an ultimate feeling while doing kicks and knees.</p>
+
+<p><br />
+<br />
+The waistband is small and provide a very reliable fit. The short is finished by a small logo patch on the leg. This thing is fully made in Thailand in one of Bangkoks best manufactures for muay thai shorts. 100% satisfaction guaranteed - 8 WEAPONS Quality.</p>","<p>8 Weapons Strike Muay Thai Shorts Black</p>
+
+<p>&nbsp;</p>
+
+<p>The 8 WEAPONS Strike Shorts are high-quality and minimalistic fight shorts. The Strike Shorts are made out of high-quality Satin and are hold together by very reliable seams, long lasting is guaranteed. The high cut on the side gives you an ultimate feeling while doing kicks and knees.</p>
+
+<p><br />
+<br />
+The waistband is small and provide a very reliable fit. The short is finished by a small logo patch on the leg. This thing is fully made in Thailand in one of Bangkoks best manufactures for muay thai shorts. 100% satisfaction guaranteed - 8 WEAPONS Quality.</p>",8WEAPONSMTSMONGOL,visible,,,no,,,,0.35,"https://www.playwell.co.uk/images/MONGOL1.jpg
+https://www.playwell.co.uk/images/MONGOL1_01.jpg
+https://www.playwell.co.uk/images/MONGOL1_02.jpg
+https://www.playwell.co.uk/images/MONGOL1_03.jpg
+",taxable,"Standard rate",variable,"Muay Thai Shorts","Muay Thai Shorts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medium|Large|X Large",0|1|1,
+,,publish,,,8WEAPONSMTSMONGOLM,,4,instock,,yes,49.98,,,,,,,,,8WEAPONSMTSMONGOL,,,,,,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSMTSMONGOLL,,4,instock,,yes,49.98,,,,,,,,,8WEAPONSMTSMONGOL,,,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSMTSMONGOLXL,,4,instock,,yes,49.98,,,,,,,,,8WEAPONSMTSMONGOL,,,,,,"X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Twin Tiger Satin Muay Thai Competition Fight Shorts - Black/Blac",twin-tiger-satin-muay-thai-competition-fight-shorts---black/blac,publish,"<p>New Twin Tiger Muay Thai Shorts, Suitable for Both Competition and Training, Made from Premium Quality Satin Materials,</p>
 
 <p>The Sak Yant fight shorts impress with a classic Thai cut with a wide waistband and are made of light, tear-resistant material to offer you maximum performance in Thai boxing. Here in the popular traditional Sak Yant design from Thailand. The waistband can be folded over to make the shorts shorter. Thanks to the sublimation printing process, the Muay Thai shorts are extremely comfortable to wear and look good all the time. Lightweight Muay Thai Shorts Lightweight and tear-resistant Sublimated Printing</p>","<p>New Twin Tiger Muay Thai Shorts, Suitable for Both Competition and Training, Made from Premium Quality Satin Materials,</p>
@@ -82651,7 +82611,7 @@ Features:
     Universal Fit Design: Innovative back strap folds over multiple times to accommodate all calf sizes while ensuring a secure, snug fit
     Complete Pair: Sold as a pair for full leg protection
     Optimal Dimensions: Each guard measures 25 x 34 x 45 cm for comprehensive coverage
-    Whether you're a professional fighter or a dedicated practitioner of Muay Thai, kickboxing, or MMA, the Fairtex Calf Kick Protection provides the confidence you need to train harder and compete fearlessly.",FAIRTEXTPSP10,visible,2,instock,no,yes,244.98,,1,"https://www.playwell.co.uk/images/CALFKICK1.jpg
+    Whether you're a professional fighter or a dedicated practitioner of Muay Thai, kickboxing, or MMA, the Fairtex Calf Kick Protection provides the confidence you need to train harder and compete fearlessly.",FAIRTEXTPSP10,visible,1,instock,no,yes,244.98,,1,"https://www.playwell.co.uk/images/CALFKICK1.jpg
 https://www.playwell.co.uk/images/CALFKICK1_01.jpg
 https://www.playwell.co.uk/images/CALFKICK1_02.jpg
 https://www.playwell.co.uk/images/CALFKICK1_03.jpg
@@ -82733,7 +82693,7 @@ https://www.playwell.co.uk/images/TIGERTHAIPADS1_06.jpg
 ,,publish,,,"	FSHblack45",,14,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	FSHblack43",,37,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	FSHblack42",,35,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,"	FSHblack39",,19,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,"	FSHblack39",,18,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	FSHblack44",,11,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	FSHblack38",,9,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,publish,,,"	FSHblack41",,35,instock,,yes,26.99,,,,,,,,,FSHblack,,,,,,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -82866,9 +82826,9 @@ https://www.playwell.co.uk/images/shinpanther1_02.jpg
 https://www.playwell.co.uk/images/shinpanther1_03.jpg
 https://www.playwell.co.uk/images/shinpanther1_04.jpg
 ",taxable,"Standard rate",variable,"Muay Thai Shin Guards","Muay Thai Shin Guards",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small / Medium|Large / X Large|XX - Large",0|1|1,
-,,publish,,,8WEAPONSKIDSPANTHERSHINSM,,2,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSPANTHERSHIN,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSPANTHERSHINLXL,,2,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSPANTHERSHIN,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSPANTHERSHINXXL,,2,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSPANTHERSHIN,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSPANTHERSHINSM,,4,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSPANTHERSHIN,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSPANTHERSHINLXL,,4,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSPANTHERSHIN,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSPANTHERSHINXXL,,3,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSPANTHERSHIN,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "8 Weapons Kids Beastial Wolf Muay Thai Shin Guards",8-weapons-kids-beastial-wolf-muay-thai-shin-guards,publish,"<p>8 Weapons Kids Joe Muay Thai Shin Guards</p>
 
 <p>The 8 Weapons Kids Muay Thai shin guards are available in S/M and L/XL sizes specifically designed for children aged between 4-10 years old.</p>
@@ -82910,9 +82870,9 @@ https://www.playwell.co.uk/images/WOLFSHIN1_01.jpg
 https://www.playwell.co.uk/images/WOLFSHIN1_02.jpg
 https://www.playwell.co.uk/images/WOLFSHIN1_03.jpg
 ",taxable,"Standard rate",variable,"Muay Thai Shin Guards","Muay Thai Shin Guards",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Small / Medium|Large / X Large|XX - Large",0|1|1,
-,,publish,,,8WEAPONSKIDSWOLFSHINSM,,2,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSWOLFSHIN,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSWOLFSHINLXL,,1,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSWOLFSHIN,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,publish,,,8WEAPONSKIDSWOLFSHINXXL,,2,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSWOLFSHIN,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFSHINSM,,6,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSWOLFSHIN,,,,,,"Small / Medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFSHINLXL,,6,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSWOLFSHIN,,,,,,"Large / X Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,publish,,,8WEAPONSKIDSWOLFSHINXXL,,3,instock,,yes,39.99,,,,,,,,,8WEAPONSKIDSWOLFSHIN,,,,,,"XX - Large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Wushu Double Halberd Short Sticks Pair",wushu-double-halberd-short-sticks-pair,publish,"<p>The Danue (Single side) Halberds Made from stainless steel and Hardwood, head has a thrusting spear point and a curved cutting blade on one side. On the butt end of the halberd is a pointed counterweight. The shorter length of the handle allows the halberds to be dual wielded. Short Sticks Sold As pairs Total Length - 110cm Total Combined Weight: 1.95kg</p>
 
 <p>&nbsp;</p>
