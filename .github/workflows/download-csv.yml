@@ -2,7 +2,7 @@ name: Download Playwell CSV
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Runs every 6 hours
+    - cron: '3,33 * * * *'   # Runs at 3 and 33 minutes past every hour
   workflow_dispatch:          # Allows manual run from Actions tab
 
 jobs:
